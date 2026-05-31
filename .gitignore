@@ -227,3 +227,7 @@ __marimo__/
 database.db
 database_dev.db
 
+# Spotify token cache
+spotify_token.csv
+spotify_user_token.csv
+

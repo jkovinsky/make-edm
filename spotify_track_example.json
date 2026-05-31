@@ -1,0 +1,922 @@
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?offset=0&limit=10&query=artist%3AClaptone&type=track",
+    "items": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+              "id": "4mncDFjVLUa3s025Tct3Ry",
+              "name": "Claptone",
+              "type": "artist",
+              "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0OOjsSNzKmfzo1j6Z82PNG"
+          },
+          "href": "https://api.spotify.com/v1/albums/0OOjsSNzKmfzo1j6Z82PNG",
+          "id": "0OOjsSNzKmfzo1j6Z82PNG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273df3831a91bff179f086b5d69",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02df3831a91bff179f086b5d69",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851df3831a91bff179f086b5d69",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Charmer",
+          "release_date": "2015-10-16",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:0OOjsSNzKmfzo1j6Z82PNG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+            "id": "4mncDFjVLUa3s025Tct3Ry",
+            "name": "Claptone",
+            "type": "artist",
+            "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+            },
+            "href": "https://api.spotify.com/v1/artists/4q8SjmBr5X7DUmVvrnNrsd",
+            "id": "4q8SjmBr5X7DUmVvrnNrsd",
+            "name": "Nathan Nicholson",
+            "type": "artist",
+            "uri": "spotify:artist:4q8SjmBr5X7DUmVvrnNrsd"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 329537,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBENL1501365"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68Q6c22JNyLUlZYX4dE2tn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/68Q6c22JNyLUlZYX4dE2tn",
+        "id": "68Q6c22JNyLUlZYX4dE2tn",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Heartbeat",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:68Q6c22JNyLUlZYX4dE2tn"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+              "id": "4mncDFjVLUa3s025Tct3Ry",
+              "name": "Claptone",
+              "type": "artist",
+              "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0OOjsSNzKmfzo1j6Z82PNG"
+          },
+          "href": "https://api.spotify.com/v1/albums/0OOjsSNzKmfzo1j6Z82PNG",
+          "id": "0OOjsSNzKmfzo1j6Z82PNG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273df3831a91bff179f086b5d69",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02df3831a91bff179f086b5d69",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851df3831a91bff179f086b5d69",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Charmer",
+          "release_date": "2015-10-16",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:0OOjsSNzKmfzo1j6Z82PNG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+            "id": "4mncDFjVLUa3s025Tct3Ry",
+            "name": "Claptone",
+            "type": "artist",
+            "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05BpORreAobgNUA5feAsui"
+            },
+            "href": "https://api.spotify.com/v1/artists/05BpORreAobgNUA5feAsui",
+            "id": "05BpORreAobgNUA5feAsui",
+            "name": "JAW",
+            "type": "artist",
+            "uri": "spotify:artist:05BpORreAobgNUA5feAsui"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 242671,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "DEGL61500047"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4035yp8Z7EyAg3yDchzxA8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4035yp8Z7EyAg3yDchzxA8",
+        "id": "4035yp8Z7EyAg3yDchzxA8",
+        "is_local": false,
+        "is_playable": true,
+        "name": "No Eyes",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:4035yp8Z7EyAg3yDchzxA8"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+              "id": "4mncDFjVLUa3s025Tct3Ry",
+              "name": "Claptone",
+              "type": "artist",
+              "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
+          },
+          "href": "https://api.spotify.com/v1/albums/4D9GygCWZnsM3qD7xZpzDO",
+          "id": "4D9GygCWZnsM3qD7xZpzDO",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2733341c4db04b906d663498be1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e023341c4db04b906d663498be1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048513341c4db04b906d663498be1",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Wanderer",
+          "release_date": "2026-05-08",
+          "release_date_precision": "day",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:4D9GygCWZnsM3qD7xZpzDO"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+            "id": "4mncDFjVLUa3s025Tct3Ry",
+            "name": "Claptone",
+            "type": "artist",
+            "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195812,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "US39N2560060"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4YOSuGzpYJqyOH3RCe1Els",
+        "id": "4YOSuGzpYJqyOH3RCe1Els",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Wanderlust",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4YOSuGzpYJqyOH3RCe1Els"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+              },
+              "href": "https://api.spotify.com/v1/artists/5x0R3zoC09GMiRJomoexLV",
+              "id": "5x0R3zoC09GMiRJomoexLV",
+              "name": "nimino",
+              "type": "artist",
+              "uri": "spotify:artist:5x0R3zoC09GMiRJomoexLV"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+              "id": "4mncDFjVLUa3s025Tct3Ry",
+              "name": "Claptone",
+              "type": "artist",
+              "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/65bqoZMZIFV03JWG8tb59j"
+          },
+          "href": "https://api.spotify.com/v1/albums/65bqoZMZIFV03JWG8tb59j",
+          "id": "65bqoZMZIFV03JWG8tb59j",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2731c1289c553734763f4d0148b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e021c1289c553734763f4d0148b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048511c1289c553734763f4d0148b",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "I Only Smoke When I Drink (Claptone Remix)",
+          "release_date": "2024-11-07",
+          "release_date_precision": "day",
+          "total_tracks": 3,
+          "type": "album",
+          "uri": "spotify:album:65bqoZMZIFV03JWG8tb59j"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+            },
+            "href": "https://api.spotify.com/v1/artists/5x0R3zoC09GMiRJomoexLV",
+            "id": "5x0R3zoC09GMiRJomoexLV",
+            "name": "nimino",
+            "type": "artist",
+            "uri": "spotify:artist:5x0R3zoC09GMiRJomoexLV"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+            "id": "4mncDFjVLUa3s025Tct3Ry",
+            "name": "Claptone",
+            "type": "artist",
+            "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 185238,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBCFB2401217"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7t3bCDH5vjN3Huw1Tu4pZo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7t3bCDH5vjN3Huw1Tu4pZo",
+        "id": "7t3bCDH5vjN3Huw1Tu4pZo",
+        "is_local": false,
+        "is_playable": true,
+        "name": "I Only Smoke When I Drink - Claptone Remix",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7t3bCDH5vjN3Huw1Tu4pZo"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+              },
+              "href": "https://api.spotify.com/v1/artists/06nevPmNVfWUXyZkccahL8",
+              "id": "06nevPmNVfWUXyZkccahL8",
+              "name": "Gregory Porter",
+              "type": "artist",
+              "uri": "spotify:artist:06nevPmNVfWUXyZkccahL8"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2"
+          },
+          "href": "https://api.spotify.com/v1/albums/2IeDDT5i132tRkKHrdfWS2",
+          "id": "2IeDDT5i132tRkKHrdfWS2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734dc28ed3ad7f9c3ea4406e0d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e024dc28ed3ad7f9c3ea4406e0d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514dc28ed3ad7f9c3ea4406e0d",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Liquid Spirit (Claptone Remix)",
+          "release_date": "2015-07-17",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:2IeDDT5i132tRkKHrdfWS2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+            },
+            "href": "https://api.spotify.com/v1/artists/06nevPmNVfWUXyZkccahL8",
+            "id": "06nevPmNVfWUXyZkccahL8",
+            "name": "Gregory Porter",
+            "type": "artist",
+            "uri": "spotify:artist:06nevPmNVfWUXyZkccahL8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+            "id": "4mncDFjVLUa3s025Tct3Ry",
+            "name": "Claptone",
+            "type": "artist",
+            "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 383552,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "FRUM71500449"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6wp5tGVNQYpKJPo1s3WUEY",
+        "id": "6wp5tGVNQYpKJPo1s3WUEY",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Liquid Spirit - Claptone Remix",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6wp5tGVNQYpKJPo1s3WUEY"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+              "id": "4mncDFjVLUa3s025Tct3Ry",
+              "name": "Claptone",
+              "type": "artist",
+              "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS"
+          },
+          "href": "https://api.spotify.com/v1/albums/74FvKkpoMSA8IXT1AW70ZS",
+          "id": "74FvKkpoMSA8IXT1AW70ZS",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273dd01eb0624f8f86ea0bf5737",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02dd01eb0624f8f86ea0bf5737",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851dd01eb0624f8f86ea0bf5737",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "No Eyes",
+          "release_date": "2013-09-30",
+          "release_date_precision": "day",
+          "total_tracks": 6,
+          "type": "album",
+          "uri": "spotify:album:74FvKkpoMSA8IXT1AW70ZS"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+            "id": "4mncDFjVLUa3s025Tct3Ry",
+            "name": "Claptone",
+            "type": "artist",
+            "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05BpORreAobgNUA5feAsui"
+            },
+            "href": "https://api.spotify.com/v1/artists/05BpORreAobgNUA5feAsui",
+            "id": "05BpORreAobgNUA5feAsui",
+            "name": "JAW",
+            "type": "artist",
+            "uri": "spotify:artist:05BpORreAobgNUA5feAsui"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 204992,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "DEGL61300073"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/55bfXeq8wXtyKQtSZB3KYF",
+        "id": "55bfXeq8wXtyKQtSZB3KYF",
+        "is_local": false,
+        "is_playable": true,
+        "name": "No Eyes - Radio Edit",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:55bfXeq8wXtyKQtSZB3KYF"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
+              },
+              "href": "https://api.spotify.com/v1/artists/0VN7mz2rIvpw0FOvZV6p25",
+              "id": "0VN7mz2rIvpw0FOvZV6p25",
+              "name": "Alaia & Gallo",
+              "type": "artist",
+              "uri": "spotify:artist:0VN7mz2rIvpw0FOvZV6p25"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6ce8K3eD9Q4ErcmCOc5Tzq"
+          },
+          "href": "https://api.spotify.com/v1/albums/6ce8K3eD9Q4ErcmCOc5Tzq",
+          "id": "6ce8K3eD9Q4ErcmCOc5Tzq",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a93ce64df2b0ac699424b9a8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02a93ce64df2b0ac699424b9a8",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851a93ce64df2b0ac699424b9a8",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Who Is He? (Remixes)",
+          "release_date": "2016-04-22",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:6ce8K3eD9Q4ErcmCOc5Tzq"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
+            },
+            "href": "https://api.spotify.com/v1/artists/0VN7mz2rIvpw0FOvZV6p25",
+            "id": "0VN7mz2rIvpw0FOvZV6p25",
+            "name": "Alaia & Gallo",
+            "type": "artist",
+            "uri": "spotify:artist:0VN7mz2rIvpw0FOvZV6p25"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5k8MFak0TtbPb5WQHIprYT"
+            },
+            "href": "https://api.spotify.com/v1/artists/5k8MFak0TtbPb5WQHIprYT",
+            "id": "5k8MFak0TtbPb5WQHIprYT",
+            "name": "Kevin Haden",
+            "type": "artist",
+            "uri": "spotify:artist:5k8MFak0TtbPb5WQHIprYT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+            "id": "4mncDFjVLUa3s025Tct3Ry",
+            "name": "Claptone",
+            "type": "artist",
+            "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 220673,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBCPZ1618951"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6g53yVGhNqP13I3Rg6fifr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6g53yVGhNqP13I3Rg6fifr",
+        "id": "6g53yVGhNqP13I3Rg6fifr",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Who Is He? - Claptone Remix",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6g53yVGhNqP13I3Rg6fifr"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+              "id": "4mncDFjVLUa3s025Tct3Ry",
+              "name": "Claptone",
+              "type": "artist",
+              "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+              },
+              "href": "https://api.spotify.com/v1/artists/75EZuo5MHV2572NRpMWotC",
+              "id": "75EZuo5MHV2572NRpMWotC",
+              "name": "Crystal Fighters",
+              "type": "artist",
+              "uri": "spotify:artist:75EZuo5MHV2572NRpMWotC"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
+          },
+          "href": "https://api.spotify.com/v1/albums/2OkJyJE2eByZ7jg46Gqsy5",
+          "id": "2OkJyJE2eByZ7jg46Gqsy5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27319720c4d529b833fd9ac4e36",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0219720c4d529b833fd9ac4e36",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485119720c4d529b833fd9ac4e36",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Turn Up The Love",
+          "release_date": "2025-07-04",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:2OkJyJE2eByZ7jg46Gqsy5"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+            "id": "4mncDFjVLUa3s025Tct3Ry",
+            "name": "Claptone",
+            "type": "artist",
+            "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+            },
+            "href": "https://api.spotify.com/v1/artists/75EZuo5MHV2572NRpMWotC",
+            "id": "75EZuo5MHV2572NRpMWotC",
+            "name": "Crystal Fighters",
+            "type": "artist",
+            "uri": "spotify:artist:75EZuo5MHV2572NRpMWotC"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 186728,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "US38Y2548358"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6mPVFIUE1SamSyfWGju8Y4",
+        "id": "6mPVFIUE1SamSyfWGju8Y4",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Turn Up The Love",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6mPVFIUE1SamSyfWGju8Y4"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+              },
+              "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+              "id": "3PhoLpVuITZKcymswpck5b",
+              "name": "Elton John",
+              "type": "artist",
+              "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+              },
+              "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+              "id": "6M2wZ9GZgrQXHCFfjv46we",
+              "name": "Dua Lipa",
+              "type": "artist",
+              "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+              "id": "4mncDFjVLUa3s025Tct3Ry",
+              "name": "Claptone",
+              "type": "artist",
+              "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5JBgwRYimrx2TNirTcbzzh"
+          },
+          "href": "https://api.spotify.com/v1/albums/5JBgwRYimrx2TNirTcbzzh",
+          "id": "5JBgwRYimrx2TNirTcbzzh",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2738b5c6d6bb24f7e5bb43b8b44",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e028b5c6d6bb24f7e5bb43b8b44",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048518b5c6d6bb24f7e5bb43b8b44",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Cold Heart (Claptone Remix)",
+          "release_date": "2021-10-08",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:5JBgwRYimrx2TNirTcbzzh"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+            "id": "3PhoLpVuITZKcymswpck5b",
+            "name": "Elton John",
+            "type": "artist",
+            "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+            },
+            "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+            "id": "6M2wZ9GZgrQXHCFfjv46we",
+            "name": "Dua Lipa",
+            "type": "artist",
+            "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+            "id": "4mncDFjVLUa3s025Tct3Ry",
+            "name": "Claptone",
+            "type": "artist",
+            "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 183807,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM72105701"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ck2KxuP99yTwWzdf8piiC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ck2KxuP99yTwWzdf8piiC",
+        "id": "3ck2KxuP99yTwWzdf8piiC",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Cold Heart - Claptone Remix",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3ck2KxuP99yTwWzdf8piiC"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+              },
+              "href": "https://api.spotify.com/v1/artists/0bzfPKdbXL5ezYW2z3UGQj",
+              "id": "0bzfPKdbXL5ezYW2z3UGQj",
+              "name": "Michael Kiwanuka",
+              "type": "artist",
+              "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+              "id": "4mncDFjVLUa3s025Tct3Ry",
+              "name": "Claptone",
+              "type": "artist",
+              "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0"
+          },
+          "href": "https://api.spotify.com/v1/albums/24U03pgag0P2AvPxzbBeH0",
+          "id": "24U03pgag0P2AvPxzbBeH0",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736cf43b2574934016729090b3",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026cf43b2574934016729090b3",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516cf43b2574934016729090b3",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "You Ain't The Problem (Claptone Remix)",
+          "release_date": "2019-10-10",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:24U03pgag0P2AvPxzbBeH0"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+            },
+            "href": "https://api.spotify.com/v1/artists/0bzfPKdbXL5ezYW2z3UGQj",
+            "id": "0bzfPKdbXL5ezYW2z3UGQj",
+            "name": "Michael Kiwanuka",
+            "type": "artist",
+            "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+            "id": "4mncDFjVLUa3s025Tct3Ry",
+            "name": "Claptone",
+            "type": "artist",
+            "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 164714,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71905725"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7BFXQINSdAqgOmMydTGnKG",
+        "id": "7BFXQINSdAqgOmMydTGnKG",
+        "is_local": false,
+        "is_playable": true,
+        "name": "You Ain't The Problem - Claptone Remix",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7BFXQINSdAqgOmMydTGnKG"
+      }
+    ],
+    "limit": 10,
+    "next": "https://api.spotify.com/v1/search?offset=10&limit=10&query=artist%3AClaptone&type=track",
+    "offset": 0,
+    "previous": null,
+    "total": 100
+  }
+}

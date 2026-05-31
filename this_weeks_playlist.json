@@ -1,0 +1,234 @@
+[
+    {
+        "id": "4sTQVOfp9vEMCemLw50sbu",
+        "term": "Galantis",
+        "match_name": "Galantis",
+        "date": "2026-05-27T15:00:00Z",
+        "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu",
+        "popularity": 8
+    },
+    {
+        "id": "7pMVbhmCUzHZOn7Jou35Vv",
+        "term": "Viciios",
+        "match_name": "VICIIOS",
+        "date": "2026-05-30T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7pMVbhmCUzHZOn7Jou35Vv",
+        "popularity": 10
+    },
+    {
+        "id": "6fcTRFpz0yH79qSKfof7lp",
+        "term": "Seven Lions",
+        "match_name": "Seven Lions",
+        "date": "2026-05-29T19:30:00Z",
+        "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp",
+        "popularity": 8
+    },
+    {
+        "id": "3a9qv6NLHnsVxJUtKOMHvD",
+        "term": "The Glitch Mob",
+        "match_name": "The Glitch Mob",
+        "date": "2026-05-30T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD",
+        "popularity": 7
+    },
+    {
+        "id": "21dVknSLCsK37cWozWDZZS",
+        "term": "Matt Sassari",
+        "match_name": "Matt Sassari",
+        "date": "2026-05-29T21:30:00Z",
+        "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS",
+        "popularity": 6
+    },
+    {
+        "id": "4qLwtWhlhyAoQ4S9mSrDW9",
+        "term": "Odd Mob",
+        "match_name": "Odd Mob",
+        "date": "2026-05-30T21:00:00Z",
+        "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9",
+        "popularity": 6
+    },
+    {
+        "id": "3xnDktxhudJR2Wv3HZDQ9W",
+        "term": "John Digweed",
+        "match_name": "John Digweed",
+        "date": "2026-05-29T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3xnDktxhudJR2Wv3HZDQ9W",
+        "popularity": 6
+    },
+    {
+        "id": "74xeHqz5Ap8ZHq69TkxI0r",
+        "term": "Bonnie x Clyde",
+        "match_name": "BONNIE X CLYDE",
+        "date": "2026-05-27T15:00:00Z",
+        "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r",
+        "popularity": 5
+    },
+    {
+        "id": "1OmOdgwIzub8DYPxQYbbbi",
+        "term": "Will Clarke",
+        "match_name": "Will Clarke",
+        "date": "2026-05-29T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi",
+        "popularity": 6
+    },
+    {
+        "id": "5wbf52LA6kcaboHSN6NEF1",
+        "term": "Pedro Sampaio",
+        "match_name": "PEDRO SAMPAIO",
+        "date": "2026-05-30T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1",
+        "popularity": 7
+    },
+    {
+        "id": "1496XxkytEk26FUJLfpVZr",
+        "term": "CloZee",
+        "match_name": "CloZee",
+        "date": "2026-05-30T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr",
+        "popularity": 6
+    },
+    {
+        "id": "3JlN0MeWVJq0vjvsvWCRZ5",
+        "term": "Sosa",
+        "match_name": "SOSA",
+        "date": "2026-05-30T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5",
+        "popularity": 6
+    },
+    {
+        "id": "3oKnyRhYWzNsTiss5n4Z1J",
+        "term": "Lp Giobbi",
+        "match_name": "LP Giobbi",
+        "date": "2026-05-29T22:00:00Z",
+        "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J",
+        "popularity": 6
+    },
+    {
+        "id": "4mncDFjVLUa3s025Tct3Ry",
+        "term": "Claptone",
+        "match_name": "Claptone",
+        "date": "2026-05-27T15:00:00Z",
+        "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry",
+        "popularity": 7
+    },
+    {
+        "id": "1B5MGDIt38Z6cUdghq8SaV",
+        "term": "Cool Maritime",
+        "match_name": "Cool Maritime",
+        "date": "2026-05-30T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1B5MGDIt38Z6cUdghq8SaV",
+        "popularity": 3
+    },
+    {
+        "id": "35vEDafV45d7QN0D5rRwYV",
+        "term": "Ignez",
+        "match_name": "Ignez",
+        "date": "2026-05-30T00:00:00Z",
+        "url": "https://open.spotify.com/artist/35vEDafV45d7QN0D5rRwYV",
+        "popularity": 3
+    },
+    {
+        "id": "4URGzwxaOCq4ASrH5QlNqa",
+        "term": "Male Tears",
+        "match_name": "Male Tears",
+        "date": "2026-05-27T20:00:00Z",
+        "url": "https://open.spotify.com/artist/4URGzwxaOCq4ASrH5QlNqa",
+        "popularity": 3
+    },
+    {
+        "id": "33KoTOB6gxLIYPsAfkPx9z",
+        "term": "Oxossi",
+        "match_name": "Oxossi",
+        "date": "2026-05-31T00:00:00Z",
+        "url": "https://open.spotify.com/artist/33KoTOB6gxLIYPsAfkPx9z",
+        "popularity": 3
+    },
+    {
+        "id": "0J6ZEXmLQfZMeHBoa4JZTH",
+        "term": "Sidney Charles",
+        "match_name": "Sidney Charles",
+        "date": "2026-05-30T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH",
+        "popularity": 4
+    },
+    {
+        "id": "523iXWyHL26prJR3GKjRhx",
+        "term": "Starjunk 95",
+        "match_name": "Starjunk 95",
+        "date": "2026-05-29T22:00:00Z",
+        "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx",
+        "popularity": 3
+    },
+    {
+        "id": "1hg70WTHwGUQ7XDbjy3szw",
+        "term": "My Friend",
+        "match_name": "My Friend",
+        "date": "2026-05-30T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw",
+        "popularity": 3
+    },
+    {
+        "id": "3O3qPC1hmSp7442HYefx5w",
+        "term": "Lords Of Acid",
+        "match_name": "Lords Of Acid",
+        "date": "2026-05-31T18:00:00Z",
+        "url": "https://open.spotify.com/artist/3O3qPC1hmSp7442HYefx5w",
+        "popularity": 4
+    },
+    {
+        "id": "5MHwARUytljJHQDYzBlyG5",
+        "term": "Barbara Lago",
+        "match_name": "Barbara Lago",
+        "date": "2026-05-29T21:00:00Z",
+        "url": "https://open.spotify.com/artist/5MHwARUytljJHQDYzBlyG5",
+        "popularity": 3
+    },
+    {
+        "id": "3b014NFgLGBMV2q0sGyFQM",
+        "term": "Saint Pepsi",
+        "match_name": "Saint Pepsi",
+        "date": "2026-05-30T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3b014NFgLGBMV2q0sGyFQM",
+        "popularity": 3
+    },
+    {
+        "id": "4F8JGeO6bJO7Z309mxHlP0",
+        "term": "Dack Janiels",
+        "match_name": "Dack Janiels",
+        "date": "2026-05-29T21:00:00Z",
+        "url": "https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0",
+        "popularity": 4
+    },
+    {
+        "id": "3jTvKdo9AOYYdjBTzZZeY9",
+        "term": "Jimni Cricket",
+        "match_name": "Jimni Cricket",
+        "date": "2026-05-30T18:00:00Z",
+        "url": "https://open.spotify.com/artist/3jTvKdo9AOYYdjBTzZZeY9",
+        "popularity": 3
+    },
+    {
+        "id": "71vVmHeNgCVSa5SVmfvscU",
+        "term": "Saxon",
+        "match_name": "Saxon",
+        "date": "2026-05-29T00:00:00Z",
+        "url": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU",
+        "popularity": 3
+    },
+    {
+        "id": "61u2rGJj9r6d7utXK0J0oS",
+        "term": "Sodown",
+        "match_name": "SoDown",
+        "date": "2026-05-29T00:00:00Z",
+        "url": "https://open.spotify.com/artist/61u2rGJj9r6d7utXK0J0oS",
+        "popularity": 4
+    },
+    {
+        "id": "28H813zcseKDMDftpws5ZC",
+        "term": "Rzrkt",
+        "match_name": "RZRKT",
+        "date": "2026-05-29T21:00:00Z",
+        "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC",
+        "popularity": 3
+    }
+]

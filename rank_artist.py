@@ -6,27 +6,43 @@ from typing import List, Optional
 from datetime import datetime
 import os, json
 
-BATCH_FILE = 'my-batch-requests.jsonl'
+def printProgressBar(iteration, total, prefix='', suffix='', decimals=1, length=100, fill='█', printEnd="\r"):
+    percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
+    filledLength = int(length * iteration // total)
+    bar = fill * filledLength + '-' * (length - filledLength)
+    print(f'\r{prefix} |{bar}| {percent}% {suffix}', end=printEnd, flush=True)
+    if iteration == total:
+        print()
 
-PROMPT = """Extract the artist names and date of performance from the following event listing.
-            If there is a date range, use the last date.
-            Convert the date to YYYY-MM-DD format (assume the current year is 2026).
-            If there is no artist name, return an empty list.
-        """
+def convert(seconds):
+    min, sec = divmod(seconds, 60)
+    hour, min = divmod(min, 60)
+    return "%02d:%02d:%02d" % (hour, min, sec)
 
-class EventInfo(BaseModel):
-    artists: List[str] = Field(description="List of artist names extracted from the event listing")
-    date: datetime = Field(description="Date of performance in YYYY-MM-DD format")
+PROMPT = """
+Rank the given electronic music artist on a scale of 1-10 based on the following schema:
 
-def batch_requests(events : list[dict]) -> list[dict]:
+Score Range | What it Means | Examples
+8 - 10      | Global Superstars / Household Names | Martin Garrix, Tiësto, Skrillex, Armin van Buuren
+5 - 7       | Mainstream Niche / Major Indie Acts | Fred again.., John Summit, RÜFÜS DU SOL, Subtronics
+3 - 4       | Cult Favorites / Subgenre Royalty   | Magic Sword, Gunship, Sara Landry, Lane 8
+1 - 2       | Underground / Local Scene           | Up-and-coming club DJs, producers with small Bandcamp pages
+
+Artist to rank: [INSERT EDM ARTIST NAME HERE]
+"""
+
+class Ranking(BaseModel):
+    score: int = Field(description="The score of the artist, dj, or producer")
+
+def batch_requests(artists : list[dict]) -> list[dict]:
     try:
         inline_requests = []
-        for i, event in enumerate(events):
+        for i, artist in enumerate(artists):
             req = {
-                "contents": [{"parts": [{"text": f"{PROMPT}\n\nEvent listing: {event['date']} | {event['name']}"}]}],
+                "contents": [{"parts": [{"text": PROMPT.replace("[INSERT EDM ARTIST NAME HERE]", artist["match_name"])}]}],
                 'config': {
                     "response_mime_type": "application/json",
-                    "response_schema": list[EventInfo]
+                    "response_schema": Ranking
                 }
             }
             inline_requests.append(req)
@@ -36,7 +52,7 @@ def batch_requests(events : list[dict]) -> list[dict]:
     return inline_requests
 
 
-def parse_artist(events : list[dict]) -> list[dict]:
+def rank_artists(events : list[dict]) -> list[dict]:
     date_now = datetime.now().strftime("%Y-%m-%d")
     client = genai.Client(api_key=os.getenv("GOOGLE_GEMINI_API_KEY"))
     client_response = []
@@ -63,9 +79,13 @@ def parse_artist(events : list[dict]) -> list[dict]:
         while True:
             batch_job_inline = client.batches.get(name=job_name)
             if batch_job_inline.state.name in ('JOB_STATE_SUCCEEDED', 'JOB_STATE_FAILED', 'JOB_STATE_CANCELLED', 'JOB_STATE_EXPIRED'):
+                print()
                 break
-            print(f"Job not finished. Current state: {batch_job_inline.state.name}. Waiting 30 seconds...")
-            time.sleep(30)
+            wait = 30
+            for elapsed in range(wait):
+                remaining = wait - elapsed
+                printProgressBar(elapsed, wait, prefix=f'{batch_job_inline.state.name}:', suffix=f'{convert(remaining)} remaining', length=40)
+                time.sleep(1)
              
         # print the response
         for i, inline_response in enumerate(batch_job_inline.dest.inlined_responses, start=1):
@@ -89,6 +109,23 @@ def parse_artist(events : list[dict]) -> list[dict]:
     
     with open('candidates.json', 'w') as f:
         json.dump(client_response, f, indent=4)
-        
+
     return client_response
-    
+
+
+if __name__ == "__main__":
+    from dotenv import load_dotenv
+    load_dotenv()
+
+    with open('spotify_results.json', 'r') as f:
+        artists = json.load(f)
+
+    scores = rank_artists(artists)
+
+    for artist, result in zip(artists, scores):
+        artist['popularity'] = result.get('score')
+
+    with open('spotify_results.json', 'w') as f:
+        json.dump(artists, f, indent=4)
+
+    print(f"Updated popularity for {len(scores)} artists.")

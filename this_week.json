@@ -44,15 +44,16 @@
                 "Claptone",
                 "Bonnie x Clyde"
             ],
-            "date": "2026-05-27T00:00:00Z"
+            "date": "2026-05-27T15:00:00Z"
         }
     ],
     [
         {
             "artists": [
+                "Flowtoys",
                 "Yerba"
             ],
-            "date": "2026-05-27T00:00:00Z"
+            "date": "2026-05-27T18:00:00Z"
         }
     ],
     [
@@ -91,7 +92,7 @@
                 "Joey Trip",
                 "Bay B Sol"
             ],
-            "date": "2026-05-27T21:00:00Z"
+            "date": "2026-05-27T00:00:00Z"
         }
     ],
     [
@@ -99,7 +100,7 @@
             "artists": [
                 "Nino Msk"
             ],
-            "date": "2026-05-27T22:00:00Z"
+            "date": "2026-05-27T00:00:00Z"
         }
     ],
     [
@@ -137,7 +138,7 @@
             "artists": [
                 "Suade"
             ],
-            "date": "2026-05-28T00:00:00Z"
+            "date": "2026-05-28T21:00:00Z"
         }
     ],
     [
@@ -155,7 +156,7 @@
                 "Finishher",
                 "Tom Marsi"
             ],
-            "date": "2026-05-28T00:00:00Z"
+            "date": "2026-05-28T21:00:00Z"
         }
     ],
     [
@@ -191,8 +192,7 @@
     [
         {
             "artists": [
-                "Space Ribbon",
-                "Friends"
+                "Space Ribbon"
             ],
             "date": "2026-05-28T21:30:00Z"
         }
@@ -202,7 +202,7 @@
             "artists": [
                 "Blood Suckers"
             ],
-            "date": "2026-05-28T22:00:00Z"
+            "date": "2026-05-28T00:00:00Z"
         }
     ],
     [
@@ -218,7 +218,7 @@
             "artists": [
                 "Seven Lions"
             ],
-            "date": "2026-05-29T00:00:00Z"
+            "date": "2026-05-29T19:30:00Z"
         }
     ],
     [
@@ -227,7 +227,7 @@
                 "ddwy",
                 "Wyllie"
             ],
-            "date": "2026-05-29T00:00:00Z"
+            "date": "2026-05-29T19:30:00Z"
         }
     ],
     [
@@ -257,7 +257,7 @@
             "artists": [
                 "Yibing"
             ],
-            "date": "2026-05-29T21:00:00Z"
+            "date": "2026-05-29T00:00:00Z"
         }
     ],
     [
@@ -293,14 +293,12 @@
             "artists": [
                 "Barbara Lago"
             ],
-            "date": "2026-05-29T00:00:00Z"
+            "date": "2026-05-29T21:00:00Z"
         }
     ],
     [
         {
-            "artists": [
-                "Funk Stop III"
-            ],
+            "artists": [],
             "date": "2026-05-29T00:00:00Z"
         }
     ],
@@ -316,7 +314,7 @@
     [
         {
             "artists": [
-                "Estrellitas Pt2",
+                "Estrellitas",
                 "Juicy Chulitas"
             ],
             "date": "2026-05-29T00:00:00Z"
@@ -335,7 +333,7 @@
             "artists": [
                 "Tmple"
             ],
-            "date": "2026-05-29T21:00:00Z"
+            "date": "2026-05-29T00:00:00Z"
         }
     ],
     [
@@ -371,7 +369,6 @@
     [
         {
             "artists": [
-                "Movement Ecstatic Dance SF",
                 "Vesica"
             ],
             "date": "2026-05-31T00:00:00Z"
@@ -396,7 +393,7 @@
                 "Mirasmokes",
                 "Singe"
             ],
-            "date": "2026-05-31T13:00:00Z"
+            "date": "2026-05-31T00:00:00Z"
         }
     ],
     [
@@ -456,7 +453,6 @@
     [
         {
             "artists": [
-                "Sampphire",
                 "Vegapunk",
                 "Sin Souler"
             ],
@@ -468,7 +464,7 @@
             "artists": [
                 "Bumpsumn"
             ],
-            "date": "2026-05-29T00:00:00Z"
+            "date": "2026-05-29T22:00:00Z"
         }
     ],
     [
@@ -501,7 +497,8 @@
         {
             "artists": [
                 "Badsista",
-                "Mad Miran B2B Pariah",
+                "Mad Miran",
+                "Pariah",
                 "DJ Deadname",
                 "Likeholywine",
                 "Nonsuit",
@@ -530,7 +527,7 @@
                 "Jordy",
                 "Saxon"
             ],
-            "date": "2026-05-29T22:00:00Z"
+            "date": "2026-05-29T00:00:00Z"
         }
     ],
     [
@@ -663,7 +660,7 @@
             "artists": [
                 "Dance The Revolution"
             ],
-            "date": "2026-05-30T18:00:00Z"
+            "date": "2026-05-30T00:00:00Z"
         }
     ],
     [
@@ -679,13 +676,14 @@
                 "Rafer Rawb",
                 "Thug Shells"
             ],
-            "date": "2026-05-30T00:00:00Z"
+            "date": "2026-05-30T18:00:00Z"
         }
     ],
     [
         {
             "artists": [
-                "Opulent Temple"
+                "Opulent Temple",
+                "The Box Shop"
             ],
             "date": "2026-05-30T00:00:00Z"
         }
@@ -712,7 +710,7 @@
             "artists": [
                 "Ddwy"
             ],
-            "date": "2026-05-30T00:00:00Z"
+            "date": "2026-05-30T21:00:00Z"
         }
     ],
     [
@@ -720,7 +718,7 @@
             "artists": [
                 "Odd Mob"
             ],
-            "date": "2026-05-30T00:00:00Z"
+            "date": "2026-05-30T21:00:00Z"
         }
     ],
     [
@@ -729,7 +727,7 @@
                 "Yoi Toki",
                 "Saint Pepsi"
             ],
-            "date": "2026-05-30T21:00:00Z"
+            "date": "2026-05-30T00:00:00Z"
         }
     ],
     [
@@ -739,7 +737,7 @@
                 "Kowta",
                 "False Profit"
             ],
-            "date": "2026-05-30T00:00:00Z"
+            "date": "2026-05-30T21:00:00Z"
         }
     ],
     [
@@ -759,7 +757,7 @@
                 "Garrison",
                 "93FM"
             ],
-            "date": "2026-05-30T00:00:00Z"
+            "date": "2026-05-30T21:00:00Z"
         }
     ],
     [
@@ -767,7 +765,7 @@
             "artists": [
                 "Death Guild"
             ],
-            "date": "2026-05-30T00:00:00Z"
+            "date": "2026-05-30T21:00:00Z"
         }
     ],
     [
@@ -784,7 +782,7 @@
             "artists": [
                 "Mr. Bill"
             ],
-            "date": "2026-05-30T21:00:00Z"
+            "date": "2026-05-30T00:00:00Z"
         }
     ],
     [
@@ -825,7 +823,7 @@
                 "WOCKIE",
                 "Profesito"
             ],
-            "date": "2026-05-30T21:00:00Z"
+            "date": "2026-05-30T00:00:00Z"
         }
     ],
     [
@@ -876,7 +874,7 @@
                 "Jeyd",
                 "Seira"
             ],
-            "date": "2026-05-30T00:00:00Z"
+            "date": "2026-05-30T21:00:00Z"
         }
     ],
     [
@@ -898,13 +896,13 @@
             "artists": [
                 "Body Problem"
             ],
-            "date": "2026-05-30T00:00:00Z"
+            "date": "2026-05-30T21:00:00Z"
         }
     ],
     [
         {
             "artists": [],
-            "date": "2026-05-30T00:00:00Z"
+            "date": "2026-05-30T21:00:00Z"
         }
     ],
     [
@@ -922,7 +920,7 @@
             "artists": [
                 "The Glitch Mob"
             ],
-            "date": "2026-05-30T21:30:00Z"
+            "date": "2026-05-30T00:00:00Z"
         }
     ],
     [
@@ -955,7 +953,7 @@
                 "Mina",
                 "Flow State"
             ],
-            "date": "2026-05-30T00:00:00Z"
+            "date": "2026-05-30T22:00:00Z"
         }
     ],
     [
@@ -969,7 +967,7 @@
     [
         {
             "artists": [],
-            "date": "2026-05-30T22:00:00Z"
+            "date": "2026-05-30T00:00:00Z"
         }
     ],
     [
@@ -981,7 +979,7 @@
                 "Rayreck",
                 "DJ Saratonin"
             ],
-            "date": "2026-05-30T00:00:00Z"
+            "date": "2026-05-30T22:00:00Z"
         }
     ],
     [
