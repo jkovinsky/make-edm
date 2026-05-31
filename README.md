@@ -27,7 +27,7 @@ This pipeline assumes you have already:
 - Created a [Spotify Developer](https://developer.spotify.com/dashboard) project and obtained a client ID and secret
 - Created a [Google Gemini](https://aistudio.google.com/app/apikey) API key
 
-Copy `.env` and fill in:
+Create `.env` and fill in:
 
 ```
 SPOTIFY_CLIENT_ID=
