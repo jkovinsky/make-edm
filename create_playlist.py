@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from flask import Flask, request, redirect, jsonify, session, render_template_string
-import requests, os, base64, time, csv, urllib.parse, json
+import requests, os, base64, time, csv, urllib.parse, json, argparse
 from datetime import datetime
 
 load_dotenv()
@@ -13,18 +13,16 @@ REDIRECT_URI = 'http://127.0.0.1:5001/callback'
 AUTH_URL = 'https://accounts.spotify.com/authorize'
 TOKEN_URL = 'https://accounts.spotify.com/api/token'
 API_BASE_URL = 'https://api.spotify.com/v1'
-TESTING = '4mncDFjVLUa3s025Tct3Ry'
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--city', required=True, help='City name (e.g. "Los Angeles")')
+parser.add_argument('--week', required=True, help='Week range folder (e.g. "2026-05-25_2026-05-31")')
+args, _ = parser.parse_known_args()
+
+DATA_DIR = os.path.join('cities', args.city, args.week)
 
 app = Flask(__name__)
-app.secret_key = '53df9b8c-8c9e-4a1b-9d2e-1a2b3c4d5e6f'  # Replace with a secure random key in production
-
-def get_week_range():
-    with open('spotify_results.json', 'r') as f:
-        artists = json.load(f)
-    
-    dates = [datetime.strptime(artist['date'].split('T')[0], "%Y-%m-%d") for artist in artists]
-
-    return str(min(dates)).split(' ')[0],  str(max(dates)).split(' ')[0]
+app.secret_key = '53df9b8c-8c9e-4a1b-9d2e-1a2b3c4d5e6f'
 
 @app.route('/')
 def index():
@@ -109,10 +107,10 @@ def create_playlist():
         'Content-Type' : "application/json"
     }
 
-    start_date, end_date = get_week_range()
+    start_date, end_date = args.week.split('_')
 
-    name = f"Los Angeles/SoCal EDM: {start_date} - {end_date}"
-    description = "A few songs from artists performing in Los Angeles/SoCal that I discovered this week from 19hz"
+    name = f"{args.city} EDM: {start_date} - {end_date}"
+    description = f"A few songs from artists performing in {args.city} this week, discovered via 19hz"
     body = {
         "name" : name,
         "description" : description,
@@ -120,8 +118,12 @@ def create_playlist():
     }
 
     response = requests.post(API_BASE_URL + '/me/playlists', headers=headers, json=body)
-    playlist_id = response.json()["id"]
-    with open('tracks_this_week.json', 'r') as f:
+    playlist_data = response.json()
+    if 'id' not in playlist_data:
+        return jsonify({"error": "Failed to create playlist", "details": playlist_data})
+    playlist_id = playlist_data['id']
+
+    with open(os.path.join(DATA_DIR, 'tracks_this_week.json'), 'r') as f:
         tracks = json.load(f)
 
     body = {

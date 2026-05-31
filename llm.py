@@ -36,7 +36,7 @@ def batch_requests(events : list[dict]) -> list[dict]:
     return inline_requests
 
 
-def parse_artist(events : list[dict]) -> list[dict]:
+def parse_artist(events: list[dict], output_dir: str = '.') -> list[dict]:
     date_now = datetime.now().strftime("%Y-%m-%d")
     client = genai.Client(api_key=os.getenv("GOOGLE_GEMINI_API_KEY"))
     client_response = []
@@ -87,8 +87,8 @@ def parse_artist(events : list[dict]) -> list[dict]:
         print(f"Unexpected: {error}")
         return client_response
     
-    with open('candidates.json', 'w') as f:
+    with open(os.path.join(output_dir, 'candidates.json'), 'w') as f:
         json.dump(client_response, f, indent=4)
-        
+
     return client_response
     

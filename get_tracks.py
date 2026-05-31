@@ -52,7 +52,7 @@ def ensure_token():
 
     return access_token
 
-def get_tracks(artists, token):
+def get_tracks(artists, token, output_dir: str = '.'):
     headers = {'Authorization' : f'Bearer {token}'}
     spotify_track_uris = []
 
@@ -66,7 +66,7 @@ def get_tracks(artists, token):
             continue
 
         response = requests.get(API_BASE_URL + '/search', headers=headers,
-                                params={"q": artist['match_name'], "type": "track", "limit": limit})
+                                params={"q": f"artist:{artist['match_name']}", "type": "track", "limit": limit})
         time.sleep(1)
 
         if not response.ok:
@@ -82,14 +82,17 @@ def get_tracks(artists, token):
                 ids_on_track = [artist_item['id'] for artist_item in artists_on_track]
                 if artist_id in ids_on_track:
                     tracks_to_choose_from.append(item['uri'])
-        # ammount of tracks from artist to add to playlist      
-        weight = next((n for (low, high), n in weights.items() if score and low <= score <= high), 0)
-        track_uris = random.choices(tracks_to_choose_from, k=weight)
-        # add random uris from artist
-        for track_uri in track_uris:
-            spotify_track_uris.append(track_uri)
+        # ammount of tracks from artist to add to playlist 
+        if tracks_to_choose_from:     
+            weight = next((n for (low, high), n in weights.items() if score and low <= score <= high), 0)
+            track_uris = random.choices(tracks_to_choose_from, k=weight)
+            # add random uris from artist
+            for track_uri in track_uris:
+                spotify_track_uris.append(track_uri)
+        else:
+            print(f"no tracks found for {artist_id}")
 
-    with open('tracks_this_week.json', 'w') as f:
+    with open(os.path.join(output_dir, 'tracks_this_week.json'), 'w') as f:
         json.dump(spotify_track_uris, f, indent=4)
 
 if __name__ == "__main__":

@@ -2,10 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 
 
-URL = "https://19hz.info/eventlisting_LosAngeles.php"
-
-def events() -> list[dict]:
-    response = requests.get(URL)
+def events(url: str) -> list[dict]:
+    response = requests.get(url)
 
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
