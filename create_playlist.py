@@ -121,7 +121,15 @@ def create_playlist():
     playlist_data = response.json()
     if 'id' not in playlist_data:
         return jsonify({"error": "Failed to create playlist", "details": playlist_data})
+    
+    # write the playlist to storage
     playlist_id = playlist_data['id']
+    with open('playlists.csv', 'a', newline="", encoding="utf-8") as p:
+        playlist_data = [playlist_id, name, args.city, start_date, end_date] 
+        writer = csv.writer(p)
+        writer.writerow(playlist_data)
+
+
 
     with open(os.path.join(DATA_DIR, 'tracks_this_week.json'), 'r') as f:
         tracks = json.load(f)
