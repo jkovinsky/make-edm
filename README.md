@@ -1,12 +1,12 @@
 # make-edm
 
-Automated pipeline that creates a weekly Spotify playlist of EDM artists performing in the SF/Bay Area and LA/SoCal area, sourced from [19hz.info](https://19hz.info).
+Automated pipeline that creates a weekly Spotify playlist of EDM artists performing in major US cities, sourced from [19hz.info](https://19hz.info).
 
 ## Pipeline
 
 Run `python main.py` to execute all steps:
 
-1. **Scrape** (`get_page.py`): scrapes upcoming events from 19hz depending on the url provided
+1. **Scrape** (`get_page.py`): scrapes upcoming events from 19hz depending on the url provided. Replace `URL` with an event listing from 19hz corresponding to a city.
 2. **Parse** (`llm.py`): sends events to Google Gemini (batch API) to extract artist names and dates as structured JSON
 3. **Filter**: keeps only events happening the current week, located in `get_artists.py`
 4. **Search Spotify** (`search_artists.py`): looks up each artist on Spotify to validate search term, storing IDs
