@@ -19,7 +19,7 @@ app = Flask(__name__)
 app.secret_key = '53df9b8c-8c9e-4a1b-9d2e-1a2b3c4d5e6f'  # Replace with a secure random key in production
 
 def get_week_range():
-    with open('spotify_results_test.json', 'r') as f:
+    with open('spotify_results.json', 'r') as f:
         artists = json.load(f)
     
     dates = [datetime.strptime(artist['date'].split('T')[0], "%Y-%m-%d") for artist in artists]
