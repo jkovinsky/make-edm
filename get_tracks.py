@@ -1,5 +1,5 @@
 from dotenv import load_dotenv
-import requests, os, time, json, csv, base64, time
+import requests, os, time, json, csv, base64, time, random
 from datetime import datetime
 
 load_dotenv()
@@ -56,9 +56,11 @@ def get_tracks(artists, token):
     headers = {'Authorization' : f'Bearer {token}'}
     spotify_track_uris = []
 
-    limits = {(8, 10): 3, (5, 7): 2, (3, 4): 1}
+    limits  = {(8, 10): 20, (5, 7): 50, (3, 4): 50}
+    weights = {(8, 10): 2, (5, 7): 3, (3,4): 1}
     for artist in artists:
         score = artist.get('popularity')
+        artist_id = artist.get('id')
         limit = next((n for (low, high), n in limits.items() if score and low <= score <= high), 0)
         if not limit:
             continue
@@ -72,10 +74,21 @@ def get_tracks(artists, token):
             continue
 
         items = response.json().get('tracks', {}).get('items', [])
+        tracks_to_choose_from = []
         for item in items:
             if item['type'] == 'track':
-                spotify_track_uris.append(item['uri'])
-    
+                artists_on_track = item.get('artists', [])
+                # ensure target artist is in tracks returned
+                ids_on_track = [artist_item['id'] for artist_item in artists_on_track]
+                if artist_id in ids_on_track:
+                    tracks_to_choose_from.append(item['uri'])
+        # ammount of tracks from artist to add to playlist      
+        weight = next((n for (low, high), n in weights.items() if score and low <= score <= high), 0)
+        track_uris = random.choices(tracks_to_choose_from, k=weight)
+        # add random uris from artist
+        for track_uri in track_uris:
+            spotify_track_uris.append(track_uri)
+
     with open('tracks_this_week.json', 'w') as f:
         json.dump(spotify_track_uris, f, indent=4)
 
