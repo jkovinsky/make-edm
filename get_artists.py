@@ -10,7 +10,7 @@ def is_this_week(date_str : str) -> bool:
 
         event_date = datetime.strptime(date_str.split('T')[0], "%Y-%m-%d")
         today = datetime.now()
-        start_of_week = today - timedelta(days=today.weekday())
+        start_of_week = today - timedelta(days=(today.weekday() + 1) % 7)
         end_of_week = start_of_week + timedelta(days=6)
         return start_of_week <= event_date <= end_of_week
     except ValueError:
@@ -18,6 +18,11 @@ def is_this_week(date_str : str) -> bool:
         return False
 
 if __name__ == "__main__":
+    today = datetime.now()
+    start_of_week = today - timedelta(days=(today.weekday() + 1) % 7)
+    end_of_week = start_of_week + timedelta(days=6)
+    print(f"Week: {start_of_week.strftime('%Y-%m-%d')} (Sun) – {end_of_week.strftime('%Y-%m-%d')} (Sat)")
+
     this_week = []
     events = get_page.events()
     # structured_artists = llm.parse_artist(events)

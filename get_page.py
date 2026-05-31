@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-URL = "https://19hz.info/eventlisting_BayArea.php"
+URL = "https://19hz.info/eventlisting_LosAngeles.php"
 
 def events() -> list[dict]:
     response = requests.get(URL)

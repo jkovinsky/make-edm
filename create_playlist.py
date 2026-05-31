@@ -111,8 +111,8 @@ def create_playlist():
 
     start_date, end_date = get_week_range()
 
-    name = f"Bay Area EDM: {start_date} - {end_date}"
-    description = "A few songs from artists performing in SF that I discovered this week from 19hz"
+    name = f"Los Angeles/SoCal EDM: {start_date} - {end_date}"
+    description = "A few songs from artists performing in Los Angeles/SoCal that I discovered this week from 19hz"
     body = {
         "name" : name,
         "description" : description,

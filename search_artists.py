@@ -28,7 +28,7 @@ def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, 
     percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
     filledLength = int(length * iteration // total)
     bar = fill * filledLength + '-' * (length - filledLength)
-    print(f'\r{prefix} |{bar}| {percent}% {suffix}', end = printEnd)
+    print(f'\r{prefix} |{bar}| {percent}% {suffix}', end=printEnd, flush=True)
     # Print New Line on Complete
     if iteration == total: 
         print()
@@ -94,7 +94,7 @@ def search_artists(artist_candidates, token):
         for term in artists:
             response = requests.get(API_BASE_URL + '/search', headers=headers,
                                     params={"q": term, "type": "artist", "limit": 1})
-            print(response.json())
+            # print(response.json())
             if response.status_code == 429:
                 retry_after = int(response.headers.get('Retry-After', 1))
                 print(f"Rate limited on '{term}', waiting {retry_after}s...")

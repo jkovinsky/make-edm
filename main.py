@@ -15,7 +15,7 @@ def is_this_week(date_str: str) -> bool:
     try:
         event_date = datetime.strptime(date_str.split('T')[0], "%Y-%m-%d")
         today = datetime.now()
-        start_of_week = today - timedelta(days=today.weekday())
+        start_of_week = today - timedelta(days=(today.weekday() + 1) % 7)
         end_of_week = start_of_week + timedelta(days=6)
         return start_of_week <= event_date <= end_of_week
     except ValueError:
@@ -34,6 +34,10 @@ def main():
     print(f"  {len(structured)} events parsed.")
 
     # 3. Filter to this week
+    today = datetime.now()
+    start_of_week = today - timedelta(days=(today.weekday() + 1) % 7)
+    end_of_week = start_of_week + timedelta(days=6)
+    print(f"  Week: {start_of_week.strftime('%Y-%m-%d')} (Sun) – {end_of_week.strftime('%Y-%m-%d')} (Sat)")
     this_week = [item for item in structured if is_this_week(item[0].get('date', ''))]
     print(f"  {len(this_week)} events happening this week.")
     with open('this_week.json', 'w') as f:

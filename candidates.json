@@ -1,419 +1,3250 @@
 [
-    {
-        "score": 4
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 8
-    },
-    {
-        "score": 7
-    },
-    {
-        "score": 5
-    },
-    {
-        "score": 4
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 8
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 6
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 4
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 6
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 6
-    },
-    {
-        "score": 6
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 4
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 4
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 4
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 4
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 4
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 7
-    },
-    {
-        "score": 6
-    },
-    {
-        "score": 4
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 6
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 8
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 6
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 4
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 10
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 7
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 1
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 2
-    },
-    {
-        "score": 3
-    },
-    {
-        "score": 3
-    }
+    [
+        {
+            "artists": [
+                "Johnny"
+            ],
+            "date": "2026-05-31T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "DJ Dan"
+            ],
+            "date": "2026-05-31T12:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "JTJ",
+                "Funk-off",
+                "Tamara Lanza",
+                "Ay-lex Song"
+            ],
+            "date": "2026-05-31T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Subtract",
+                "Work"
+            ],
+            "date": "2026-05-31T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Chasewest",
+                "Dan Molinari"
+            ],
+            "date": "2026-05-31T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Sunday Scaries"
+            ],
+            "date": "2026-05-31T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-05-31T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Photosynthesis",
+                "Soft Genes",
+                "Twentieth Street Garden"
+            ],
+            "date": "2026-05-31T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-05-31T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-05-31T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Marte",
+                "JPEG",
+                "DripUNRL",
+                "Est Dani",
+                "Chris Lawrence",
+                "Juli"
+            ],
+            "date": "2026-05-31T18:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "INJI",
+                "bdgrlbrklyn"
+            ],
+            "date": "2026-05-31T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Solar"
+            ],
+            "date": "2026-05-31T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Chasewest",
+                "Dan Molinari",
+                "Rippy"
+            ],
+            "date": "2026-05-31T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-05-31T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Jason Bentley",
+                "Tyler Boudreaux"
+            ],
+            "date": "2026-06-01T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Quinn Xcii"
+            ],
+            "date": "2026-06-01T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-01T23:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Eclectik Ritual"
+            ],
+            "date": "2026-06-02T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Steady B"
+            ],
+            "date": "2026-06-02T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Thievery Corporation"
+            ],
+            "date": "2026-06-02T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-02T23:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "3ballmty"
+            ],
+            "date": "2026-06-03T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Thievery Corporation"
+            ],
+            "date": "2026-06-03T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Kenny Mason"
+            ],
+            "date": "2026-06-03T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-03T23:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Rayburger"
+            ],
+            "date": "2026-06-04T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Alex Villalobos",
+                "Laura Peck"
+            ],
+            "date": "2026-06-04T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-04T23:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Decoder",
+                "DJ Hyperactive",
+                "Hypoxia (Live)",
+                "Kyle Geiger",
+                "Marcal",
+                "Mary Yuzovskaya",
+                "Paula Koski",
+                "O [Phase] (Live)",
+                "Uun (Live)",
+                "Anastasia Giovani",
+                "Alex Casillas",
+                "Blind Mutation",
+                "Christopher Mohn",
+                "Cirqet",
+                "JIA",
+                "Kudeki",
+                "NEKTER",
+                "Secus",
+                "Stephen Disario",
+                "Variance Of"
+            ],
+            "date": "2026-06-07T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Nils Hoffmann"
+            ],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-07T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Mgna Crrrta",
+                "Tommy Fleece"
+            ],
+            "date": "2026-06-05T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Zackey Force Funk"
+            ],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Sibil",
+                "Crypt Keepers",
+                "Max Web"
+            ],
+            "date": "2026-06-05T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Shiverz",
+                "He$H",
+                "Smal B",
+                "Midroll",
+                "Fiyah",
+                "Swampz",
+                "Slabz"
+            ],
+            "date": "2026-06-05T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "X-Coast"
+            ],
+            "date": "2026-06-05T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Exposure DTLA"
+            ],
+            "date": "2026-06-05T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "gab3",
+                "Payton Talbott",
+                "Rocket Rese",
+                "Hatsune Miku",
+                "FITNESSS",
+                "Cel Genesis",
+                "c+"
+            ],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Electric Ave."
+            ],
+            "date": "2026-06-05T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Tobehonest"
+            ],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Farley",
+                "Marloww"
+            ],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Black Tiger Sex Machine"
+            ],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Marsolo"
+            ],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Bears In Space",
+                "Horse Meat Disco"
+            ],
+            "date": "2026-06-05T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Creeds"
+            ],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Mad Miran",
+                "Piezo",
+                "Carre"
+            ],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Michael Magnan",
+                "Scotia",
+                "Brown Angel",
+                "Mez Monty"
+            ],
+            "date": "2026-06-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-05T23:59:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "House Of California"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Movida"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Miles Otway"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Helsloot"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Matroda",
+                "Greg 99"
+            ],
+            "date": "2026-06-06T16:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "San Pacho"
+            ],
+            "date": "2026-06-06T17:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Jon Williams",
+                "Jinx Mirage"
+            ],
+            "date": "2026-06-06T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Madeline Goldstein"
+            ],
+            "date": "2026-06-06T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Deep Beats"
+            ],
+            "date": "2026-06-06T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Into The Abyss"
+            ],
+            "date": "2026-06-06T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Kontravoid"
+            ],
+            "date": "2026-06-06T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Shogun"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Stoned Level"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Elkka",
+                "Inigo Vontier",
+                "Sonns",
+                "Goddollars",
+                "Paradise"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Niiko X Swae"
+            ],
+            "date": "2026-06-06T21:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Supernova"
+            ],
+            "date": "2026-06-06T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Disclosure",
+                "Fred Again.."
+            ],
+            "date": "2026-06-06T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Bonnie X Clyde"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Mystic Bill",
+                "DJ Spun",
+                "Stacy Christine",
+                "DJ Bollox"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Eli & Fur"
+            ],
+            "date": "2026-06-06T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Malaa"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Paradisco"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Phyla",
+                "Kaali"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Kidnap"
+            ],
+            "date": "2026-06-06T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Showtek"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Harry Romero"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Certified Groovers",
+                "Josh Butler"
+            ],
+            "date": "2026-06-06T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Alberto Tolo"
+            ],
+            "date": "2026-06-06T23:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Thermal",
+                "Regal86",
+                "Freeman 713",
+                "FAUNA",
+                "heelbite316",
+                "OTAK",
+                "Kaylita"
+            ],
+            "date": "2026-06-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Steve Loria",
+                "Bret Wallace",
+                "Danny Zee",
+                "Eric Davenport",
+                "Fester",
+                "Frank C",
+                "Jesse Brooks",
+                "Oscure",
+                "Thee-O",
+                "Tom Carle"
+            ],
+            "date": "2026-06-07T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Lp Giobbi",
+                "Julia Sandstrom",
+                "Tiffy Vera",
+                "Mini Bear"
+            ],
+            "date": "2026-06-07T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Ookay"
+            ],
+            "date": "2026-06-07T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Kimotion",
+                "Alek",
+                "Lola St John",
+                "Missed Call"
+            ],
+            "date": "2026-06-07T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Davi",
+                "Tim Parelias",
+                "Leo Bakiri"
+            ],
+            "date": "2026-06-07T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Cut Chemist"
+            ],
+            "date": "2026-06-07T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Rsquared",
+                "Reza"
+            ],
+            "date": "2026-06-07T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Mgna Crrrta",
+                "Tommy Fleece"
+            ],
+            "date": "2026-06-07T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-07T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Trinix"
+            ],
+            "date": "2026-06-11T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Dance Electric"
+            ],
+            "date": "2026-06-11T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Synthony"
+            ],
+            "date": "2026-06-12T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Memba",
+                "Shima"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Pippi Ciez"
+            ],
+            "date": "2026-06-12T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Dildox",
+                "DJ Rev.John",
+                "DJ IHX",
+                "Dot Wall"
+            ],
+            "date": "2026-06-12T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Sd Union",
+                "Dieselboy",
+                "Natty Lou",
+                "Villem"
+            ],
+            "date": "2026-06-12T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Derrick Carter",
+                "DJ Rashida",
+                "Cor.Ece"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Heav3n"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "DJ Heather"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Kristyle",
+                "Pyprr",
+                "chlophonic"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Miyuki"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Miyukicore"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Nick Morgan",
+                "HBB",
+                "MIISH"
+            ],
+            "date": "2026-06-12T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Shaded",
+                "Christopher Mohn",
+                "Xica Soul",
+                "Kittamami"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Jasper Tygner"
+            ],
+            "date": "2026-06-12T21:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Electric Ave."
+            ],
+            "date": "2026-06-12T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Oblivion"
+            ],
+            "date": "2026-06-12T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Vtss"
+            ],
+            "date": "2026-06-12T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Marie Vaunt"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Idemi"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Reaper",
+                "Bensley",
+                "Justin Hawkes",
+                "Crumb Pit"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Mad Dubz",
+                "Vktm"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Nic Vans"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Robag Wruhme",
+                "Made From Shadows",
+                "Droog"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Hernan Cattaneo",
+                "Armen Miran"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Takuya Nakamura",
+                "Sans Nom",
+                "Bird Lady"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "MCmlxxxv"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "GG Magree"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Bass Coven",
+                "Azella"
+            ],
+            "date": "2026-06-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Chai Rave"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Ariel Zetina",
+                "BROWNSKINHAZEL",
+                "Chris Cruse",
+                "Kilopatrah Jones",
+                "KYRUH",
+                "Lauren Flax",
+                "Partok",
+                "Rachana",
+                "S4M23",
+                "Sterling Juan Diaz",
+                "SUCCUBUS",
+                "Tama Sumo & Lakuti",
+                "Victor Rodriguez",
+                "willy",
+                "x3butterfly",
+                "Ava",
+                "Infinite Coles",
+                "Linda Lo & Webmistress",
+                "Sussi",
+                "Yavin"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Airod"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Rico Nasty",
+                "Empress Of",
+                "Flyana Boss"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Chay",
+                "Julian Gray"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Rico Nasty",
+                "Empress Of",
+                "Flyana Boss"
+            ],
+            "date": "2026-06-13T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Griz",
+                "Sippy"
+            ],
+            "date": "2026-06-13T19:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Minimal Sessions"
+            ],
+            "date": "2026-06-13T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Said The Sky"
+            ],
+            "date": "2026-06-13T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Govinda",
+                "Lil Fish"
+            ],
+            "date": "2026-06-13T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Albuquerque",
+                "Pepofit",
+                "Victor Souz",
+                "Marissa Carlene",
+                "Mkna",
+                "Elias Ryane"
+            ],
+            "date": "2026-06-13T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "ALBUQUERQUE",
+                "Pepofit",
+                "Victor Souz",
+                "Marissa Carlene",
+                "MKNA",
+                "Elias Ryane"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-13T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Burko"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Late Night Snacks"
+            ],
+            "date": "2026-06-13T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Madgrrl",
+                "Gigi",
+                "Eliana"
+            ],
+            "date": "2026-06-13T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Somna",
+                "Rinaly",
+                "Submersive",
+                "Compact 33",
+                "Contest Winner",
+                "Poly & Pan",
+                "Saturn Moon B2B Coyote Star",
+                "Auraluxe"
+            ],
+            "date": "2026-06-13T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Acraze"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Fedde Le Grand",
+                "Kaya"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Nic Vans"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Cristoph",
+                "Layla Benitez"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "D-Sturb"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "STVSH",
+                "OKAYJAKE",
+                "Asau"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Thee-O",
+                "Holly Adams",
+                "DJ Lush",
+                "Jesse Brooks",
+                "Thmp3R",
+                "Steven Ankele",
+                "Joe Cuevro",
+                "Sowelu",
+                "Darin Westcott"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "H-Foundation",
+                "Sinead",
+                "Dig This",
+                "Mungo Sound Machine"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Everblack",
+                "LA Goth",
+                "Ataxia"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Aten"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Aleroj",
+                "Ella",
+                "2deep"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Bloody Mary",
+                "Anika Kunst"
+            ],
+            "date": "2026-06-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Tech Me 2 Da Park"
+            ],
+            "date": "2026-06-14T12:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Marques Wyatt",
+                "Mark Lewis",
+                "Patrik Khach"
+            ],
+            "date": "2026-06-14T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-14T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Westend",
+                "Justin Martin",
+                "Dansyn",
+                "Marta"
+            ],
+            "date": "2026-06-14T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Levi"
+            ],
+            "date": "2026-06-14T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Solune",
+                "Double Touch"
+            ],
+            "date": "2026-06-14T15:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Robag Wruhme",
+                "Eddy Ali"
+            ],
+            "date": "2026-06-14T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Asgeir"
+            ],
+            "date": "2026-06-14T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Flowah",
+                "Jaes",
+                "J Rolla",
+                "Ransak",
+                "Kaustin"
+            ],
+            "date": "2026-06-14T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Los Thuthanaka"
+            ],
+            "date": "2026-06-14T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Sylvan Esso"
+            ],
+            "date": "2026-06-15T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Mark De Clive-Lowe"
+            ],
+            "date": "2026-06-15T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Digital Drvgs",
+                "Cold Kiss",
+                "Midi Memory"
+            ],
+            "date": "2026-06-16T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Sylvan Esso"
+            ],
+            "date": "2026-06-16T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Los Thuthanaka"
+            ],
+            "date": "2026-06-16T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Sylvan Esso"
+            ],
+            "date": "2026-06-17T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Bar Bionic",
+                "Roy Maclean",
+                "Royce Westend"
+            ],
+            "date": "2026-06-17T18:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Honne",
+                "Beka"
+            ],
+            "date": "2026-06-17T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Clinic",
+                "Rshand"
+            ],
+            "date": "2026-06-17T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Sylvan Esso"
+            ],
+            "date": "2026-06-18T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Shouse"
+            ],
+            "date": "2026-06-18T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Passenger Princess 4"
+            ],
+            "date": "2026-06-18T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Jane Remover",
+                "Dazegxd"
+            ],
+            "date": "2026-06-18T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-18T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Industria Nova",
+                "Damascus Knives"
+            ],
+            "date": "2026-06-18T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Moojo"
+            ],
+            "date": "2026-06-18T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Yoon"
+            ],
+            "date": "2026-06-22T07:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Apocalypse Zombieland"
+            ],
+            "date": "2026-06-20T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Marten Lou",
+                "Anton Khabbaz",
+                "Movee On"
+            ],
+            "date": "2026-06-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Chris Lake",
+                "Ayybo"
+            ],
+            "date": "2026-06-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Marshmello"
+            ],
+            "date": "2026-06-19T19:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Mr Tout Le Monde"
+            ],
+            "date": "2026-06-19T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Anoluxx",
+                "Ceejay",
+                "Orbenyx"
+            ],
+            "date": "2026-06-19T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Jane Remover",
+                "Dazegxd"
+            ],
+            "date": "2026-06-19T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Midnight Lovers",
+                "Eddie C"
+            ],
+            "date": "2026-06-19T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-19T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Phase Fatale",
+                "Unhuman",
+                "Sharlese",
+                "Genevieve D",
+                "Josh & Remy"
+            ],
+            "date": "2026-06-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "United We Dance"
+            ],
+            "date": "2026-06-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Ryan Jewelz",
+                "DJC",
+                "Sizzle Hop",
+                "ZENBOYYE",
+                "...weird",
+                "Will_kat",
+                "Big Rich",
+                "Ruben Medellin"
+            ],
+            "date": "2026-06-19T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Telykast",
+                "Dubvision"
+            ],
+            "date": "2026-06-19T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Mandy",
+                "Devin Wild",
+                "Keltek"
+            ],
+            "date": "2026-06-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Overdrive"
+            ],
+            "date": "2026-06-19T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Yotto"
+            ],
+            "date": "2026-06-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Flashback"
+            ],
+            "date": "2026-06-19T22:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Radical Redemption"
+            ],
+            "date": "2026-06-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "SHDW"
+            ],
+            "date": "2026-06-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "DJ Thank You",
+                "Flirty800"
+            ],
+            "date": "2026-06-20T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Jesusdapnk"
+            ],
+            "date": "2026-06-20T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Chris Lake",
+                "Hot Since 82",
+                "Club de Combat"
+            ],
+            "date": "2026-06-20T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Bradley Zero",
+                "Masha Mar",
+                "Xica Soul",
+                "Maddy Maia"
+            ],
+            "date": "2026-06-20T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Dirty Snatcha"
+            ],
+            "date": "2026-06-20T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Jane Remover",
+                "Dazegxd"
+            ],
+            "date": "2026-06-20T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Nhii",
+                "Sarkis Mikael",
+                "Treavor Moontribe",
+                "bawab"
+            ],
+            "date": "2026-06-20T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Damon Jee",
+                "Patricio",
+                "Vilena",
+                "Heart of Gold"
+            ],
+            "date": "2026-06-20T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Antal"
+            ],
+            "date": "2026-06-20T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Kim Petras",
+                "Cece Natalie",
+                "Babymorocco",
+                "deBasement",
+                "DJ Thank You",
+                "flirty800",
+                "Maara"
+            ],
+            "date": "2026-06-21T00:00:00Z"
+        },
+        {
+            "artists": [
+                "LSDXOXO",
+                "Juliana Huxtable",
+                "MORENXXX",
+                "River Moon",
+                "OZA"
+            ],
+            "date": "2026-06-20T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Louie Vega"
+            ],
+            "date": "2026-06-23T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Aaron Hibell"
+            ],
+            "date": "2026-06-24T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Louie Vega"
+            ],
+            "date": "2026-06-24T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Aaron Hibell"
+            ],
+            "date": "2026-06-25T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "T1 Afrohouse"
+            ],
+            "date": "2026-06-26T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Sadomachina",
+                "Dagger Wound",
+                "Romeo Diablos",
+                "Disintel"
+            ],
+            "date": "2026-06-26T19:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Gabriel & Dresden"
+            ],
+            "date": "2026-06-26T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Midnight Lovers",
+                "Jkriv"
+            ],
+            "date": "2026-06-26T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Hector Moralez",
+                "J-Dub",
+                "Super Jenn",
+                "Chainsnatcher",
+                "Ruben Who?",
+                "Nick Alvarado",
+                "Ricky Doubles",
+                "Mathis Rousseau"
+            ],
+            "date": "2026-06-26T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Space Yacht"
+            ],
+            "date": "2026-06-26T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-06-28T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Martin Garrix",
+                "Tiesto"
+            ],
+            "date": "2026-06-28T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Dillon Francis",
+                "Flosstradamus"
+            ],
+            "date": "2026-06-27T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Keoki"
+            ],
+            "date": "2026-06-27T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Electric Ave."
+            ],
+            "date": "2026-06-27T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Vendex"
+            ],
+            "date": "2026-06-27T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Vicetone"
+            ],
+            "date": "2026-06-27T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Goldcap"
+            ],
+            "date": "2026-06-27T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Sodown",
+                "Motifv",
+                "Jilli"
+            ],
+            "date": "2026-06-28T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Wax Motif"
+            ],
+            "date": "2026-07-03T17:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Declaration Of Bass"
+            ],
+            "date": "2026-07-03T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Mark Farina"
+            ],
+            "date": "2026-07-03T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "GorillaT"
+            ],
+            "date": "2026-07-03T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Pan-Pot",
+                "Doostah",
+                "Kitty Logic"
+            ],
+            "date": "2026-07-03T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-07-04T12:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Adam Rose",
+                "Voigtmann"
+            ],
+            "date": "2026-07-04T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Eli Escobar"
+            ],
+            "date": "2026-07-04T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Astrix",
+                "Captain Hook",
+                "Coexist",
+                "Freedom Fighters",
+                "Giorgia Angiuli",
+                "Infected Mushroom",
+                "Maximizer",
+                "Tristan"
+            ],
+            "date": "2026-07-04T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Smoakland",
+                "Brainrack",
+                "Wiley"
+            ],
+            "date": "2026-07-04T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Meduza"
+            ],
+            "date": "2026-07-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Young Franco"
+            ],
+            "date": "2026-07-09T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Industria Nova",
+                "Damascus Knives"
+            ],
+            "date": "2026-07-09T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Surfteam",
+                "Potions",
+                "Hellgnar"
+            ],
+            "date": "2026-07-10T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Certified Groovers",
+                "Sneak's Beats",
+                "Louie Vega"
+            ],
+            "date": "2026-07-11T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Lost In Dreams"
+            ],
+            "date": "2026-07-12T23:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Marco Strous"
+            ],
+            "date": "2026-07-11T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Flying Lotus"
+            ],
+            "date": "2026-07-11T17:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Star Monster",
+                "Odd Language",
+                "Datura"
+            ],
+            "date": "2026-07-11T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "R3hab"
+            ],
+            "date": "2026-07-11T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Klaudia Gawlas",
+                "Gigi",
+                "Gerard Not Gerald"
+            ],
+            "date": "2026-07-11T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Flying Lotus"
+            ],
+            "date": "2026-07-12T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Eartheater"
+            ],
+            "date": "2026-07-15T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Eartheater"
+            ],
+            "date": "2026-07-16T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Beats Antique"
+            ],
+            "date": "2026-07-16T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Eartheater"
+            ],
+            "date": "2026-07-17T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Beats Antique"
+            ],
+            "date": "2026-07-17T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Shrek Rave"
+            ],
+            "date": "2026-07-17T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Lil Texas"
+            ],
+            "date": "2026-07-17T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-07-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Stephan Bodzin"
+            ],
+            "date": "2026-07-18T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Max Cooper"
+            ],
+            "date": "2026-07-18T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Morillo",
+                "Evan Hatfield",
+                "Mycelial"
+            ],
+            "date": "2026-07-18T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Jessica Audiffred"
+            ],
+            "date": "2026-07-18T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Tinzo & Jojo",
+                "Soul Clap"
+            ],
+            "date": "2026-07-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Bob Moses",
+                "Cannons"
+            ],
+            "date": "2026-07-19T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Dillon Francis",
+                "Flosstradamus"
+            ],
+            "date": "2026-07-25T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Dillon Francis",
+                "Flosstradamus"
+            ],
+            "date": "2026-07-25T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Wes Mills"
+            ],
+            "date": "2026-07-25T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Walker & Royce",
+                "Raecola"
+            ],
+            "date": "2026-07-26T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Boris Brejcha",
+                "Hollywood Bowl Orchestra"
+            ],
+            "date": "2026-07-26T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Electric Feels"
+            ],
+            "date": "2026-07-31T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-08-02T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Arlo"
+            ],
+            "date": "2026-08-01T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Rufus Du Sol",
+                "Ben Bohmer"
+            ],
+            "date": "2026-08-06T19:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Rufus Du Sol",
+                "Ben Bohmer"
+            ],
+            "date": "2026-08-07T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Chris Luno"
+            ],
+            "date": "2026-08-08T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Carlita"
+            ],
+            "date": "2026-08-08T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Lane 8",
+                "Sultan + Shepard",
+                "Yotto",
+                "Kasbo",
+                "Massane",
+                "Qrion",
+                "Ashibah",
+                "Grigore"
+            ],
+            "date": "2026-08-09T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Rufus Du Sol",
+                "Ben Bohmer"
+            ],
+            "date": "2026-08-11T19:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Rufus Du Sol",
+                "Ben Bohmer"
+            ],
+            "date": "2026-08-12T19:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Rufus Du Sol",
+                "Ben Bohmer"
+            ],
+            "date": "2026-08-13T19:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Layton Giordani",
+                "Ugo Banchi"
+            ],
+            "date": "2026-08-15T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Rufus Du Sol",
+                "Ben Bohmer"
+            ],
+            "date": "2026-08-15T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Passion Pit"
+            ],
+            "date": "2026-08-18T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Passion Pit"
+            ],
+            "date": "2026-08-19T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Maddix"
+            ],
+            "date": "2026-08-21T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "The Knocks"
+            ],
+            "date": "2026-08-21T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Just Like Heaven"
+            ],
+            "date": "2026-08-22T12:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Midnight Lovers",
+                "Azzecca",
+                "Afriqua",
+                "Ray Kash"
+            ],
+            "date": "2026-08-22T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Rival Consoles"
+            ],
+            "date": "2026-08-22T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Noizu"
+            ],
+            "date": "2026-08-22T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Barnacle Boi",
+                "Backwhen"
+            ],
+            "date": "2026-08-22T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Crankdat"
+            ],
+            "date": "2026-08-26T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Crankdat"
+            ],
+            "date": "2026-08-27T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-08-28T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Channel Tres"
+            ],
+            "date": "2026-08-28T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Crankdat"
+            ],
+            "date": "2026-08-28T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Hayden James"
+            ],
+            "date": "2026-08-29T16:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Ahee"
+            ],
+            "date": "2026-08-29T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Crankdat"
+            ],
+            "date": "2026-08-29T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Crankdat"
+            ],
+            "date": "2026-08-30T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-09-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Betamaxx"
+            ],
+            "date": "2026-09-04T20:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Hayla"
+            ],
+            "date": "2026-09-04T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Axel Boman",
+                "Kornel Kovacs",
+                "Nikki Nair"
+            ],
+            "date": "2026-09-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "K?D"
+            ],
+            "date": "2026-09-05T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-09-06T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Smerz"
+            ],
+            "date": "2026-09-06T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Thievery Corporation"
+            ],
+            "date": "2026-09-10T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Thievery Corporation"
+            ],
+            "date": "2026-09-11T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "San Holo"
+            ],
+            "date": "2026-09-11T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Massimiliano Pagliara",
+                "Masha Mar",
+                "James Axon"
+            ],
+            "date": "2026-09-11T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Jerro"
+            ],
+            "date": "2026-09-12T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Bunt."
+            ],
+            "date": "2026-09-12T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Big Gigantic 360",
+                "Steller"
+            ],
+            "date": "2026-09-12T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Ben Sterling",
+                "Locky"
+            ],
+            "date": "2026-09-13T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "The Midnight"
+            ],
+            "date": "2026-09-18T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Satin Jackets",
+                "Beard & Stache"
+            ],
+            "date": "2026-09-18T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-09-20T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "The Midnight"
+            ],
+            "date": "2026-09-19T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Sofi Tukker"
+            ],
+            "date": "2026-09-19T19:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Gabriel & Dresden"
+            ],
+            "date": "2026-09-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Sainte Vie"
+            ],
+            "date": "2026-09-19T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Kruder & Dorfmeister"
+            ],
+            "date": "2026-09-23T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "DJ Shadow"
+            ],
+            "date": "2026-09-24T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Kruder & Dorfmeister"
+            ],
+            "date": "2026-09-24T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-09-28T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Jason Ross"
+            ],
+            "date": "2026-09-25T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "DJ Shadow"
+            ],
+            "date": "2026-09-25T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Mcmlxxxv",
+                "Cem",
+                "Salome",
+                "Oza",
+                "Sevyn 0000"
+            ],
+            "date": "2026-09-25T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Blasha & Allatt",
+                "Jia",
+                "Marron",
+                "Nekter",
+                "Rene Wise",
+                "Rrose",
+                "Wata Igarashi"
+            ],
+            "date": "2026-09-27T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Rich Medina"
+            ],
+            "date": "2026-09-26T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Boiler Room",
+                "Teletech"
+            ],
+            "date": "2026-09-27T15:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Underscores"
+            ],
+            "date": "2026-09-30T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Kettama"
+            ],
+            "date": "2026-09-30T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Kettama"
+            ],
+            "date": "2026-10-02T22:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Max Styler"
+            ],
+            "date": "2026-10-03T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Empire of the Sun"
+            ],
+            "date": "2026-10-07T18:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Oskar Med K"
+            ],
+            "date": "2026-10-07T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Oskar Med K"
+            ],
+            "date": "2026-10-08T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Tinlicker"
+            ],
+            "date": "2026-10-08T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Empire of the Sun",
+                "Polo & Pan"
+            ],
+            "date": "2026-10-08T19:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Tinlicker"
+            ],
+            "date": "2026-10-09T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Niteharts"
+            ],
+            "date": "2026-10-11T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Chainsmokers",
+                "Kygo",
+                "T-Pain",
+                "Zedd",
+                "All America Rejects",
+                "Loud Luxury",
+                "Frank Walker",
+                "Myles O'Neal",
+                "Natalie Jinju"
+            ],
+            "date": "2026-10-11T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Lens"
+            ],
+            "date": "2026-10-10T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Lewis Ofman"
+            ],
+            "date": "2026-10-16T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "ARMNHMR"
+            ],
+            "date": "2026-10-17T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Samuel Moriero"
+            ],
+            "date": "2026-10-17T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Gryffin",
+                "Lost Frequencies",
+                "AR/CO"
+            ],
+            "date": "2026-10-23T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Madeon"
+            ],
+            "date": "2026-10-23T19:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Two Friends",
+                "Avello"
+            ],
+            "date": "2026-10-23T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Channel Tres",
+                "&Friends",
+                "Fifi"
+            ],
+            "date": "2026-10-23T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Gryffin",
+                "Lost Frequencies",
+                "Daniel Allan"
+            ],
+            "date": "2026-10-24T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Gorillaz"
+            ],
+            "date": "2026-10-24T19:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Marshmello",
+                "Alison Wonderland"
+            ],
+            "date": "2026-10-24T19:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Two Friends",
+                "MC4d"
+            ],
+            "date": "2026-10-24T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Madeon"
+            ],
+            "date": "2026-10-24T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Gorillaz"
+            ],
+            "date": "2026-10-25T19:30:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-11-01T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Parra For Cuva"
+            ],
+            "date": "2026-10-31T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-10-31T20:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Zulan"
+            ],
+            "date": "2026-11-06T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Ueberrest",
+                "Casska",
+                "Khrome",
+                "Nowhere Inc."
+            ],
+            "date": "2026-11-07T23:59:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Diplo"
+            ],
+            "date": "2026-11-08T13:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Ninajirachi",
+                "Mgna Crrrta"
+            ],
+            "date": "2026-11-12T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Ninajirachi",
+                "Mgna Crrrta"
+            ],
+            "date": "2026-11-13T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Ninajirachi"
+            ],
+            "date": "2026-11-14T21:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-11-21T00:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [
+                "Diplo"
+            ],
+            "date": "2026-11-21T13:00:00Z"
+        }
+    ],
+    [
+        {
+            "artists": [],
+            "date": "2026-12-19T20:00:00Z"
+        }
+    ]
 ]
