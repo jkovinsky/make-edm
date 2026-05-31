@@ -1,0 +1,6 @@
+beautifulsoup4
+flask
+google-genai
+pydantic
+python-dotenv
+requests
