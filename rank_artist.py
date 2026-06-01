@@ -52,6 +52,21 @@ def batch_requests(artists : list[dict]) -> list[dict]:
     return inline_requests
 
 
+def _sync_rank(client, inline_requests: list) -> list:
+    results = []
+    for i, req in enumerate(inline_requests, start=1):
+        try:
+            response = client.models.generate_content(
+                model="gemini-3.1-flash-lite",
+                contents=req["contents"],
+                config=req["config"],
+            )
+            results.append(json.loads(response.text))
+        except Exception as e:
+            print(f"Sync request {i} failed: {e}")
+    return results
+
+
 def rank_artists(events: list[dict], output_dir: str = '.') -> list[dict]:
     date_now = datetime.now().strftime("%Y-%m-%d")
     client = genai.Client(api_key=os.getenv("GOOGLE_GEMINI_API_KEY"))
@@ -76,31 +91,38 @@ def rank_artists(events: list[dict], output_dir: str = '.') -> list[dict]:
             return client_response
         print(f"Polling status for job: {job_name}")
 
+        start_time = time.time()
+        timed_out = False
         while True:
             batch_job_inline = client.batches.get(name=job_name)
             if batch_job_inline.state.name in ('JOB_STATE_SUCCEEDED', 'JOB_STATE_FAILED', 'JOB_STATE_CANCELLED', 'JOB_STATE_EXPIRED'):
                 print()
+                break
+            if time.time() - start_time > 900:
+                print("Batch job timed out after 15 minutes. Cancelling and falling back to synchronous calls...")
+                try:
+                    client.batches.cancel(name=job_name)
+                except Exception as e:
+                    print(f"Failed to cancel batch job: {e}")
+                client_response = _sync_rank(client, inline_requests)
+                timed_out = True
                 break
             wait = 30
             for elapsed in range(wait):
                 remaining = wait - elapsed
                 printProgressBar(elapsed, wait, prefix=f'{batch_job_inline.state.name}:', suffix=f'{convert(remaining)} remaining', length=40)
                 time.sleep(1)
-             
-        # print the response
-        for i, inline_response in enumerate(batch_job_inline.dest.inlined_responses, start=1):
-            # print(f"\n--- Response {i} ---")
-            # Check for a successful response
-            if inline_response.response:
-                # The .text property is a shortcut to the generated text.
-               # print(inline_response.response.text)
-                try:
-                    parsed_response = json.loads(inline_response.response.text)
-                    client_response.append(parsed_response)
-                except json.JSONDecodeError as e:
-                    print(f"Failed to parse JSON response: {e}")
-            else:
-                print(f"Request {i} failed with error: {inline_response.error}")
+
+        if not timed_out:
+            for i, inline_response in enumerate(batch_job_inline.dest.inlined_responses, start=1):
+                if inline_response.response:
+                    try:
+                        parsed_response = json.loads(inline_response.response.text)
+                        client_response.append(parsed_response)
+                    except json.JSONDecodeError as e:
+                        print(f"Failed to parse JSON response: {e}")
+                else:
+                    print(f"Request {i} failed with error: {inline_response.error}")
 
         
     except Exception as error:

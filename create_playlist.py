@@ -69,6 +69,11 @@ def callback():
     session['refresh_token'] = token_info['refresh_token']
     session['expires_at'] = datetime.now().timestamp() + token_info['expires_in']
 
+    with open("oath_keys.csv", 'w', newline="") as o:
+        o_auth = [session['access_token'], session['refresh_token'], session['expires_at']]
+        writer = csv.writer(o)
+        writer.writerow(o_auth)
+
     return redirect('/create-playlist')
 
 @app.route('/refresh-token')
@@ -102,12 +107,15 @@ def create_playlist():
     if datetime.now().timestamp() > session['expires_at']:
         return redirect('/refresh-token')
 
+    
     headers = {
         'Authorization' : f"Bearer {session['access_token']}",
         'Content-Type' : "application/json"
     }
 
     start_date, end_date = args.week.split('_')
+
+    
 
     name = f"{args.city} EDM: {start_date} - {end_date}"
     description = f"A few songs from artists performing in {args.city} this week, discovered via 19hz"
@@ -123,22 +131,22 @@ def create_playlist():
         return jsonify({"error": "Failed to create playlist", "details": playlist_data})
     
     # write the playlist to storage
+    with open(os.path.join(DATA_DIR, 'tracks_this_week.json'), 'r') as f:
+        tracks = json.load(f)
+    tracks, artists = [t["uri"] for t in tracks], list(set([t["artist"] for t in tracks]))
+
     playlist_id = playlist_data['id']
     with open('playlists.csv', 'a', newline="", encoding="utf-8") as p:
-        playlist_data = [playlist_id, name, args.city, start_date, end_date] 
+        playlist_data = [playlist_id, name, args.city, start_date, end_date, artists] 
         writer = csv.writer(p)
         writer.writerow(playlist_data)
 
-
-
-    with open(os.path.join(DATA_DIR, 'tracks_this_week.json'), 'r') as f:
-        tracks = json.load(f)
 
     body = {
         "uris" : tracks
     }
     response = requests.post(API_BASE_URL + f'/playlists/{playlist_id}/items', headers=headers, json=body).json()
-
+    
     return jsonify(response)
 
 

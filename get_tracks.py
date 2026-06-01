@@ -83,12 +83,11 @@ def get_tracks(artists, token, output_dir: str = '.'):
                 if artist_id in ids_on_track:
                     tracks_to_choose_from.append(item['uri'])
         # ammount of tracks from artist to add to playlist 
-        if tracks_to_choose_from:     
+        if tracks_to_choose_from:
             weight = next((n for (low, high), n in weights.items() if score and low <= score <= high), 0)
             track_uris = random.choices(tracks_to_choose_from, k=weight)
-            # add random uris from artist
             for track_uri in track_uris:
-                spotify_track_uris.append(track_uri)
+                spotify_track_uris.append({"uri": track_uri, "artist": artist['match_name']})
         else:
             print(f"no tracks found for {artist_id}")
 
