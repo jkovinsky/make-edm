@@ -123,15 +123,13 @@ def rank_artists(events: list[dict], output_dir: str = '.') -> list[dict]:
                         print(f"Failed to parse JSON response: {e}")
                 else:
                     print(f"Request {i} failed with error: {inline_response.error}")
+                    client_response.append(None)
 
         
     except Exception as error:
         print(f"Unexpected: {error}")
         return client_response
     
-    with open(os.path.join(output_dir, 'candidates.json'), 'w') as f:
-        json.dump(client_response, f, indent=4)
-
     return client_response
 
 

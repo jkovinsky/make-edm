@@ -20,7 +20,7 @@ CITIES = {
     "Miami":                  f"{BASE}/eventlisting_Miami.php",
     "Washington DC":          f"{BASE}/eventlisting_DC.php",
     "Toronto":                f"{BASE}/eventlisting_Toronto.php",
-    "Iowa/Nebraska":          f"{BASE}/eventlisting_Iowa.php",
+    "Iowa-Nebraska":          f"{BASE}/eventlisting_Iowa.php",
     "Texas":                  f"{BASE}/eventlisting_Texas.php",
     "Denver":                 f"{BASE}/eventlisting_Denver.php",
     "Chicago":                f"{BASE}/eventlisting_CHI.php",
@@ -41,7 +41,7 @@ def is_this_week(date_str: str) -> bool:
         return False
 
 
-def main(no_wait=False):
+def main(no_wait=False, skip_to=None, wait=3600):
     today = datetime.now()
     start_of_week = today - timedelta(days=(today.weekday() + 1) % 7)
     end_of_week = start_of_week + timedelta(days=6)
@@ -49,7 +49,6 @@ def main(no_wait=False):
 
     week_range = f"{start_of_week.strftime('%Y-%m-%d')}_{end_of_week.strftime('%Y-%m-%d')}"
     all_results = []
-    token = spotify.ensure_token()
 
     cities = list(CITIES.items())
     if args.skip_to is not None:
@@ -79,7 +78,7 @@ def main(no_wait=False):
             print(f"  {len(structured)} events parsed.")
 
             # 3. Filter to this week
-            this_week = [item for item in structured if is_this_week(item[0].get('date', ''))]
+            this_week = [item for item in structured if item is not None and is_this_week(item[0].get('date', ''))]
             print(f"  {len(this_week)} events this week.")
             with open(os.path.join(output_dir, 'this_week.json'), 'w') as f:
                 json.dump(this_week, f, indent=4)
@@ -93,6 +92,7 @@ def main(no_wait=False):
             with open(spotify_results_path) as f:
                 results = json.load(f)
         else:
+            token = spotify.ensure_token()
             print("  Searching Spotify...")
             results = spotify.search_artists(this_week, token)
             print(f"  {len(results)} artists matched.")
@@ -105,7 +105,8 @@ def main(no_wait=False):
             print("  Ranking artists...")
             scores = rank_artist.rank_artists(results, output_dir)
             for artist, score in zip(results, scores):
-                artist['popularity'] = score.get('score')
+                if score is not None:
+                    artist['popularity'] = score.get('score')
                 artist['city'] = city
             print(f"  {len(scores)} artists ranked.")
 
@@ -128,7 +129,9 @@ def main(no_wait=False):
         all_results.extend(results)
         
         if i < len(cities) - 1 and not no_wait:
-            wait = 3600
+            if args.wait is not None:
+                wait = args.wait
+            print(f"  Waiting {wait} seconds before moving to next city...")
             for elapsed in range(wait + 1):
                 spotify.printProgressBar(elapsed, wait, prefix='  Next city in:', suffix=spotify.convert(wait - elapsed), length=40)
                 if elapsed < wait:
@@ -140,6 +143,7 @@ def main(no_wait=False):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--no-wait', action='store_true', help='Skip the 1-hour wait between cities')
-    parser.add_argument('--skip-to', action='store', type=int, help='Skip to a specific city index (0-based)')
+    parser.add_argument('--skip-to', type=int, help='Skip to a specific city index (0-based)')
+    parser.add_argument('--wait-time', type=int, help='Wait time in seconds between cities (default: 3600)')
     args = parser.parse_args()
-    main(no_wait=args.no_wait)
+    main(no_wait=args.no_wait, skip_to=args.skip_to, wait=args.wait_time)

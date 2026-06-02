@@ -106,6 +106,7 @@ def parse_artist(events: list[dict], output_dir: str = '.') -> list[dict]:
                         print(f"Failed to parse JSON response: {e}")
                 else:
                     print(f"Request {i} failed with error: {inline_response.error}")
+                    client_response.append(None)
 
         
     except Exception as error:

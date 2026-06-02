@@ -1,0 +1,62 @@
+[
+    {
+        "id": "0zo109NM3S7CqHpvlXwqEN",
+        "term": "Vtss",
+        "match_name": "VTSS",
+        "date": "2026-06-04T20:00:00Z",
+        "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN",
+        "followers": null,
+        "popularity": 4,
+        "city": "Toronto"
+    },
+    {
+        "id": "1qPcb4gGRO6ZsefrOWsh8f",
+        "term": "Smalltown DJs",
+        "match_name": "Smalltown DJs",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f",
+        "followers": null,
+        "popularity": 4,
+        "city": "Toronto"
+    },
+    {
+        "id": "0kYFb6blNbeBAHaQqyURgI",
+        "term": "Rinzen",
+        "match_name": "Rinzen",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI",
+        "followers": null,
+        "popularity": 4,
+        "city": "Toronto"
+    },
+    {
+        "id": "0aEDa47F4RWuk4Udm0SEoH",
+        "term": "Vhoor",
+        "match_name": "VHOOR",
+        "date": "2026-06-06T20:00:00Z",
+        "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH",
+        "followers": null,
+        "popularity": 3,
+        "city": "Toronto"
+    },
+    {
+        "id": "4rbw4Z9Hjn6n9x5oYzZe7P",
+        "term": "Loco Dice",
+        "match_name": "Loco Dice",
+        "date": "2026-06-06T22:00:00Z",
+        "url": "https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P",
+        "followers": null,
+        "popularity": 6,
+        "city": "Toronto"
+    },
+    {
+        "id": "4GEIawzVZxWGdtl9OOdgeA",
+        "term": "Jerome Isma-Ae",
+        "match_name": "Jerome Isma-Ae",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA",
+        "followers": null,
+        "popularity": 4,
+        "city": "Toronto"
+    }
+]
