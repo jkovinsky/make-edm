@@ -1,0 +1,672 @@
+[
+    {
+        "id": "4b0s5L5HkUI6jrFwEDuTur",
+        "term": "Jason Bentley",
+        "match_name": "Jason Bentley",
+        "date": "2026-06-01T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4b0s5L5HkUI6jrFwEDuTur",
+        "followers": null,
+        "popularity": 5,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "3ApUX1o6oSz321MMECyIYd",
+        "term": "Quinn Xcii",
+        "match_name": "Quinn XCII",
+        "date": "2026-06-01T21:00:00Z",
+        "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd",
+        "followers": null,
+        "popularity": 6,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "7HtxMkp03oA3C1d8KzImnm",
+        "term": "Steady B",
+        "match_name": "Steady B",
+        "date": "2026-06-02T20:00:00Z",
+        "url": "https://open.spotify.com/artist/7HtxMkp03oA3C1d8KzImnm",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "25KNo5GDS6ZpLkjasaecA3",
+        "term": "Thievery Corporation",
+        "match_name": "Thievery Corporation",
+        "date": "2026-06-02T20:00:00Z",
+        "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3",
+        "followers": null,
+        "popularity": 6,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "1MLs9allBZrajb5Dc4146L",
+        "term": "3ballmty",
+        "match_name": "3BallMTY",
+        "date": "2026-06-03T19:00:00Z",
+        "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L",
+        "followers": null,
+        "popularity": 5,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "25KNo5GDS6ZpLkjasaecA3",
+        "term": "Thievery Corporation",
+        "match_name": "Thievery Corporation",
+        "date": "2026-06-03T19:00:00Z",
+        "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3",
+        "followers": null,
+        "popularity": 6,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "4mwdnO2jZrMmMVrjcHsZBv",
+        "term": "Kenny Mason",
+        "match_name": "Kenny Mason",
+        "date": "2026-06-03T20:00:00Z",
+        "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "1slhiJk67NIqE9BV98UN3r",
+        "term": "Rayburger",
+        "match_name": "RayBurger",
+        "date": "2026-06-04T20:00:00Z",
+        "url": "https://open.spotify.com/artist/1slhiJk67NIqE9BV98UN3r",
+        "followers": null,
+        "popularity": 1,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "5G9hbg0ax7EDetUCHur1wD",
+        "term": "Laura Peck",
+        "match_name": "Laura Peck",
+        "date": "2026-06-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5G9hbg0ax7EDetUCHur1wD",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "6sOEMfvCfHQ9dhSWyamXVb",
+        "term": "Nils Hoffmann",
+        "match_name": "Nils Hoffmann",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb",
+        "followers": null,
+        "popularity": 4,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "1pNs3qwMBJ0q4lyASth9Ye",
+        "term": "Mgna Crrrta",
+        "match_name": "MGNA Crrrta",
+        "date": "2026-06-05T20:00:00Z",
+        "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye",
+        "followers": null,
+        "popularity": 1,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "4vv1Y8dwByLcOJ8Wdsxrfg",
+        "term": "Tommy Fleece",
+        "match_name": "Tommy Fleece",
+        "date": "2026-06-05T20:00:00Z",
+        "url": "https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg",
+        "followers": null,
+        "popularity": 1,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "18CPbmxYOdkMCEkq3j9CBd",
+        "term": "Zackey Force Funk",
+        "match_name": "Zackey Force Funk",
+        "date": "2026-06-05T20:00:00Z",
+        "url": "https://open.spotify.com/artist/18CPbmxYOdkMCEkq3j9CBd",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "5POUA3KoQ9Y20hzBuikqim",
+        "term": "Shiverz",
+        "match_name": "SHIVERZ",
+        "date": "2026-06-05T20:00:00Z",
+        "url": "https://open.spotify.com/artist/5POUA3KoQ9Y20hzBuikqim",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "3gelndylZS1bjQ0c9elb7S",
+        "term": "He$H",
+        "match_name": "HE$H",
+        "date": "2026-06-05T20:00:00Z",
+        "url": "https://open.spotify.com/artist/3gelndylZS1bjQ0c9elb7S",
+        "followers": null,
+        "popularity": 4,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "73z0Z3OKKmz8Vpb4gdqElX",
+        "term": "Smal B",
+        "match_name": "Smal B",
+        "date": "2026-06-05T20:00:00Z",
+        "url": "https://open.spotify.com/artist/73z0Z3OKKmz8Vpb4gdqElX",
+        "followers": null,
+        "popularity": 1,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "3MyS6AUeGADQyZlUV9ScHu",
+        "term": "Midroll",
+        "match_name": "Midroll",
+        "date": "2026-06-05T20:00:00Z",
+        "url": "https://open.spotify.com/artist/3MyS6AUeGADQyZlUV9ScHu",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "4Qk0fjjVPud8UUH0xGyLsP",
+        "term": "Swampz",
+        "match_name": "Swampz",
+        "date": "2026-06-05T20:00:00Z",
+        "url": "https://open.spotify.com/artist/4Qk0fjjVPud8UUH0xGyLsP",
+        "followers": null,
+        "popularity": 1,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "5QUHrSea6F2nhn9veAq4wQ",
+        "term": "X-Coast",
+        "match_name": "X-COAST",
+        "date": "2026-06-05T21:00:00Z",
+        "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ",
+        "followers": null,
+        "popularity": 5,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "0Yt7UjpW2AJojjZrgGysUl",
+        "term": "gab3",
+        "match_name": "Gab3",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0Yt7UjpW2AJojjZrgGysUl",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "3lfCFLWnZLYmZSqatfT1Pr",
+        "term": "Rocket Rese",
+        "match_name": "Rocket Rese",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3lfCFLWnZLYmZSqatfT1Pr",
+        "followers": null,
+        "popularity": 1,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "6pNgnvzBa6Bthsv8SrZJYl",
+        "term": "Hatsune Miku",
+        "match_name": "Hatsune Miku",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl",
+        "followers": null,
+        "popularity": 9,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "243rjAf0f9dmKSmsUaYuNh",
+        "term": "FITNESSS",
+        "match_name": "Fitnesss",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/243rjAf0f9dmKSmsUaYuNh",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "1mVhZVWVHZIUmwNLVcqMSY",
+        "term": "Cel Genesis",
+        "match_name": "Cel Genesis",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1mVhZVWVHZIUmwNLVcqMSY",
+        "followers": null,
+        "popularity": 1,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "5aE4f6qwsXT5hACySkxJQo",
+        "term": "Tobehonest",
+        "match_name": "TOBEHONEST",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo",
+        "followers": null,
+        "popularity": 5,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "2A4nCYNj4xT5pefU1fpimU",
+        "term": "Marloww",
+        "match_name": "Marloww",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/2A4nCYNj4xT5pefU1fpimU",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "0o9qzOHuHkGZ3xMFKpMFkC",
+        "term": "Black Tiger Sex Machine",
+        "match_name": "Black Tiger Sex Machine",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC",
+        "followers": null,
+        "popularity": 4,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "19KqOfazpv8bU6RrVJpLcV",
+        "term": "Marsolo",
+        "match_name": "Marsolo",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "486sVZ3wHujjy2VbF4DwGJ",
+        "term": "Bears In Space",
+        "match_name": "Bears in Space",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/486sVZ3wHujjy2VbF4DwGJ",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "5MnToV7aAt2Zy9ag3DAsna",
+        "term": "Horse Meat Disco",
+        "match_name": "Horse Meat Disco",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna",
+        "followers": null,
+        "popularity": 6,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "2gW0M5fn2r7Lo4Hn1r8HZ5",
+        "term": "Creeds",
+        "match_name": "Creeds",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5",
+        "followers": null,
+        "popularity": 4,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "4vr49Ycb253qEyUuXnlYaM",
+        "term": "Piezo",
+        "match_name": "Piezo",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "5sbyfp82tCjRLocAkEuMWH",
+        "term": "Michael Magnan",
+        "match_name": "Michael Magnan",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5sbyfp82tCjRLocAkEuMWH",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "39sI3U9Clv6nuGIIoKzn1F",
+        "term": "Scotia",
+        "match_name": "Scotia",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/39sI3U9Clv6nuGIIoKzn1F",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "48dJBoSZITmiuFMdoINcSw",
+        "term": "Brown Angel",
+        "match_name": "Brown Angel",
+        "date": "2026-06-05T00:00:00Z",
+        "url": "https://open.spotify.com/artist/48dJBoSZITmiuFMdoINcSw",
+        "followers": null,
+        "popularity": 1,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "6dC41opH96WjFwWhhAxBsS",
+        "term": "Helsloot",
+        "match_name": "Helsloot",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS",
+        "followers": null,
+        "popularity": 4,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "45lcbTsX07JWzmTIjcdyBz",
+        "term": "Matroda",
+        "match_name": "Matroda",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz",
+        "followers": null,
+        "popularity": 6,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "68ocQOFVB9wvLiC1C1WjYp",
+        "term": "Greg 99",
+        "match_name": "GREG 99",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "5jBerZvTAajwYvdxt3UhgU",
+        "term": "San Pacho",
+        "match_name": "San Pacho",
+        "date": "2026-06-06T17:00:00Z",
+        "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU",
+        "followers": null,
+        "popularity": 5,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "0qtVLVzUD4Qglw7wW90QqO",
+        "term": "Madeline Goldstein",
+        "match_name": "Madeline Goldstein",
+        "date": "2026-06-06T20:00:00Z",
+        "url": "https://open.spotify.com/artist/0qtVLVzUD4Qglw7wW90QqO",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "6qMISumJCqW9ivtZ2DhIam",
+        "term": "Deep Beats",
+        "match_name": "Deep Beats",
+        "date": "2026-06-06T20:00:00Z",
+        "url": "https://open.spotify.com/artist/6qMISumJCqW9ivtZ2DhIam",
+        "followers": null,
+        "popularity": 1,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "1cZNxWhPe9pKXdVZZdA9Bz",
+        "term": "Kontravoid",
+        "match_name": "Kontravoid",
+        "date": "2026-06-06T21:00:00Z",
+        "url": "https://open.spotify.com/artist/1cZNxWhPe9pKXdVZZdA9Bz",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "6fyH2BV1kLXnySKVxGek9l",
+        "term": "Shogun",
+        "match_name": "Shogun",
+        "date": "2026-06-06T21:00:00Z",
+        "url": "https://open.spotify.com/artist/6fyH2BV1kLXnySKVxGek9l",
+        "followers": null,
+        "popularity": 4,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "4a88oLYeDp88PT1XCAxGXd",
+        "term": "Stoned Level",
+        "match_name": "Stoned Level",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd",
+        "followers": null,
+        "popularity": 4,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "5Ly0z60jjgsY4rkmjRFtPS",
+        "term": "Elkka",
+        "match_name": "Elkka",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS",
+        "followers": null,
+        "popularity": 4,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "0B0BqfOKWpbYCbbR5Vh7nI",
+        "term": "Sonns",
+        "match_name": "Sonns",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0B0BqfOKWpbYCbbR5Vh7nI",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "2KxkdQaOnbZr5GWWghs9k6",
+        "term": "Goddollars",
+        "match_name": "GODDOLLARS",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/2KxkdQaOnbZr5GWWghs9k6",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "7ui1kBUIbujvJnIXxDjoWz",
+        "term": "Niiko X Swae",
+        "match_name": "NIIKO X SWAE",
+        "date": "2026-06-06T21:30:00Z",
+        "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz",
+        "followers": null,
+        "popularity": 5,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "6nS5roXSAGhTGr34W6n7Et",
+        "term": "Disclosure",
+        "match_name": "Disclosure",
+        "date": "2026-06-06T22:00:00Z",
+        "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et",
+        "followers": null,
+        "popularity": 8,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "4oLeXFyACqeem2VImYeBFe",
+        "term": "Fred Again..",
+        "match_name": "Fred again..",
+        "date": "2026-06-06T22:00:00Z",
+        "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe",
+        "followers": null,
+        "popularity": 7,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "74xeHqz5Ap8ZHq69TkxI0r",
+        "term": "Bonnie X Clyde",
+        "match_name": "BONNIE X CLYDE",
+        "date": "2026-06-06T22:00:00Z",
+        "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r",
+        "followers": null,
+        "popularity": 5,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "1qBYNcfpwmb1ensiLvWxEV",
+        "term": "Mystic Bill",
+        "match_name": "Mystic Bill",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "2WvCegSeYpobgoXwvJwsBf",
+        "term": "DJ Spun",
+        "match_name": "DJ Spun",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/2WvCegSeYpobgoXwvJwsBf",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "5q8gtpfsgBJAteKXwZQana",
+        "term": "Stacy Christine",
+        "match_name": "Stacy Christine",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5q8gtpfsgBJAteKXwZQana",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "5CkVLGKUJkIc1pmSk10QP4",
+        "term": "Eli & Fur",
+        "match_name": "Eli & Fur",
+        "date": "2026-06-06T22:00:00Z",
+        "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4",
+        "followers": null,
+        "popularity": 4,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "7w1eTNePApzDk8XtgykCPS",
+        "term": "Malaa",
+        "match_name": "Malaa",
+        "date": "2026-06-06T22:00:00Z",
+        "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS",
+        "followers": null,
+        "popularity": 6,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "71ItuJudZM8HwsrHEObadq",
+        "term": "Paradisco",
+        "match_name": "Paradisco",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/71ItuJudZM8HwsrHEObadq",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "61hat8u1OpDhaKV6ueRusz",
+        "term": "Kaali",
+        "match_name": "Kaali",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/61hat8u1OpDhaKV6ueRusz",
+        "followers": null,
+        "popularity": 1,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "3PvqCbhNlq96JXxPszCMZT",
+        "term": "Kidnap",
+        "match_name": "Kidnap",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT",
+        "followers": null,
+        "popularity": 4,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "3gk0OYeLFWYupGFRHqLSR7",
+        "term": "Showtek",
+        "match_name": "Showtek",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7",
+        "followers": null,
+        "popularity": 8,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "36AJmodiIrwV9U3QOiLMYM",
+        "term": "Harry Romero",
+        "match_name": "Harry Romero",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM",
+        "followers": null,
+        "popularity": 6,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "0EAlTKO2HfATH766bVH1rX",
+        "term": "Josh Butler",
+        "match_name": "Josh Butler",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX",
+        "followers": null,
+        "popularity": 5,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "5ma4NQfQwxRgUbE2mO9E3Q",
+        "term": "Alberto Tolo",
+        "match_name": "Alberto Tolo",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5ma4NQfQwxRgUbE2mO9E3Q",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "18BWZFP35cPhvqC66DJ613",
+        "term": "Regal86",
+        "match_name": "Regal86",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/18BWZFP35cPhvqC66DJ613",
+        "followers": null,
+        "popularity": 3,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "6boig61fpWOOmraTJ5M945",
+        "term": "Freeman 713",
+        "match_name": "Freeman 713",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6boig61fpWOOmraTJ5M945",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "58BwrwQwopuQc4yX4w9cL0",
+        "term": "FAUNA",
+        "match_name": "Fauna",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/58BwrwQwopuQc4yX4w9cL0",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    },
+    {
+        "id": "36IgCGLQm3JKt5YNTwqAI6",
+        "term": "Kaylita",
+        "match_name": "Kaylita",
+        "date": "2026-06-06T00:00:00Z",
+        "url": "https://open.spotify.com/artist/36IgCGLQm3JKt5YNTwqAI6",
+        "followers": null,
+        "popularity": 2,
+        "city": "Los Angeles"
+    }
+]

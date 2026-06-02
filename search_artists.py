@@ -85,10 +85,13 @@ def search_artists(artist_candidates, token):
     headers = {'Authorization' : f'Bearer {token}'}
     spotify_results = []
 
-    for item in artist_candidates:
+    total = len(artist_candidates)
+    printProgressBar(0, total, prefix='Searching:', suffix='', length=40)
+    for i, item in enumerate(artist_candidates, start=1):
         artists = item[0].get('artists')
         date    = item[0].get('date')
         if not artists:
+            printProgressBar(i, total, prefix='Searching:', suffix='', length=40)
             continue
 
         for term in artists:
@@ -104,7 +107,7 @@ def search_artists(artist_candidates, token):
                     if elapsed < retry_after:
                         time.sleep(1)
                 time.sleep(60)
-                token,_ = ensure_token()
+                token = ensure_token()
                 headers = {'Authorization' : f'Bearer {token}'}
                 response = requests.get(API_BASE_URL + '/search', headers=headers,
                                         params={"q": term, "type": "artist", "limit": 1})
@@ -129,6 +132,8 @@ def search_artists(artist_candidates, token):
                         "url"        : artist[0].get("external_urls", {}).get("spotify"),
                         "followers"  : artist[0].get("followers", {}).get("total")
                     })
+
+        printProgressBar(i, total, prefix='Searching:', suffix='', length=40)
 
     return spotify_results
 

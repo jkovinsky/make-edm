@@ -11,6 +11,14 @@ API_BASE_URL  = 'https://api.spotify.com/v1'
 REDIRECT_URI = 'http://127.0.0.1:5001/callback'
 TOKEN_FILE    = 'spotify_token.csv'
 
+def printProgressBar(iteration, total, prefix='', suffix='', decimals=1, length=100, fill='█', printEnd="\r"):
+    percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
+    filledLength = int(length * iteration // total)
+    bar = fill * filledLength + '-' * (length - filledLength)
+    print(f'\r{prefix} |{bar}| {percent}% {suffix}', end=printEnd, flush=True)
+    if iteration == total:
+        print()
+
 def fetch_token():
     credentials = base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
     req_body = {
@@ -58,19 +66,33 @@ def get_tracks(artists, token, output_dir: str = '.'):
 
     limits  = {(8, 10): 20, (5, 7): 50, (3, 4): 50}
     weights = {(8, 10): 2, (5, 7): 3, (3,4): 1}
-    for artist in artists:
+    total = len(artists)
+    printProgressBar(0, total, prefix='Tracks:', suffix='', length=40)
+    for i, artist in enumerate(artists, start=1):
         score = artist.get('popularity')
         artist_id = artist.get('id')
         limit = next((n for (low, high), n in limits.items() if score and low <= score <= high), 0)
         if not limit:
             continue
-
+                
+        name = (artist.get('match_name') or '').strip()
+        if not name:
+            continue
+        
+        # to-do: modify limit based on popularity score
         response = requests.get(API_BASE_URL + '/search', headers=headers,
-                                params={"q": f"artist:{artist['match_name']}", "type": "track", "limit": limit})
+                                params={"q": name, "type": "track", "limit": 10})
         time.sleep(1)
 
+        if response.status_code == 401:
+            token = ensure_token()
+            headers = {'Authorization': f'Bearer {token}'}
+            response = requests.get(API_BASE_URL + '/search', headers=headers,
+                                    params={"q": name, "type": "track", "limit": 10})
+            time.sleep(1)
+
         if not response.ok:
-            print(f"Spotify error {response.status_code} for '{artist['match_name']}'")
+            print(f"Spotify error {response.status_code} for '{name}': {response.text}")
             continue
 
         items = response.json().get('tracks', {}).get('items', [])
@@ -83,13 +105,16 @@ def get_tracks(artists, token, output_dir: str = '.'):
                 if artist_id in ids_on_track:
                     tracks_to_choose_from.append(item['uri'])
         # ammount of tracks from artist to add to playlist 
+        tracks_to_choose_from = list(set(tracks_to_choose_from))
         if tracks_to_choose_from:
             weight = next((n for (low, high), n in weights.items() if score and low <= score <= high), 0)
             track_uris = random.choices(tracks_to_choose_from, k=weight)
             for track_uri in track_uris:
-                spotify_track_uris.append({"uri": track_uri, "artist": artist['match_name']})
+                spotify_track_uris.append({"uri": track_uri, "artist": name})
         else:
-            print(f"no tracks found for {artist_id}")
+            print(f"no tracks found for {name} ({artist_id})")
+
+        printProgressBar(i, total, prefix='Tracks:', suffix='', length=40)
 
     with open(os.path.join(output_dir, 'tracks_this_week.json'), 'w') as f:
         json.dump(spotify_track_uris, f, indent=4)

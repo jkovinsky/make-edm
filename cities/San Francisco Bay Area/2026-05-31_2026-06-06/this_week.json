@@ -1,9 +1,7 @@
 [
     [
         {
-            "artists": [
-                "Turn Out"
-            ],
+            "artists": [],
             "date": "2026-06-01T00:00:00Z"
         }
     ],
@@ -20,7 +18,7 @@
             "artists": [
                 "Erinyes"
             ],
-            "date": "2026-06-02T00:00:00Z"
+            "date": "2026-06-02T21:00:00Z"
         }
     ],
     [
@@ -55,7 +53,7 @@
             "artists": [
                 "Harry Romero"
             ],
-            "date": "2026-06-03T21:00:00Z"
+            "date": "2026-06-03T00:00:00Z"
         }
     ],
     [
@@ -63,7 +61,7 @@
             "artists": [
                 "DJ S2"
             ],
-            "date": "2026-06-04T00:00:00Z"
+            "date": "2026-06-04T17:00:00Z"
         }
     ],
     [
@@ -91,7 +89,7 @@
                 "Discoesq",
                 "Huffy"
             ],
-            "date": "2026-06-04T00:00:00Z"
+            "date": "2026-06-04T20:00:00Z"
         }
     ],
     [
@@ -128,7 +126,7 @@
                 "Climax",
                 "DJ Freshie"
             ],
-            "date": "2026-06-04T21:00:00Z"
+            "date": "2026-06-04T00:00:00Z"
         }
     ],
     [
@@ -216,7 +214,6 @@
     [
         {
             "artists": [
-                "Mercury Soul",
                 "Masonic",
                 "Justin Reed"
             ],
@@ -306,7 +303,7 @@
                 "afterPRTY",
                 "Messiuhhh"
             ],
-            "date": "2026-06-05T00:00:00Z"
+            "date": "2026-06-05T21:00:00Z"
         }
     ],
     [
@@ -359,7 +356,7 @@
             "artists": [
                 "Re.You"
             ],
-            "date": "2026-06-05T00:00:00Z"
+            "date": "2026-06-05T21:00:00Z"
         }
     ],
     [
@@ -379,7 +376,7 @@
                 "Lupfr",
                 "Operator"
             ],
-            "date": "2026-06-05T00:00:00Z"
+            "date": "2026-06-05T21:30:00Z"
         }
     ],
     [
@@ -387,7 +384,7 @@
             "artists": [
                 "Dark Sparkle"
             ],
-            "date": "2026-06-05T00:00:00Z"
+            "date": "2026-06-05T21:30:00Z"
         }
     ],
     [
@@ -438,7 +435,7 @@
             "artists": [
                 "Altego"
             ],
-            "date": "2026-06-05T22:00:00Z"
+            "date": "2026-06-05T00:00:00Z"
         }
     ],
     [
@@ -484,16 +481,14 @@
     ],
     [
         {
-            "artists": [
-                "Caravan"
-            ],
+            "artists": [],
             "date": "2026-06-06T00:00:00Z"
         }
     ],
     [
         {
             "artists": [
-                "SubZERO"
+                "SubZERO Festival"
             ],
             "date": "2026-06-06T00:00:00Z"
         }
@@ -537,8 +532,7 @@
     [
         {
             "artists": [
-                "Franky Boissy",
-                "Friends"
+                "Franky Boissy & Friends"
             ],
             "date": "2026-06-06T17:00:00Z"
         }
@@ -546,12 +540,12 @@
     [
         {
             "artists": [
+                "Space Riderz",
                 "Cecil",
                 "Coflo",
-                "Cali",
-                "Space Riderz"
+                "Cali"
             ],
-            "date": "2026-06-06T17:00:00Z"
+            "date": "2026-06-06T00:00:00Z"
         }
     ],
     [
@@ -575,7 +569,7 @@
             "artists": [
                 "Glitter Goth"
             ],
-            "date": "2026-06-06T00:00:00Z"
+            "date": "2026-06-06T19:00:00Z"
         }
     ],
     [
@@ -634,7 +628,7 @@
             "artists": [
                 "Inntraw"
             ],
-            "date": "2026-06-06T21:00:00Z"
+            "date": "2026-06-06T00:00:00Z"
         }
     ],
     [
@@ -642,7 +636,7 @@
             "artists": [
                 "Bootie Mashup"
             ],
-            "date": "2026-06-06T21:00:00Z"
+            "date": "2026-06-06T00:00:00Z"
         }
     ],
     [
@@ -667,7 +661,7 @@
     [
         {
             "artists": [],
-            "date": "2026-06-06T21:00:00Z"
+            "date": "2026-06-06T00:00:00Z"
         }
     ],
     [
@@ -681,18 +675,18 @@
                 "Vrg",
                 "Jim",
                 "Olrazzledazzlee",
-                "Sndr",
-                "Open Aux"
+                "Sndr"
             ],
-            "date": "2026-06-06T00:00:00Z"
+            "date": "2026-06-06T21:00:00Z"
         }
     ],
     [
         {
             "artists": [
-                "Brto"
+                "Brto",
+                "Mayhem"
             ],
-            "date": "2026-06-06T00:00:00Z"
+            "date": "2026-06-06T21:00:00Z"
         }
     ],
     [
@@ -708,7 +702,6 @@
     [
         {
             "artists": [
-                "Special Guest",
                 "Foolie"
             ],
             "date": "2026-06-06T21:30:00Z"
@@ -734,7 +727,7 @@
                 "Fibonacci",
                 "Laplayah"
             ],
-            "date": "2026-06-06T21:30:00Z"
+            "date": "2026-06-06T00:00:00Z"
         }
     ],
     [
