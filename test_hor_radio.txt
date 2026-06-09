@@ -1,0 +1,2729 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   hoer.live | Broadcasting DJ sets and Live acts 6 days a week
+  </title>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+  <link as="font" crossorigin="" href="https://hoer.live/wp-content/themes/main/dist/fonts/ABCFavorit-Light.woff2" rel="preload" type="font/woff2"/>
+  <link as="font" crossorigin="" href="https://hoer.live/wp-content/themes/main/dist/fonts/ABCFavorit-Medium.woff2" rel="preload" type="font/woff2"/>
+  <!-- Google Tag Manager -->
+  <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KJVBC85W">
+  </script>
+  <script type="text/javascript">
+   (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-KJVBC85W');
+  </script>
+  <!-- End Google Tag Manager -->
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/apple-touch-icon-57x57.png" rel="apple-touch-icon-precomposed" sizes="57x57"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/apple-touch-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/apple-touch-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/apple-touch-icon-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/apple-touch-icon-60x60.png" rel="apple-touch-icon-precomposed" sizes="60x60"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/apple-touch-icon-120x120.png" rel="apple-touch-icon-precomposed" sizes="120x120"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/apple-touch-icon-76x76.png" rel="apple-touch-icon-precomposed" sizes="76x76"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/apple-touch-icon-152x152.png" rel="apple-touch-icon-precomposed" sizes="152x152"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/favicon-196x196.png" rel="icon" sizes="196x196" type="image/png"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/favicon-128.png" rel="icon" sizes="128x128" type="image/png"/>
+  <meta content="https://hoer.live/wp-content/themes/main/img/favicon/mstile-144x144.png" name="msapplication-TileImage"/>
+  <meta content="https://hoer.live/wp-content/themes/main/img/favicon/mstile-70x70.png" name="msapplication-square70x70logo"/>
+  <meta content="https://hoer.live/wp-content/themes/main/img/favicon/mstile-150x150.png" name="msapplication-square150x150logo"/>
+  <meta content="https://hoer.live/wp-content/themes/main/img/favicon/mstile-310x150.png" name="msapplication-wide310x150logo"/>
+  <meta content="https://hoer.live/wp-content/themes/main/img/favicon/mstile-310x310.png" name="msapplication-square310x310logo"/>
+  <link href="https://hoer.live/wp-content/themes/main/img/favicon/favicon.ico" rel="icon"/>
+  <meta content="HÖR Berlin" name="application-name"/>
+  <meta content="#34343A" name="msapplication-TileColor"/>
+  <meta content="#34343A" name="theme-color"/>
+  <meta content="#34343A" name="msapplication-navbutton-color"/>
+  <meta content="#34343A" name="apple-mobile-web-app-status-bar-style"/>
+  <!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home -->
+  <meta content="Gain access to exclusive features such as Track IDs, Live Comments and Favorites in addition to events and apparel benefits." name="description"/>
+  <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
+  <link href="https://hoer.live/" rel="canonical"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="website" property="og:type"/>
+  <meta content="hoer.live | Broadcasting DJ sets and Live acts 6 days a week" property="og:title"/>
+  <meta content="Gain access to exclusive features such as Track IDs, Live Comments and Favorites in addition to events and apparel benefits." property="og:description"/>
+  <meta content="https://hoer.live/" property="og:url"/>
+  <meta content="hoer.live" property="og:site_name"/>
+  <meta content="2026-06-04T22:05:43+02:00" property="og:updated_time"/>
+  <meta content="https://hoer.live/wp-content/uploads/2022/11/studio.jpeg" property="og:image"/>
+  <meta content="https://hoer.live/wp-content/uploads/2022/11/studio.jpeg" property="og:image:secure_url"/>
+  <meta content="1200" property="og:image:width"/>
+  <meta content="800" property="og:image:height"/>
+  <meta content="hoer studio" property="og:image:alt"/>
+  <meta content="image/jpeg" property="og:image:type"/>
+  <meta content="2022-12-12T15:00:03+01:00" property="article:published_time"/>
+  <meta content="2026-06-04T22:05:43+02:00" property="article:modified_time"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="hoer.live | Broadcasting DJ sets and Live acts 6 days a week" name="twitter:title"/>
+  <meta content="Gain access to exclusive features such as Track IDs, Live Comments and Favorites in addition to events and apparel benefits." name="twitter:description"/>
+  <meta content="https://hoer.live/wp-content/uploads/2022/11/studio.jpeg" name="twitter:image"/>
+  <meta content="Written by" name="twitter:label1"/>
+  <meta content="admin3211" name="twitter:data1"/>
+  <meta content="Time to read" name="twitter:label2"/>
+  <meta content="Less than a minute" name="twitter:data2"/>
+  <script class="rank-math-schema" type="application/ld+json">
+   {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://hoer.live/#organization","name":"HOER","url":"https://hoer.live","logo":{"@type":"ImageObject","@id":"https://hoer.live/#logo","url":"https://hoer.live/wp-content/uploads/2022/09/Frame-27.png","contentUrl":"https://hoer.live/wp-content/uploads/2022/09/Frame-27.png","caption":"HOER","inLanguage":"en-US","width":"512","height":"512"}},{"@type":"WebSite","@id":"https://hoer.live/#website","url":"https://hoer.live","name":"HOER","publisher":{"@id":"https://hoer.live/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://hoer.live/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://hoer.live/wp-content/uploads/2022/11/studio.jpeg","url":"https://hoer.live/wp-content/uploads/2022/11/studio.jpeg","width":"1200","height":"800","caption":"hoer studio","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://hoer.live/#webpage","url":"https://hoer.live/","name":"hoer.live | Broadcasting DJ sets and Live acts 6 days a week","datePublished":"2022-12-12T15:00:03+01:00","dateModified":"2026-06-04T22:05:43+02:00","about":{"@id":"https://hoer.live/#organization"},"isPartOf":{"@id":"https://hoer.live/#website"},"primaryImageOfPage":{"@id":"https://hoer.live/wp-content/uploads/2022/11/studio.jpeg"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://hoer.live/artist/admin3211/","name":"admin3211","url":"https://hoer.live/artist/admin3211/","image":{"@type":"ImageObject","@id":"https://hoer.live/wp-content/uploads/2023/01/80s-dolph.jpg","url":"https://hoer.live/wp-content/uploads/2023/01/80s-dolph.jpg","caption":"admin3211","inLanguage":"en-US"},"sameAs":["https://hoer.live"],"worksFor":{"@id":"https://hoer.live/#organization"}},{"@type":"Article","headline":"hoer.live | Broadcasting DJ sets and Live acts 6 days a week","keywords":"hoer.live,live,dj set,h\u00f6r berlin,electronic music","datePublished":"2022-12-12T15:00:03+01:00","dateModified":"2026-06-04T22:05:43+02:00","author":{"@id":"https://hoer.live/artist/admin3211/"},"publisher":{"@id":"https://hoer.live/#organization"},"description":"Gain access to exclusive features such as Track IDs, Live Comments and Favorites in addition to events and apparel benefits.","name":"hoer.live | Broadcasting DJ sets and Live acts 6 days a week","@id":"https://hoer.live/#richSnippet","isPartOf":{"@id":"https://hoer.live/#webpage"},"image":{"@id":"https://hoer.live/wp-content/uploads/2022/11/studio.jpeg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://hoer.live/#webpage"}}]}
+  </script>
+  <!-- /Rank Math WordPress SEO plugin -->
+  <link href="//www.google.com" rel="dns-prefetch"/>
+  <link href="//cdn.jsdelivr.net" rel="dns-prefetch"/>
+  <link href="https://hoer.live/wp-content/plugins/woocommerce-subscriptions/vendor/woocommerce/subscriptions-core/build/index.css?ver=7.7.1" id="wc-blocks-integration-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://hoer.live/wp-content/plugins/woocommerce-gateway-stripe/build/upe_blocks.css?ver=386d29d32e104978df914e3506b8aefb" id="wc-stripe-blocks-checkout-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="classic-theme-styles-inline-css" type="text/css">
+   /*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+  </style>
+  <style id="global-styles-inline-css" type="text/css">
+   :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--inter: "Inter", sans-serif;--wp--preset--font-family--cardo: Cardo;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+  </style>
+  <style id="woocommerce-inline-inline-css" type="text/css">
+   .woocommerce form .form-row .required { visibility: visible; }
+  </style>
+  <link href="https://hoer.live/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=15.6.3" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://hoer.live/wp-content/plugins/wpdiscuz/themes/default/style-minimal.css?ver=99.9.99" id="wpdiscuz-frontend-minimal-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="wpdiscuz-frontend-minimal-css-inline-css" type="text/css">
+   #wpdcom .ql-snow .ql-tooltip[data-mode="link"]::before{content:"Enter link:"}#wpdcom .ql-snow .ql-tooltip.ql-editing a.ql-action::after{content:"Save"}
+  </style>
+  <link href="https://hoer.live/wp-content/plugins/wpdiscuz/assets/css/wpdiscuz-combo-no_quill.min.css?ver=6.6.2" id="wpdiscuz-combo-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css?ver=6.6.2" id="dataPicker-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://hoer.live/wp-content/themes/main/dist/css/main-style.css?ver=1.4.14" id="main-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://hoer.live/wp-content/plugins/woo-ajax-loginregister/assets/css/style.css?ver=2.0.5" id="alr-ajax-css" media="all" rel="stylesheet" type="text/css"/>
+  <script id="jquery-core-js" src="https://hoer.live/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" type="text/javascript">
+  </script>
+  <!--<script type="text/javascript" src="https://hoer.live/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>-->
+  <!--<script type="e29195c1148e07bfde4a75df-text/javascript" src="https://hoer.live/wp-content/plugins/recaptcha-woo/js/rcfwc.js?ver=1.0" id="rcfwc-js-js" defer="defer" data-wp-strategy="defer"></script>-->
+  <!--<script type="e29195c1148e07bfde4a75df-text/javascript" src="https://www.google.com/recaptcha/api.js?explicit&amp;hl=en_US" id="recaptcha-js" defer="defer" data-wp-strategy="defer"></script>-->
+  <!--<script type="text/javascript" src="https://hoer.live/wp-content/themes/main/dist/js/vanilla-marquee.min.js?ver=6.6.2" id="marquee-js"></script>-->
+  <!--<script type="text/javascript" src="https://hoer.live/wp-content/themes/main/dist/js/splide.min.js?ver=6.6.2" id="splide-js"></script>-->
+  <!--<script type="text/javascript" id="loadmore-js-extra">
+/* <![CDATA[ */
+var misha_loadmore_params = {"ajaxurl":"https:\/\/hoer.live\/wp-admin\/admin-ajax.php","posts":"{\"post_type\":\"post\",\"post_status\":\"publish\",\"meta_query\":[{\"key\":\"youtube_id\",\"compare\":\"!=\",\"value\":\"0\"}],\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"posts_per_page\":8,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","current_page":"1","current_page_styles":"1","max_page":"1137"};
+/* ]]> */
+</script>-->
+  <!--<script type="text/javascript" src="https://hoer.live/wp-content/themes/main/js/loadmore.js?ver=6.6.2" id="loadmore-js"></script>-->
+  <!--<script type="text/javascript" id="alr-ajax-js-extra">
+/* <![CDATA[ */
+var zorem_ajax_object = {"ajax_url":"https:\/\/hoer.live\/wp-admin\/admin-ajax.php","required_message":"Please fill all required fields.","valid_email":"Please Enter valid email.","loading_text":"Loading...","plugin_dir_url":"https:\/\/hoer.live\/wp-content\/plugins\/woo-ajax-loginregister\/"};
+/* ]]> */
+</script>-->
+  <!--<script type="text/javascript" src="https://hoer.live/wp-content/plugins/woo-ajax-loginregister/assets/js/script.js?ver=2.0.5" id="alr-ajax-js"></script>-->
+  <link href="https://hoer.live/wp-json/" rel="https://api.w.org/"/>
+  <link href="https://hoer.live/wp-json/wp/v2/pages/22" rel="alternate" title="JSON" type="application/json"/>
+  <link href="https://hoer.live/" rel="shortlink"/>
+  <meta content="1.5.3" name="cdp-version"/>
+  <!--<script type="text/javascript">//<![CDATA[
+  function external_links_in_new_windows_loop() {
+    if (!document.links) {
+      document.links = document.getElementsByTagName('a');
+    }
+    var change_link = false;
+    var force = '';
+    var ignore = '';
+
+    for (var t=0; t<document.links.length; t++) {
+      var all_links = document.links[t];
+      change_link = false;
+      
+      if(document.links[t].hasAttribute('onClick') == false) {
+        // forced if the address starts with http (or also https), but does not link to the current domain
+        if(all_links.href.search(/^http/) != -1 && all_links.href.search('hoer.live') == -1 && all_links.href.search(/^#/) == -1) {
+          // console.log('Changed ' + all_links.href);
+          change_link = true;
+        }
+          
+        if(force != '' && all_links.href.search(force) != -1) {
+          // forced
+          // console.log('force ' + all_links.href);
+          change_link = true;
+        }
+        
+        if(ignore != '' && all_links.href.search(ignore) != -1) {
+          // console.log('ignore ' + all_links.href);
+          // ignored
+          change_link = false;
+        }
+
+        if(change_link == true) {
+          // console.log('Changed ' + all_links.href);
+          document.links[t].setAttribute('onClick', 'javascript:window.open(\'' + all_links.href.replace(/'/g, '') + '\', \'_blank\', \'noopener\'); return false;');
+          document.links[t].removeAttribute('target');
+        }
+      }
+    }
+  }
+  
+  // Load
+  function external_links_in_new_windows_load(func)
+  {  
+    var oldonload = window.onload;
+    if (typeof window.onload != 'function'){
+      window.onload = func;
+    } else {
+      window.onload = function(){
+        oldonload();
+        func();
+      }
+    }
+  }
+
+  external_links_in_new_windows_load(external_links_in_new_windows_loop);
+  //]]></script>-->
+  <noscript>
+   <style>
+    .woocommerce-product-gallery{ opacity: 1 !important; }
+   </style>
+  </noscript>
+  <style id="wp-fonts-local" type="text/css">
+   @font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('https://hoer.live/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('https://hoer.live/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');}
+  </style>
+  <link href="https://hoer.live/wp-content/uploads/2022/09/cropped-Frame-27-32x32.png" rel="icon" sizes="32x32"/>
+  <link href="https://hoer.live/wp-content/uploads/2022/09/cropped-Frame-27-192x192.png" rel="icon" sizes="192x192"/>
+  <link href="https://hoer.live/wp-content/uploads/2022/09/cropped-Frame-27-180x180.png" rel="apple-touch-icon"/>
+  <meta content="https://hoer.live/wp-content/uploads/2022/09/cropped-Frame-27-270x270.png" name="msapplication-TileImage"/>
+  <style id="wp-custom-css" type="text/css">
+   .wpcf7-not-valid-tip {
+	display: block !important;
+	margin-top: 4px;
+}
+  </style>
+  <style>
+   .aiaia-label{display: none!important}
+  </style>
+  <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  <link as="script" href="https://hoer.live/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.4.3" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.4.3" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-content/themes/main/dist/js/main-script.js?ver=1.4.14" rel="preload"/>
+  <link as="script" href="https://cdn.jsdelivr.net/npm/flatpickr" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-content/themes/main/js/favorite.js?ver=1.0.0" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-content/themes/main/js/ajax-search.js?ver=1.0.0" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz-combo-no_quill.min.js?ver=99.9.99" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-content/plugins/contact-form-7/includes/js/index.js?ver=15.6.3" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=15.6.3" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-content/plugins/woo-ajax-loginregister/assets/js/script.js?ver=2.0.5" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-content/themes/main/js/loadmore.js?ver=6.6.2" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-content/themes/main/dist/js/splide.min.js?ver=6.6.2" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-content/themes/main/dist/js/vanilla-marquee.min.js?ver=6.6.2" rel="preload"/>
+  <link as="script" href="https://www.google.com/recaptcha/api.js?explicit&amp;hl=en_US" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-content/plugins/recaptcha-woo/js/rcfwc.js?ver=1.0" rel="preload"/>
+  <link as="script" href="https://hoer.live/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" rel="preload"/>
+ </head>
+ <body class="home page-template-default page page-id-22 body theme-main woocommerce-no-js">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KJVBC85W" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div id="top" style="width: 0;height: 0;opacity: 0;position:absolute;top:0;left:0">
+  </div>
+  <header class="header" id="header">
+   <div class="header__body">
+    <div class="header__left">
+     <a class="logo home-scroll" href="/">
+      <img alt="HÖR Berlin" height="32" src="https://hoer.live/wp-content/themes/main/img/logo.svg" width="111"/>
+     </a>
+    </div>
+    <div class="header__right">
+     <nav class="nav nav_header">
+      <ul class="desktop-menu">
+       <li>
+        <a class="no-ajax" href="https://hoer.live/maximum-heat-contest-2026/">
+         Maximum Heat
+        </a>
+       </li>
+       <li>
+        <a data-tab="3" href="/#library">
+         Library
+        </a>
+       </li>
+       <li>
+        <a href="/calendar/">
+         Calendar
+        </a>
+       </li>
+       <li>
+        <a class="shop-link no-ajax" href="https://hoer.berlin" target="_blank">
+         Shop
+        </a>
+       </li>
+       <li>
+        <a class="not-member" href="/members/">
+         Members
+        </a>
+       </li>
+      </ul>
+      <ul class="mobile-menu">
+       <li>
+        <a class="no-ajax" href="https://hoer.live/maximum-heat-contest-2026/">
+         Maximum Heat
+        </a>
+       </li>
+       <li class="mobile-menu__bordered">
+        <a data-tab="3" href="/#library">
+         Library
+        </a>
+       </li>
+       <li>
+        <a data-tab="4" href="/#picks">
+         Picks
+        </a>
+       </li>
+       <li>
+        <a data-tab="5" href="/#styles">
+         Styles
+        </a>
+       </li>
+       <li>
+        <a data-tab="6" href="/#artists">
+         Artists
+        </a>
+       </li>
+       <li class="mobile-menu__bordered">
+        <a href="/members/">
+         Members
+        </a>
+       </li>
+       <li class="mobile-menu__bordered">
+        <a href="/calendar/">
+         Calendar
+        </a>
+       </li>
+       <li class="mobile-menu__bordered">
+        <a class="shop-link no-ajax" href="https://hoer.berlin" target="_blank">
+         Shop
+        </a>
+       </li>
+       <li class="mobile-menu__bordered">
+        <a class="icon icon_heart" href="/members/">
+         <svg fill="none" height="18" viewbox="0 0 20 18" width="20" xmlns="http://www.w3.org/2000/svg">
+          <path d="M2.45067 9.90821L9.40329 16.4395C9.64278 16.6644 9.76253 16.7769 9.90372 16.8046C9.9673 16.8171 10.0327 16.8171 10.0963 16.8046C10.2375 16.7769 10.3572 16.6644 10.5967 16.4395L17.5493 9.90821C19.5055 8.07059 19.743 5.0466 18.0978 2.92607L17.7885 2.52734C15.8203 -0.00942016 11.8696 0.416014 10.4867 3.31365C10.2913 3.72296 9.70868 3.72296 9.51333 3.31365C8.13037 0.416014 4.17972 -0.00941634 2.21154 2.52735L1.90219 2.92607C0.256947 5.0466 0.494498 8.07059 2.45067 9.90821Z" fill="#C2FF09" stroke="#C2FF09" stroke-miterlimit="1.55572">
+          </path>
+         </svg>
+         Favorites
+        </a>
+       </li>
+       <li class="mobile-menu__bordered">
+        <span class="icon icon_member open-popup" data-popup="popup-login">
+         <svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+          <path clip-rule="evenodd" d="M6.35231 5.1687C6.35231 3.09729 7.99505 1.43555 10.0002 1.43555C12.0053 1.43555 13.648 3.09729 13.648 5.1687C13.648 7.2401 12.0053 8.90185 10.0002 8.90185C7.99505 8.90185 6.35231 7.2401 6.35231 5.1687ZM10.0002 0.435547C7.42368 0.435547 5.35231 2.56429 5.35231 5.1687C5.35231 7.7731 7.42368 9.90185 10.0002 9.90185C12.5767 9.90185 14.648 7.7731 14.648 5.1687C14.648 2.56429 12.5767 0.435547 10.0002 0.435547ZM10.0002 13.2745C7.86717 13.2745 5.7832 13.7979 4.07075 14.7763C2.3587 15.7544 1.09456 17.145 0.515015 18.7554L0.345703 19.2258L1.28663 19.5644L1.45594 19.094C1.93985 17.7494 3.01907 16.5288 4.56681 15.6446C6.11416 14.7606 8.02427 14.2745 10.0002 14.2745C11.9761 14.2745 13.8862 14.7606 15.4335 15.6446C16.9813 16.5288 18.0605 17.7494 18.5444 19.094L18.7137 19.5644L19.6546 19.2258L19.4853 18.7554C18.9058 17.145 17.6416 15.7544 15.9296 14.7763C14.2171 13.7979 12.1332 13.2745 10.0002 13.2745Z" fill="#F1F1F1" fill-rule="evenodd">
+          </path>
+         </svg>
+         Account
+        </span>
+       </li>
+      </ul>
+     </nav>
+     <div class="header__icons">
+      <span class="icon icon_search toggle-search">
+       <svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+        <path clip-rule="evenodd" d="M1.04199 8.23777C1.04199 4.26337 4.2638 1.0415 8.23807 1.0415C12.2123 1.0415 15.4341 4.26337 15.4341 8.23777C15.4341 12.2122 12.2123 15.434 8.23807 15.434C4.2638 15.434 1.04199 12.2122 1.04199 8.23777ZM8.23807 0.0415039C3.71149 0.0415039 0.0419922 3.71111 0.0419922 8.23777C0.0419922 12.7644 3.71149 16.434 8.23807 16.434C10.3215 16.434 12.2234 15.6566 13.6695 14.3761L18.8979 19.6045L19.2515 19.9581L19.9586 19.251L19.605 18.8974L14.3765 13.669C15.6569 12.2229 16.4341 10.3211 16.4341 8.23777C16.4341 3.71111 12.7646 0.0415039 8.23807 0.0415039Z" fill="#F1F1F1" fill-rule="evenodd">
+        </path>
+       </svg>
+      </span>
+      <a class="icon icon_heart" href="/members/">
+       <svg fill="none" height="18" viewbox="0 0 20 18" width="20" xmlns="http://www.w3.org/2000/svg">
+        <path d="M2.45067 9.90821L9.40329 16.4395C9.64278 16.6644 9.76253 16.7769 9.90372 16.8046C9.9673 16.8171 10.0327 16.8171 10.0963 16.8046C10.2375 16.7769 10.3572 16.6644 10.5967 16.4395L17.5493 9.90821C19.5055 8.07059 19.743 5.0466 18.0978 2.92607L17.7885 2.52734C15.8203 -0.00942016 11.8696 0.416014 10.4867 3.31365C10.2913 3.72296 9.70868 3.72296 9.51333 3.31365C8.13037 0.416014 4.17972 -0.00941634 2.21154 2.52735L1.90219 2.92607C0.256947 5.0466 0.494498 8.07059 2.45067 9.90821Z" stroke="#F1F1F1" stroke-miterlimit="1.55572">
+        </path>
+       </svg>
+      </a>
+      <span class="icon icon_member open-popup" data-popup="popup-login">
+       <span class="user-letter__text">
+       </span>
+       <svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+        <path clip-rule="evenodd" d="M6.35231 5.1687C6.35231 3.09729 7.99505 1.43555 10.0002 1.43555C12.0053 1.43555 13.648 3.09729 13.648 5.1687C13.648 7.2401 12.0053 8.90185 10.0002 8.90185C7.99505 8.90185 6.35231 7.2401 6.35231 5.1687ZM10.0002 0.435547C7.42368 0.435547 5.35231 2.56429 5.35231 5.1687C5.35231 7.7731 7.42368 9.90185 10.0002 9.90185C12.5767 9.90185 14.648 7.7731 14.648 5.1687C14.648 2.56429 12.5767 0.435547 10.0002 0.435547ZM10.0002 13.2745C7.86717 13.2745 5.7832 13.7979 4.07075 14.7763C2.3587 15.7544 1.09456 17.145 0.515015 18.7554L0.345703 19.2258L1.28663 19.5644L1.45594 19.094C1.93985 17.7494 3.01907 16.5288 4.56681 15.6446C6.11416 14.7606 8.02427 14.2745 10.0002 14.2745C11.9761 14.2745 13.8862 14.7606 15.4335 15.6446C16.9813 16.5288 18.0605 17.7494 18.5444 19.094L18.7137 19.5644L19.6546 19.2258L19.4853 18.7554C18.9058 17.145 17.6416 15.7544 15.9296 14.7763C14.2171 13.7979 12.1332 13.2745 10.0002 13.2745Z" fill="#F1F1F1" fill-rule="evenodd">
+        </path>
+       </svg>
+      </span>
+     </div>
+     <div class="hamburger hamburger--slider js-hamburger">
+      <div class="hamburger-box">
+       <div class="hamburger-inner">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </header>
+  <!-- Share block -->
+  <div class="share-block d-none">
+   <span class="close-share popup__close">
+   </span>
+   <div class="share_inner">
+    <div class="share__title">
+     Share
+    </div>
+    <div class="share__icons">
+     <div>
+      <a class="icon facebook" href="" target="_blank">
+       <svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+        <path clip-rule="evenodd" d="M11.5 21.5C17.0228 21.5 21.5 17.0228 21.5 11.5C21.5 5.97715 17.0228 1.5 11.5 1.5C5.97715 1.5 1.5 5.97715 1.5 11.5C1.5 16.4288 5.06576 20.5247 9.75833 21.3489V14.5583H7.21429V11.7358H9.75833V9.5846C9.75833 7.13781 11.2535 5.78571 13.543 5.78571C14.6389 5.78571 15.7857 5.97642 15.7857 5.97642V8.37933H14.5215C13.2769 8.37933 12.8894 9.13264 12.8894 9.90499V11.7358H15.6683L15.2241 14.5583H12.8894V21.3818C12.4072 21.4556 11.9144 21.4954 11.4128 21.4996C11.4418 21.4999 11.4709 21.5 11.5 21.5Z" fill="#F1F1F1" fill-rule="evenodd">
+        </path>
+       </svg>
+      </a>
+      facebook
+     </div>
+     <div>
+      <a class="icon twitter" href="" target="_blank">
+       <svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_3601_30882)">
+         <path d="M15.484 0H4.51602C2.02189 0 0 2.03125 0 4.53693V15.4631C0 17.9687 2.02189 20 4.51602 20H15.484C17.9781 20 20 17.9687 20 15.4631V4.53693C20 2.03125 17.9781 0 15.484 0Z" fill="#F1F1F1">
+         </path>
+         <path d="M12.6463 5.82178H14.0572L10.9748 9.36153L14.601 14.1779H11.7615L9.5377 11.257L6.99277 14.1779H5.58105L8.87793 10.3921L5.39941 5.82178H8.31074L10.3209 8.4919L12.6463 5.82178ZM12.151 13.3294H12.933L7.88613 6.62587H7.04707L12.151 13.3294Z" fill="#515054">
+         </path>
+        </g>
+        <defs>
+         <clippath id="clip0_3601_30882">
+          <rect fill="white" height="20" width="20">
+          </rect>
+         </clippath>
+        </defs>
+       </svg>
+      </a>
+      x(twitter)
+     </div>
+     <div>
+      <a class="icon whatsapp" data-action="share/whatsapp/share" href="" target="_blank">
+       <svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+        <path clip-rule="evenodd" d="M20 10C20 15.5228 15.5228 20 10 20C8.27066 20 6.64384 19.561 5.2249 18.7884L0 20L1.29891 14.9321C0.472141 13.4767 0 11.7935 0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10ZM18.4615 10C18.4615 14.6732 14.6732 18.4615 10 18.4615C8.21755 18.4615 6.56383 17.9104 5.19995 16.9692L2.30769 17.6923L3.0656 14.8502C2.10322 13.4768 1.53846 11.8043 1.53846 10C1.53846 5.32682 5.32682 1.53846 10 1.53846C14.6732 1.53846 18.4615 5.32682 18.4615 10ZM6.55974 6.16736C6.84266 6.16491 7.11631 6.16254 7.2995 6.53049C7.45801 6.84886 7.65293 7.39545 7.883 8.0484L7.88599 8.05687C7.93971 8.20916 8.02358 8.44693 7.91335 8.60453C7.80104 8.76509 7.55062 9.08817 7.36926 9.29743C7.3228 9.35103 7.2297 9.47369 7.35657 9.67361C7.38812 9.72332 7.41534 9.77424 7.44533 9.83035C7.56616 10.0564 7.73198 10.3665 8.40632 11.0202C9.08695 11.68 9.94083 12.0598 10.2558 12.1862C10.3413 12.2347 10.547 12.2997 10.6849 12.1713C10.7484 12.1123 10.8679 11.9597 10.9982 11.7932C11.1512 11.5977 11.3192 11.3831 11.429 11.2785C11.4323 11.2755 11.4357 11.2724 11.4392 11.2691C11.5126 11.2018 11.6289 11.0952 11.8429 11.1808C12.0301 11.2558 12.7487 11.6016 13.2915 11.8628C13.3983 11.9142 13.4982 11.9623 13.586 12.0044C13.6723 12.0318 13.7976 12.1325 13.7976 12.3343C13.7976 12.7898 13.4751 14.1384 11.908 14.1663C10.3408 14.1942 8.45309 13.3746 7.0164 11.7902C5.52772 10.1484 5.08594 9.05097 5.08594 8.0484C5.08594 6.82507 5.9416 6.16776 6.49036 6.16776C6.51352 6.16776 6.53666 6.16756 6.55974 6.16736Z" fill="#F1F1F1" fill-rule="evenodd">
+        </path>
+       </svg>
+      </a>
+      whatsapp
+     </div>
+     <div>
+      <span class="icon copy_link" data-url="">
+       <svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+        <rect fill="#F1F1F1" height="20" rx="10" width="20" x="2" y="2">
+        </rect>
+        <path clip-rule="evenodd" d="M7.73718 12.1272C6.77033 12.6854 6.43906 13.9217 6.99727 14.8885C7.55549 15.8554 8.7918 16.1867 9.75865 15.6285L11.7546 14.4761C12.1134 14.269 12.5721 14.3919 12.7792 14.7506C12.9863 15.1093 12.8634 15.568 12.5046 15.7751L10.5087 16.9275C8.82436 17.8999 6.67066 17.3228 5.69823 15.6385C4.72581 13.9543 5.30289 11.8006 6.98718 10.8281L8.98318 9.67574C9.3419 9.46864 9.80059 9.59154 10.0077 9.95026C10.2148 10.309 10.0919 10.7677 9.73318 10.9748L7.73718 12.1272ZM8.83839 13.8256C8.63129 13.4669 8.75419 13.0082 9.11291 12.8011L14.1371 9.90035C14.4958 9.69325 14.9545 9.81615 15.1616 10.1749C15.3687 10.5336 15.2458 10.9923 14.8871 11.1994L9.86291 14.1001C9.50419 14.3072 9.0455 14.1843 8.83839 13.8256ZM17.0027 9.11194C16.4444 8.14509 15.2081 7.81382 14.2413 8.37203L12.2453 9.52442C11.8866 9.73153 11.4279 9.60862 11.2208 9.2499C11.0137 8.89118 11.1366 8.43249 11.4953 8.22538L13.4913 7.07299C15.1756 6.10057 17.3293 6.67765 18.3017 8.36194C19.2741 10.0462 18.697 12.1999 17.0128 13.1724L15.0168 14.3247C14.658 14.5319 14.1993 14.4089 13.9922 14.0502C13.7851 13.6915 13.908 13.2328 14.2668 13.0257L16.2628 11.8733C17.2296 11.3151 17.5609 10.0788 17.0027 9.11194Z" fill="#515054" fill-rule="evenodd">
+        </path>
+       </svg>
+      </span>
+      copy link
+     </div>
+    </div>
+   </div>
+  </div>
+  <section class="section section_main-video section_expanded" data-url="">
+   <div class="main-video">
+    <div class="main-video__player" data-title="Dame-Music – Deas | HÖR – March 27 / 2025">
+     <div class="video-block">
+      <div class="video-block__heading">
+       <span class="video-block__expand home-scroll">
+       </span>
+       Now Playing
+       <span class="video-block__close">
+       </span>
+      </div>
+      <div id="player">
+      </div>
+     </div>
+     <!--<script type="text/javascript">
+                    // Insert the sanitized marquee text into the .player__marquee element
+                    jQuery('.player__marquee').html("<span>Now on air: DEAS - Dame-Music<\/span>");
+
+                    // Set the background image for .player__image
+                    jQuery('.player__image').css({
+                        'background-image': 'url(https://i3.ytimg.com/vi/XhRBrv88e_o/maxresdefault.jpg)',
+                        'height': '32px',
+                        'margin-right': '10px'
+                    });
+
+                    // Set the cookie with the sanitized and encoded content
+                    document.cookie = "current=DEAS%20-%20Dame-Music|https%3A%2F%2Fhoer.live%2Fdame-music-deas-hor-march-27-2025%2F|XhRBrv88e_o|191296; expires=Tue, 1 Jan 2030 00:00:00 UTC; path=/";
+
+
+                    var tag = document.createElement('script');
+
+                    tag.src = "https://www.youtube.com/iframe_api";
+                    var firstScriptTag = document.getElementsByTagName('script')[0];
+                    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+                    var player,
+                        desktop = 0;
+                    if (window.innerWidth > 998) {
+                        desktop = 1;
+                    }
+                    function onYouTubeIframeAPIReady() {
+                        player = new YT.Player('player', {
+                            height: '588',
+                            width: '1045',
+                            videoId: 'XhRBrv88e_o',
+                            playerVars: {'autoplay':desktop, 'ecver': 2, 'controls': 2, 'color': 'white', 'rel': 0, 'cc_load_policy': 0, 'fs': 1, 'iv_load_policy': 3, 'showinfo': 0, 'modestbranding': 0, 'startSeconds': 1, 'mute': 1, 'start': 1},
+                            events: {
+                                'onReady': function() {
+                                    if (desktop) {
+                                        player.playVideo();
+                                    }
+                                    setTimeout(function() {
+                                        setInterval(function(){
+                                            document.cookie = 'currentTime='+Math.floor(player.getCurrentTime())+'; expires=Tue, 1 Jan 2030 00:00:00 UTC; path=/';
+                                            document.cookie = 'videoMuted='+player.isMuted()+'; expires=Tue, 1 Jan 2030 00:00:00 UTC; path=/';
+                                        }, 1000);
+                                    }, 5000);
+                                },
+                                'onStateChange': function (event) {
+                                    if(desktop){
+                                        if (event.data == YT.PlayerState.PAUSED || event.data == YT.PlayerState.ENDED) {
+                                            jQuery('.player__button').addClass('player__button_pause');
+                                        }else if(event.data == YT.PlayerState.PLAYING){
+                                            // player.unMute();
+                                            jQuery('.player__button').removeClass('player__button_pause');
+                                        }
+                                    }
+                                }
+                            }
+                        });
+                    }
+
+                    document.cookie = 'fromFavs=; Max-Age=0';
+                    jQuery('.player__button').on('click', function(){
+                        jQuery(this).toggleClass('player__button_pause');
+                        if (jQuery(this).hasClass('player__button_pause')) {
+                            player.pauseVideo();
+                        }else{
+                            player.playVideo();
+                            // player.unMute();
+                        }
+                    })
+                </script>-->
+    </div>
+    <div class="main-video__content">
+     <div class="main-video__row">
+      <h1 class="main-video__title" data-video="dame-music-deas-hor-march-27-2025">
+       <a href="/artist/deas/">
+        DEAS
+       </a>
+      </h1>
+      <div class="main-video__icons">
+       <a class="icon icon_heart" href="/members/">
+        <span class="icon__message">
+         Become a member to save shows
+        </span>
+        <svg fill="none" height="18" viewbox="0 0 20 18" width="20" xmlns="http://www.w3.org/2000/svg">
+         <path d="M2.45067 9.90821L9.40329 16.4395C9.64278 16.6644 9.76253 16.7769 9.90372 16.8046C9.9673 16.8171 10.0327 16.8171 10.0963 16.8046C10.2375 16.7769 10.3572 16.6644 10.5967 16.4395L17.5493 9.90821C19.5055 8.07059 19.743 5.0466 18.0978 2.92607L17.7885 2.52734C15.8203 -0.00942016 11.8696 0.416014 10.4867 3.31365C10.2913 3.72296 9.70868 3.72296 9.51333 3.31365C8.13037 0.416014 4.17972 -0.00941634 2.21154 2.52735L1.90219 2.92607C0.256947 5.0466 0.494498 8.07059 2.45067 9.90821Z" stroke="#F1F1F1" stroke-miterlimit="1.55572">
+         </path>
+        </svg>
+       </a>
+       <span class="icon icon_share" data-hashtags="Techno,Driving" data-title="Dame-Music – Deas | HÖR – March 27 / 2025" data-url="https://hoer.live/dame-music-deas-hor-march-27-2025/">
+        <svg fill="none" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+         <path d="M1.31114 21L1.01114 18C1.01114 17.8 0.591141 12.9 3.43114 9.29C5.23114 7 8.86114 5.79 12.2811 5.63L12.3111 1L21.0111 9.09L12.3011 17.36V12.54H10.8211C8.976 12.4308 7.14602 12.9303 5.61226 13.9618C4.07851 14.9934 2.92579 16.4999 2.33114 18.25L1.31114 21Z" stroke="#F1F1F1" stroke-linejoin="round">
+         </path>
+        </svg>
+       </span>
+      </div>
+     </div>
+     <div class="main-video__row main-video__row_wrap">
+      <div class="main-video__row">
+       <div class="main-video__showcase">
+        <a href="/showcase/dame-music/">
+         Dame-Music
+        </a>
+        <div class="main-video__meta">
+         Mar 27, 2025
+         <span class="views">
+         </span>
+         60.8K views
+        </div>
+       </div>
+      </div>
+      <div class="main-video__row main-video__row_left">
+       <a class="btn" href="/tag/techno/">
+        Techno
+       </a>
+       <a class="btn" href="/tag/driving/">
+        Driving
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="video-info">
+    <div class="video-info__head">
+     <div class="video-tabs">
+      <div class="video-tabs__button">
+      </div>
+      <a class="video-info__title video-info__title_trackid" href="/members/">
+       <span class="icon">
+        <svg fill="none" height="18" viewbox="0 0 25 18" width="25" xmlns="http://www.w3.org/2000/svg">
+         <path clip-rule="evenodd" d="M9.10122 0C4.13247 0 0.104492 4.02797 0.104492 8.99673C0.104492 13.9655 4.13247 17.9935 9.10122 17.9935L12.398 17.9935H12.9248L15.3463 17.9935V17.9768C15.529 17.9879 15.7132 17.9935 15.8987 17.9935C20.8674 17.9935 24.8954 13.9655 24.8954 8.99673C24.8954 4.02797 20.8674 0 15.8987 0C15.7132 0 15.529 0.00561248 15.3463 0.0166769V0L12.9248 0L12.398 0L9.10122 0ZM6.90192 8.99673C6.90192 12.4557 8.85396 15.4588 11.7165 16.9644C9.84531 16.8044 8.08163 15.9895 6.74342 14.6513C5.24374 13.1516 4.40123 11.1176 4.40123 8.99673C4.40123 4.80946 7.61953 1.37385 11.7175 1.02854C8.85441 2.534 6.90192 5.53735 6.90192 8.99673ZM8.16927 1.05373C4.19188 1.51537 1.10449 4.8955 1.10449 8.99673C1.10449 13.0996 4.19436 16.4808 8.17407 16.9403C7.39402 16.5255 6.67244 15.9945 6.03631 15.3584C4.3491 13.6712 3.40123 11.3828 3.40123 8.99673C3.40123 5.55653 5.33212 2.56732 8.16927 1.05373ZM15.8987 1C11.4822 1 7.90192 4.58026 7.90192 8.99673C7.90192 13.4132 11.4822 16.9935 15.8987 16.9935C20.3151 16.9935 23.8954 13.4132 23.8954 8.99673C23.8954 4.58026 20.3151 1 15.8987 1ZM14.8947 8.99673C14.8947 8.44228 15.3442 7.99281 15.8986 7.99281C16.4531 7.99281 16.9026 8.44228 16.9026 8.99673C16.9026 9.55118 16.4531 10.0007 15.8986 10.0007C15.3442 10.0007 14.8947 9.55118 14.8947 8.99673ZM15.8986 6.99281C14.7919 6.99281 13.8947 7.89 13.8947 8.99673C13.8947 10.1035 14.7919 11.0007 15.8986 11.0007C17.0054 11.0007 17.9026 10.1035 17.9026 8.99673C17.9026 7.89 17.0054 6.99281 15.8986 6.99281Z" fill="#f1f1f1" fill-rule="evenodd">
+         </path>
+        </svg>
+       </span>
+       Track ID
+       <span class="tooltip tooltip_head">
+        Become a member to view Track ID
+       </span>
+      </a>
+      <div class="video-info__title tab-head_active tab-head" data-parent=".video-info__body" data-tab="1">
+       <span class="icon">
+        <svg fill="none" height="18" viewbox="0 0 25 18" width="25" xmlns="http://www.w3.org/2000/svg">
+         <path clip-rule="evenodd" d="M12.3684 1.00001C9.19176 1.00001 7.72858 1.00683 6.56476 1.40638C4.37659 2.15757 2.65757 3.87659 1.90637 6.06476C1.62648 6.88007 1.53616 7.86061 1.51042 9.51913C1.50992 9.55129 1.50636 9.58286 1.5 9.61354V11.8684V14.0249V16.1158C1.5 16.5615 2.03903 16.7845 2.35388 16.469L4.99962 13.8184L5.01345 13.8043C5.0645 13.752 5.17173 13.6421 5.31636 13.5821C5.46098 13.5221 5.61454 13.5239 5.68764 13.5247L5.70738 13.5249L16.9744 13.5249C20.4331 13.5249 23.2368 10.7211 23.2368 7.26244C23.2368 3.8038 20.433 1.00001 16.9744 1.00001H12.3684ZM12.2366 2.72762e-06L12.3684 5.23102e-06H16.9744C20.9853 5.23102e-06 24.2368 3.25151 24.2368 7.26244C24.2368 11.2734 20.9853 14.5249 16.9744 14.5249L5.70738 14.5249L3.06164 17.1755C2.11709 18.1218 0.5 17.4528 0.5 16.1158V14.0249V11.8684V9.52183C0.5 9.484 0.504156 9.44715 0.512037 9.4117C0.539658 7.80131 0.630414 6.70172 0.960553 5.74006C1.81191 3.26014 3.76013 1.31192 6.24006 0.460558C7.58204 -0.000145032 9.22617 -9.28782e-05 12.2366 2.72762e-06ZM6.8158 5.63798C6.8158 5.36183 7.03965 5.13798 7.3158 5.13798H17.4211C17.6972 5.13798 17.9211 5.36183 17.9211 5.63798C17.9211 5.91412 17.6972 6.13798 17.4211 6.13798H7.3158C7.03965 6.13798 6.8158 5.91412 6.8158 5.63798ZM7.3158 8.22076C7.03965 8.22076 6.8158 8.44462 6.8158 8.72076C6.8158 8.9969 7.03965 9.22076 7.3158 9.22076H14.8947C15.1709 9.22076 15.3947 8.9969 15.3947 8.72076C15.3947 8.44462 15.1709 8.22076 14.8947 8.22076H7.3158Z" fill="#F1F1F1" fill-rule="evenodd">
+         </path>
+        </svg>
+       </span>
+       Comments
+      </div>
+     </div>
+     <div class="video-info__expand">
+      <svg fill="none" height="10" viewbox="0 0 10 10" width="10" xmlns="http://www.w3.org/2000/svg">
+       <path clip-rule="evenodd" d="M9.39591 1.20714L9.74946 0.853591L9.04235 0.146484L8.6888 0.500038L4.947 4.24184L1.20519 0.500038L0.851638 0.146484L0.144531 0.853591L0.498084 1.20714L4.23989 4.94895L0.498085 8.69075L0.144531 9.04431L0.851638 9.75141L1.20519 9.39786L4.947 5.65606L8.6888 9.39786L9.04235 9.75141L9.74946 9.04431L9.39591 8.69075L5.6541 4.94895L9.39591 1.20714Z" fill="#F1F1F1" fill-rule="evenodd">
+       </path>
+      </svg>
+     </div>
+    </div>
+    <div class="video-info__body">
+     <div class="video-info__tab video-info__tab_comments tab-body tab-body_active" data-tab="1">
+      <div class="wpdiscuz_top_clearing">
+      </div>
+      <div class="comments-area" id="comments">
+       <div id="respond" style="width: 0;height: 0;clear: both;margin: 0;padding: 0;">
+       </div>
+       <div class="wpdiscuz_unauth wpd-minimal wpd-layout-1 wpd-comments-open" id="wpdcom">
+        <div class="wc_social_plugin_wrapper">
+        </div>
+        <div class="wpd-form-wrap">
+         <div class="wpd-form-head">
+          <div class="wpd-auth">
+           <div class="wpd-login">
+           </div>
+          </div>
+         </div>
+         <div class="wpd-form wpd-form-wrapper wpd-main-form-wrapper" id="wpd-main-form-wrapper-0_0">
+         </div>
+         <div id="wpdiscuz_hidden_secondary_form" style="display: none;">
+          <div class="wpd-form wpd-form-wrapper wpd-secondary-form-wrapper" id="wpd-secondary-form-wrapper-wpdiscuzuniqueid" style="display: none;">
+           <div class="wpd-secondary-forms-social-content">
+           </div>
+           <div class="clearfix">
+           </div>
+          </div>
+         </div>
+         <div class="wpd-login-to-comment">
+          Become a member to participate
+         </div>
+        </div>
+        <div class="wpd-thread-wrapper" id="wpd-threads">
+         <div class="wpd-thread-head">
+          <div class="wpd-thread-info" data-comments-count="1">
+           <span class="wpdtc" title="1">
+            1
+           </span>
+          </div>
+          <div class="wpd-space">
+          </div>
+          <div class="wpd-thread-filter">
+          </div>
+         </div>
+         <div class="wpd-comment-info-bar">
+          <div class="wpd-current-view">
+           <i class="fas fa-quote-left">
+           </i>
+           Inline Feedbacks
+          </div>
+          <div class="wpd-filter-view-all">
+           View all comments
+          </div>
+         </div>
+         <div class="wpd-thread-list">
+          <div class="wpd-comment wpd_comment_level-1" id="wpd-comm-4175317_0">
+           <div class="wpd-comment-wrap wpd-blog-user wpd-blog-customer">
+            <div class="wpd-comment-left">
+             <div class="wpd-avatar">
+              <span class="user-letter user-letter_small user-letter_medium user-letter_green">
+               <img alt="" src="https://hoer.live/wp-content/uploads/2023/07/00139-2492527961-240x240.png"/>
+              </span>
+             </div>
+            </div>
+            <div class="wpd-comment-right" id="comment-4175317">
+             <div class="wpd-comment-header">
+              <div class="wpd-comment-author">
+               Žygimantas RGB
+              </div>
+              <div class="wpd-space">
+              </div>
+             </div>
+             <div class="wpd-comment-text">
+              <p>
+               nice flow
+              </p>
+             </div>
+             <div class="wpd-comment-footer">
+              <div class="wpd-comment-date" title="March 27, 2025 7:00 pm">
+               <i aria-hidden="true" class="far fa-clock">
+               </i>
+               1 year ago
+              </div>
+              <div class="wpd-vote">
+               <div class="wpd-vote-up wpd_not_clicked">
+                <svg fill="none" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg">
+                 <path d="M0 6.875C-2.20145e-09 6.72726 0.0290991 6.58097 0.0856356 6.44448C0.142172 6.30799 0.225039 6.18397 0.329505 6.0795C0.433971 5.97504 0.55799 5.89217 0.694481 5.83564C0.830972 5.7791 0.977263 5.75 1.125 5.75C1.27274 5.75 1.41903 5.7791 1.55552 5.83564C1.69201 5.89217 1.81603 5.97504 1.9205 6.0795C2.02496 6.18397 2.10783 6.30799 2.16436 6.44448C2.2209 6.58097 2.25 6.72726 2.25 6.875V11.375C2.25 11.6734 2.13147 11.9595 1.9205 12.1705C1.70952 12.3815 1.42337 12.5 1.125 12.5C0.826631 12.5 0.540483 12.3815 0.329505 12.1705C0.118526 11.9595 4.44604e-09 11.6734 0 11.375V6.875ZM3.9375 6.74975V10.8222C3.93737 11.101 4.01491 11.3743 4.16143 11.6114C4.30795 11.8485 4.51765 12.0401 4.767 12.1647L4.8045 12.1835C5.22066 12.3915 5.6795 12.4999 6.14475 12.5H10.2068C10.5536 12.5001 10.8899 12.38 11.1582 12.1601C11.4265 11.9403 11.6103 11.6342 11.6782 11.294L12.5783 6.794C12.6217 6.5764 12.6164 6.35187 12.5627 6.13658C12.5089 5.92129 12.408 5.72061 12.2674 5.54901C12.1267 5.3774 11.9497 5.23915 11.7491 5.14421C11.5485 5.04928 11.3294 5.00002 11.1075 5H8.4375V2C8.4375 1.60218 8.27946 1.22064 7.99816 0.93934C7.71685 0.658035 7.33532 0.5 6.9375 0.5C6.73859 0.5 6.54782 0.579018 6.40717 0.71967C6.26652 0.860322 6.1875 1.05109 6.1875 1.25V1.75025C6.1875 2.39936 5.97697 3.03096 5.5875 3.55025L4.5375 4.94975C4.14803 5.46904 3.9375 6.10064 3.9375 6.74975Z" fill="#848383">
+                 </path>
+                </svg>
+               </div>
+               <div class="wpd-vote-result" title="0">
+                0
+               </div>
+               <div class="wpd-vote-down wpd_not_clicked wpd-dislike-hidden">
+                <svg viewbox="0 0 24 24" xmlns="https://www.w3.org/2000/svg">
+                 <path d="M0 0h24v24H0z" fill="none">
+                 </path>
+                 <path d="M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm4 0v12h4V3h-4z">
+                 </path>
+                </svg>
+               </div>
+              </div>
+              <div class="wpd-space">
+              </div>
+             </div>
+            </div>
+           </div>
+           <div id="wpdiscuz_form_anchor-4175317_0">
+           </div>
+          </div>
+          <div class="wpdiscuz-comment-pagination">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="wpdiscuz-loading-bar-unauth" id="wpdiscuz-loading-bar">
+      </div>
+      <div class="wpdiscuz-comment-message-unauth" id="wpdiscuz-comment-message">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="main-video__hide">
+    <a class="video-icon" href="/members/">
+     <svg fill="none" height="18" viewbox="0 0 25 18" width="25" xmlns="http://www.w3.org/2000/svg">
+      <path clip-rule="evenodd" d="M9.10122 0C4.13247 0 0.104492 4.02797 0.104492 8.99673C0.104492 13.9655 4.13247 17.9935 9.10122 17.9935L12.398 17.9935H12.9248L15.3463 17.9935V17.9768C15.529 17.9879 15.7132 17.9935 15.8987 17.9935C20.8674 17.9935 24.8954 13.9655 24.8954 8.99673C24.8954 4.02797 20.8674 0 15.8987 0C15.7132 0 15.529 0.00561248 15.3463 0.0166769V0L12.9248 0L12.398 0L9.10122 0ZM6.90192 8.99673C6.90192 12.4557 8.85396 15.4588 11.7165 16.9644C9.84531 16.8044 8.08163 15.9895 6.74342 14.6513C5.24374 13.1516 4.40123 11.1176 4.40123 8.99673C4.40123 4.80946 7.61953 1.37385 11.7175 1.02854C8.85441 2.534 6.90192 5.53735 6.90192 8.99673ZM8.16927 1.05373C4.19188 1.51537 1.10449 4.8955 1.10449 8.99673C1.10449 13.0996 4.19436 16.4808 8.17407 16.9403C7.39402 16.5255 6.67244 15.9945 6.03631 15.3584C4.3491 13.6712 3.40123 11.3828 3.40123 8.99673C3.40123 5.55653 5.33212 2.56732 8.16927 1.05373ZM15.8987 1C11.4822 1 7.90192 4.58026 7.90192 8.99673C7.90192 13.4132 11.4822 16.9935 15.8987 16.9935C20.3151 16.9935 23.8954 13.4132 23.8954 8.99673C23.8954 4.58026 20.3151 1 15.8987 1ZM14.8947 8.99673C14.8947 8.44228 15.3442 7.99281 15.8986 7.99281C16.4531 7.99281 16.9026 8.44228 16.9026 8.99673C16.9026 9.55118 16.4531 10.0007 15.8986 10.0007C15.3442 10.0007 14.8947 9.55118 14.8947 8.99673ZM15.8986 6.99281C14.7919 6.99281 13.8947 7.89 13.8947 8.99673C13.8947 10.1035 14.7919 11.0007 15.8986 11.0007C17.0054 11.0007 17.9026 10.1035 17.9026 8.99673C17.9026 7.89 17.0054 6.99281 15.8986 6.99281Z" fill="#848383" fill-rule="evenodd">
+      </path>
+     </svg>
+     Track ID
+     <span class="tooltip tooltip_head">
+      Become a member to view Track ID
+     </span>
+    </a>
+    <!--<script type="text/javascript">jQuery(".wpd-editor-char-counter").before("<a href=\"/members/\"><span class=\"tooltip tooltip_bottom\">Become a member to participate</span></a>");
+		jQuery(".wpd-textarea-wrap textarea").attr("disabled", "disabled")</script>-->
+    <div class="video-icon video-icon_second tab-head" data-parent=".video-info__body" data-tab="1">
+     <svg fill="none" height="18" viewbox="0 0 25 18" width="25" xmlns="http://www.w3.org/2000/svg">
+      <path clip-rule="evenodd" d="M12.3684 1.00001C9.19176 1.00001 7.72858 1.00683 6.56476 1.40638C4.37659 2.15757 2.65757 3.87659 1.90637 6.06476C1.62648 6.88007 1.53616 7.86061 1.51042 9.51913C1.50992 9.55129 1.50636 9.58286 1.5 9.61354V11.8684V14.0249V16.1158C1.5 16.5615 2.03903 16.7845 2.35388 16.469L4.99962 13.8184L5.01345 13.8043C5.0645 13.752 5.17173 13.6421 5.31636 13.5821C5.46098 13.5221 5.61454 13.5239 5.68764 13.5247L5.70738 13.5249L16.9744 13.5249C20.4331 13.5249 23.2368 10.7211 23.2368 7.26244C23.2368 3.8038 20.433 1.00001 16.9744 1.00001H12.3684ZM12.2366 2.72762e-06L12.3684 5.23102e-06H16.9744C20.9853 5.23102e-06 24.2368 3.25151 24.2368 7.26244C24.2368 11.2734 20.9853 14.5249 16.9744 14.5249L5.70738 14.5249L3.06164 17.1755C2.11709 18.1218 0.5 17.4528 0.5 16.1158V14.0249V11.8684V9.52183C0.5 9.484 0.504156 9.44715 0.512037 9.4117C0.539658 7.80131 0.630414 6.70172 0.960553 5.74006C1.81191 3.26014 3.76013 1.31192 6.24006 0.460558C7.58204 -0.000145032 9.22617 -9.28782e-05 12.2366 2.72762e-06ZM6.8158 5.63798C6.8158 5.36183 7.03965 5.13798 7.3158 5.13798H17.4211C17.6972 5.13798 17.9211 5.36183 17.9211 5.63798C17.9211 5.91412 17.6972 6.13798 17.4211 6.13798H7.3158C7.03965 6.13798 6.8158 5.91412 6.8158 5.63798ZM7.3158 8.22076C7.03965 8.22076 6.8158 8.44462 6.8158 8.72076C6.8158 8.9969 7.03965 9.22076 7.3158 9.22076H14.8947C15.1709 9.22076 15.3947 8.9969 15.3947 8.72076C15.3947 8.44462 15.1709 8.22076 14.8947 8.22076H7.3158Z" fill="#F1F1F1" fill-rule="evenodd">
+      </path>
+     </svg>
+     Comments
+    </div>
+   </div>
+  </section>
+  <main class="main">
+   <section class="section section_library">
+    <div class="tabs">
+     <div class="tabs__container" id="tabs">
+      <div id="tabs-anchor">
+      </div>
+      <div class="tabs__heading">
+       <a class="tabs__title tab-head tab-head_active" data-parent=".tabs__body" data-tab="3" href="/#library">
+        Library
+       </a>
+       <a class="tabs__title tab-head" data-parent=".tabs__body" data-tab="4" href="/#picks">
+        Picks
+       </a>
+       <a class="tabs__title tab-head" data-parent=".tabs__body" data-tab="5" href="/#styles">
+        Styles
+       </a>
+       <a class="tabs__title tab-head" data-parent=".tabs__body" data-tab="6" href="/#artists">
+        Artists
+       </a>
+      </div>
+     </div>
+     <div class="tabs__body">
+      <div id="library-scroll">
+      </div>
+      <div class="tabs__item tab-body tab-body_active" data-tab="3">
+       <div class="library library_compact">
+        <div class="library__heading">
+         <div class="library__title">
+          All Shows
+         </div>
+         <div class="library__sort library__sort_filter">
+          <a class="sort-trackID" href="/?sort-by=trackID">
+           Track IDs Filter
+          </a>
+          <div class="library__sort-by">
+           <span class="library__to-sort">
+            Sort By
+           </span>
+           <div class="icon icon_sort">
+            <svg fill="none" height="18" viewbox="0 0 16 18" width="16" xmlns="http://www.w3.org/2000/svg">
+             <path clip-rule="evenodd" d="M8.69033 4.18517L11.8148 1.06066L12.1684 0.707107L12.5219 1.06066L15.6464 4.18516L14.9393 4.89227L12.6684 2.62132L12.6684 15.0367C12.6684 16.4174 11.5491 17.5367 10.1684 17.5367L10.0854 17.5367L10.0854 16.5367L10.1684 16.5367C10.9968 16.5367 11.6684 15.8652 11.6684 15.0367L11.6684 2.62132L9.39744 4.89227L8.69033 4.18517ZM0.35831 14.2658L3.48281 17.3903L3.83637 17.7438L4.18992 17.3903L7.31443 14.2658L6.60732 13.5587L4.33637 15.8296L4.33637 4.45572C4.33637 3.62729 5.00794 2.95572 5.83637 2.95572L5.91937 2.95572L5.91937 1.95572L5.83637 1.95572C4.45566 1.95572 3.33637 3.07501 3.33637 4.45572L3.33637 15.8296L1.06542 13.5587L0.35831 14.2658Z" fill="#F1F1F1" fill-rule="evenodd">
+             </path>
+            </svg>
+           </div>
+          </div>
+          <ul class="library__sorting">
+           <li>
+            <a href="/?sort-by=popular">
+             Most Popular
+            </a>
+           </li>
+           <li>
+            <a href="/?sort-by=newest">
+             Newest
+            </a>
+           </li>
+           <li>
+            <a href="/?sort-by=oldest">
+             Oldest
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="library__body" id="library">
+         <div class="show-card show-card-386767">
+          <a class="show-card__image no-ajax" data-show-id="386767" href="https://hoer.live/ultrasozial-juno-hor-june-4-2026/">
+           <span class="show-card__play">
+           </span>
+           <img alt="Ultrasozial – Juno | HÖR – June 4 / 2026" loading="lazy" src="https://i3.ytimg.com/vi/ZxpAxw4WJgQ/maxresdefault.jpg" title="Ultrasozial – Juno | HÖR – June 4 / 2026"/>
+          </a>
+          <div class="show-card__info">
+           <div class="show-card__title show-card__title_wtracks">
+            <span class="icon icon_track">
+            </span>
+            <a href="/artist/juno/">
+             Juno
+            </a>
+           </div>
+           <div class="show-card__text">
+            <a href="/showcase/ultrasozial/">
+             Ultrasozial
+            </a>
+           </div>
+           <div class="show-card__bottom show-card__bottom_no-tags">
+            <div class="show-card__date">
+             Jun 04, 2026 / 6664 views
+            </div>
+            <div class="show-card__additional">
+             <a class="icon icon_heart" href="/members/">
+              <span class="icon__message">
+               Become a member to save shows
+              </span>
+              <svg fill="none" height="18" viewbox="0 0 20 18" width="20" xmlns="http://www.w3.org/2000/svg">
+               <path d="M2.45067 9.90821L9.40329 16.4395C9.64278 16.6644 9.76253 16.7769 9.90372 16.8046C9.9673 16.8171 10.0327 16.8171 10.0963 16.8046C10.2375 16.7769 10.3572 16.6644 10.5967 16.4395L17.5493 9.90821C19.5055 8.07059 19.743 5.0466 18.0978 2.92607L17.7885 2.52734C15.8203 -0.00942016 11.8696 0.416014 10.4867 3.31365C10.2913 3.72296 9.70868 3.72296 9.51333 3.31365C8.13037 0.416014 4.17972 -0.00941634 2.21154 2.52735L1.90219 2.92607C0.256947 5.0466 0.494498 8.07059 2.45067 9.90821Z" stroke="#F1F1F1" stroke-miterlimit="1.55572">
+               </path>
+              </svg>
+             </a>
+             <span class="icon icon_share" data-hashtags="" data-title="Ultrasozial – Juno | HÖR – June 4 / 2026" data-url="https://hoer.live/ultrasozial-juno-hor-june-4-2026/">
+              <svg fill="none" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1.31114 21L1.01114 18C1.01114 17.8 0.591141 12.9 3.43114 9.29C5.23114 7 8.86114 5.79 12.2811 5.63L12.3111 1L21.0111 9.09L12.3011 17.36V12.54H10.8211C8.976 12.4308 7.14602 12.9303 5.61226 13.9618C4.07851 14.9934 2.92579 16.4999 2.33114 18.25L1.31114 21Z" stroke="#F1F1F1" stroke-linejoin="round">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+           <div class="show-card__tags">
+           </div>
+          </div>
+         </div>
+         <div class="show-card show-card-386764">
+          <a class="show-card__image no-ajax" data-show-id="386764" href="https://hoer.live/ultrasozial-kotorri-hor-june-4-2026/">
+           <span class="show-card__play">
+           </span>
+           <img alt="Ultrasozial – Kotorri | HÖR – June 4 / 2026" loading="lazy" src="https://i3.ytimg.com/vi/wELB4ynndsU/maxresdefault.jpg" title="Ultrasozial – Kotorri | HÖR – June 4 / 2026"/>
+          </a>
+          <div class="show-card__info">
+           <div class="show-card__title">
+            <a href="/artist/kotorri/">
+             Kotorri
+            </a>
+           </div>
+           <div class="show-card__text">
+            <a href="/showcase/ultrasozial/">
+             Ultrasozial
+            </a>
+           </div>
+           <div class="show-card__bottom show-card__bottom_no-tags">
+            <div class="show-card__date">
+             Jun 04, 2026 / 6823 views
+            </div>
+            <div class="show-card__additional">
+             <a class="icon icon_heart" href="/members/">
+              <span class="icon__message">
+               Become a member to save shows
+              </span>
+              <svg fill="none" height="18" viewbox="0 0 20 18" width="20" xmlns="http://www.w3.org/2000/svg">
+               <path d="M2.45067 9.90821L9.40329 16.4395C9.64278 16.6644 9.76253 16.7769 9.90372 16.8046C9.9673 16.8171 10.0327 16.8171 10.0963 16.8046C10.2375 16.7769 10.3572 16.6644 10.5967 16.4395L17.5493 9.90821C19.5055 8.07059 19.743 5.0466 18.0978 2.92607L17.7885 2.52734C15.8203 -0.00942016 11.8696 0.416014 10.4867 3.31365C10.2913 3.72296 9.70868 3.72296 9.51333 3.31365C8.13037 0.416014 4.17972 -0.00941634 2.21154 2.52735L1.90219 2.92607C0.256947 5.0466 0.494498 8.07059 2.45067 9.90821Z" stroke="#F1F1F1" stroke-miterlimit="1.55572">
+               </path>
+              </svg>
+             </a>
+             <span class="icon icon_share" data-hashtags="" data-title="Ultrasozial – Kotorri | HÖR – June 4 / 2026" data-url="https://hoer.live/ultrasozial-kotorri-hor-june-4-2026/">
+              <svg fill="none" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1.31114 21L1.01114 18C1.01114 17.8 0.591141 12.9 3.43114 9.29C5.23114 7 8.86114 5.79 12.2811 5.63L12.3111 1L21.0111 9.09L12.3011 17.36V12.54H10.8211C8.976 12.4308 7.14602 12.9303 5.61226 13.9618C4.07851 14.9934 2.92579 16.4999 2.33114 18.25L1.31114 21Z" stroke="#F1F1F1" stroke-linejoin="round">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+           <div class="show-card__tags">
+           </div>
+          </div>
+         </div>
+         <div class="show-card show-card-386762">
+          <a class="show-card__image no-ajax" data-show-id="386762" href="https://hoer.live/ultrasozial-nachtigaller-hor-june-4-2026/">
+           <span class="show-card__play">
+           </span>
+           <img alt="Ultrasozial – Nachtigaller | HÖR – June 4 / 2026" loading="lazy" src="https://i3.ytimg.com/vi/rkqndU-EZBo/maxresdefault.jpg" title="Ultrasozial – Nachtigaller | HÖR – June 4 / 2026"/>
+          </a>
+          <div class="show-card__info">
+           <div class="show-card__title show-card__title_wtracks">
+            <span class="icon icon_track">
+            </span>
+            <a href="/artist/nachtigaller/">
+             Nachtigaller
+            </a>
+           </div>
+           <div class="show-card__text">
+            <a href="/showcase/ultrasozial/">
+             Ultrasozial
+            </a>
+           </div>
+           <div class="show-card__bottom show-card__bottom_no-tags">
+            <div class="show-card__date">
+             Jun 04, 2026 / 2784 views
+            </div>
+            <div class="show-card__additional">
+             <a class="icon icon_heart" href="/members/">
+              <span class="icon__message">
+               Become a member to save shows
+              </span>
+              <svg fill="none" height="18" viewbox="0 0 20 18" width="20" xmlns="http://www.w3.org/2000/svg">
+               <path d="M2.45067 9.90821L9.40329 16.4395C9.64278 16.6644 9.76253 16.7769 9.90372 16.8046C9.9673 16.8171 10.0327 16.8171 10.0963 16.8046C10.2375 16.7769 10.3572 16.6644 10.5967 16.4395L17.5493 9.90821C19.5055 8.07059 19.743 5.0466 18.0978 2.92607L17.7885 2.52734C15.8203 -0.00942016 11.8696 0.416014 10.4867 3.31365C10.2913 3.72296 9.70868 3.72296 9.51333 3.31365C8.13037 0.416014 4.17972 -0.00941634 2.21154 2.52735L1.90219 2.92607C0.256947 5.0466 0.494498 8.07059 2.45067 9.90821Z" stroke="#F1F1F1" stroke-miterlimit="1.55572">
+               </path>
+              </svg>
+             </a>
+             <span class="icon icon_share" data-hashtags="" data-title="Ultrasozial – Nachtigaller | HÖR – June 4 / 2026" data-url="https://hoer.live/ultrasozial-nachtigaller-hor-june-4-2026/">
+              <svg fill="none" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1.31114 21L1.01114 18C1.01114 17.8 0.591141 12.9 3.43114 9.29C5.23114 7 8.86114 5.79 12.2811 5.63L12.3111 1L21.0111 9.09L12.3011 17.36V12.54H10.8211C8.976 12.4308 7.14602 12.9303 5.61226 13.9618C4.07851 14.9934 2.92579 16.4999 2.33114 18.25L1.31114 21Z" stroke="#F1F1F1" stroke-linejoin="round">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+           <div class="show-card__tags">
+           </div>
+          </div>
+         </div>
+         <div class="show-card show-card-386759">
+          <a class="show-card__image no-ajax" data-show-id="386759" href="https://hoer.live/mila-morr-hor-june-4-2026/">
+           <span class="show-card__play">
+           </span>
+           <img alt="Mila Morr | HÖR – June 4 / 2026" loading="lazy" src="https://i3.ytimg.com/vi/FxHr5GfH2Js/maxresdefault.jpg" title="Mila Morr | HÖR – June 4 / 2026"/>
+          </a>
+          <div class="show-card__info">
+           <div class="show-card__title">
+            <a href="/artist/mila-morr/">
+             Mila Morr
+            </a>
+           </div>
+           <div class="show-card__bottom show-card__bottom_no-tags">
+            <div class="show-card__date">
+             Jun 04, 2026 / 2987 views
+            </div>
+            <div class="show-card__additional">
+             <a class="icon icon_heart" href="/members/">
+              <span class="icon__message">
+               Become a member to save shows
+              </span>
+              <svg fill="none" height="18" viewbox="0 0 20 18" width="20" xmlns="http://www.w3.org/2000/svg">
+               <path d="M2.45067 9.90821L9.40329 16.4395C9.64278 16.6644 9.76253 16.7769 9.90372 16.8046C9.9673 16.8171 10.0327 16.8171 10.0963 16.8046C10.2375 16.7769 10.3572 16.6644 10.5967 16.4395L17.5493 9.90821C19.5055 8.07059 19.743 5.0466 18.0978 2.92607L17.7885 2.52734C15.8203 -0.00942016 11.8696 0.416014 10.4867 3.31365C10.2913 3.72296 9.70868 3.72296 9.51333 3.31365C8.13037 0.416014 4.17972 -0.00941634 2.21154 2.52735L1.90219 2.92607C0.256947 5.0466 0.494498 8.07059 2.45067 9.90821Z" stroke="#F1F1F1" stroke-miterlimit="1.55572">
+               </path>
+              </svg>
+             </a>
+             <span class="icon icon_share" data-hashtags="" data-title="Mila Morr | HÖR – June 4 / 2026" data-url="https://hoer.live/mila-morr-hor-june-4-2026/">
+              <svg fill="none" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1.31114 21L1.01114 18C1.01114 17.8 0.591141 12.9 3.43114 9.29C5.23114 7 8.86114 5.79 12.2811 5.63L12.3111 1L21.0111 9.09L12.3011 17.36V12.54H10.8211C8.976 12.4308 7.14602 12.9303 5.61226 13.9618C4.07851 14.9934 2.92579 16.4999 2.33114 18.25L1.31114 21Z" stroke="#F1F1F1" stroke-linejoin="round">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+           <div class="show-card__tags">
+           </div>
+          </div>
+         </div>
+         <div class="show-card show-card-386757">
+          <a class="show-card__image no-ajax" data-show-id="386757" href="https://hoer.live/btfl-hor-june-4-2026/">
+           <span class="show-card__play">
+           </span>
+           <img alt="BTFL | HÖR – June 4 / 2026" loading="lazy" src="https://i3.ytimg.com/vi/vqNKmqgeSZg/maxresdefault.jpg" title="BTFL | HÖR – June 4 / 2026"/>
+          </a>
+          <div class="show-card__info">
+           <div class="show-card__title">
+            <a href="/artist/btfl/">
+             BTFL
+            </a>
+           </div>
+           <div class="show-card__bottom show-card__bottom_no-tags">
+            <div class="show-card__date">
+             Jun 04, 2026 / 3654 views
+            </div>
+            <div class="show-card__additional">
+             <a class="icon icon_heart" href="/members/">
+              <span class="icon__message">
+               Become a member to save shows
+              </span>
+              <svg fill="none" height="18" viewbox="0 0 20 18" width="20" xmlns="http://www.w3.org/2000/svg">
+               <path d="M2.45067 9.90821L9.40329 16.4395C9.64278 16.6644 9.76253 16.7769 9.90372 16.8046C9.9673 16.8171 10.0327 16.8171 10.0963 16.8046C10.2375 16.7769 10.3572 16.6644 10.5967 16.4395L17.5493 9.90821C19.5055 8.07059 19.743 5.0466 18.0978 2.92607L17.7885 2.52734C15.8203 -0.00942016 11.8696 0.416014 10.4867 3.31365C10.2913 3.72296 9.70868 3.72296 9.51333 3.31365C8.13037 0.416014 4.17972 -0.00941634 2.21154 2.52735L1.90219 2.92607C0.256947 5.0466 0.494498 8.07059 2.45067 9.90821Z" stroke="#F1F1F1" stroke-miterlimit="1.55572">
+               </path>
+              </svg>
+             </a>
+             <span class="icon icon_share" data-hashtags="" data-title="BTFL | HÖR – June 4 / 2026" data-url="https://hoer.live/btfl-hor-june-4-2026/">
+              <svg fill="none" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1.31114 21L1.01114 18C1.01114 17.8 0.591141 12.9 3.43114 9.29C5.23114 7 8.86114 5.79 12.2811 5.63L12.3111 1L21.0111 9.09L12.3011 17.36V12.54H10.8211C8.976 12.4308 7.14602 12.9303 5.61226 13.9618C4.07851 14.9934 2.92579 16.4999 2.33114 18.25L1.31114 21Z" stroke="#F1F1F1" stroke-linejoin="round">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+           <div class="show-card__tags">
+           </div>
+          </div>
+         </div>
+         <div class="show-card show-card-386754">
+          <a class="show-card__image no-ajax" data-show-id="386754" href="https://hoer.live/levi-lenzi-live-hor-june-4-2026/">
+           <span class="show-card__play">
+           </span>
+           <img alt="Levi Lenzi (LIVE) | HÖR – June 4 / 2026" loading="lazy" src="https://i3.ytimg.com/vi/ILzebT0BvaQ/maxresdefault.jpg" title="Levi Lenzi (LIVE) | HÖR – June 4 / 2026"/>
+          </a>
+          <div class="show-card__info">
+           <div class="show-card__title">
+            <a href="/artist/levi-lenzi/">
+             Levi Lenzi
+            </a>
+           </div>
+           <div class="show-card__bottom show-card__bottom_no-tags">
+            <div class="show-card__date">
+             Jun 04, 2026 / 2001 views
+            </div>
+            <div class="show-card__additional">
+             <a class="icon icon_heart" href="/members/">
+              <span class="icon__message">
+               Become a member to save shows
+              </span>
+              <svg fill="none" height="18" viewbox="0 0 20 18" width="20" xmlns="http://www.w3.org/2000/svg">
+               <path d="M2.45067 9.90821L9.40329 16.4395C9.64278 16.6644 9.76253 16.7769 9.90372 16.8046C9.9673 16.8171 10.0327 16.8171 10.0963 16.8046C10.2375 16.7769 10.3572 16.6644 10.5967 16.4395L17.5493 9.90821C19.5055 8.07059 19.743 5.0466 18.0978 2.92607L17.7885 2.52734C15.8203 -0.00942016 11.8696 0.416014 10.4867 3.31365C10.2913 3.72296 9.70868 3.72296 9.51333 3.31365C8.13037 0.416014 4.17972 -0.00941634 2.21154 2.52735L1.90219 2.92607C0.256947 5.0466 0.494498 8.07059 2.45067 9.90821Z" stroke="#F1F1F1" stroke-miterlimit="1.55572">
+               </path>
+              </svg>
+             </a>
+             <span class="icon icon_share" data-hashtags="" data-title="Levi Lenzi (LIVE) | HÖR – June 4 / 2026" data-url="https://hoer.live/levi-lenzi-live-hor-june-4-2026/">
+              <svg fill="none" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1.31114 21L1.01114 18C1.01114 17.8 0.591141 12.9 3.43114 9.29C5.23114 7 8.86114 5.79 12.2811 5.63L12.3111 1L21.0111 9.09L12.3011 17.36V12.54H10.8211C8.976 12.4308 7.14602 12.9303 5.61226 13.9618C4.07851 14.9934 2.92579 16.4999 2.33114 18.25L1.31114 21Z" stroke="#F1F1F1" stroke-linejoin="round">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+           <div class="show-card__tags">
+           </div>
+          </div>
+         </div>
+         <div class="show-card show-card-386390">
+          <a class="show-card__image no-ajax" data-show-id="386390" href="https://hoer.live/cirque-cosmic-hor-june-3-2026/">
+           <span class="show-card__play">
+           </span>
+           <img alt="" class="attachment-show_thumbnail size-show_thumbnail" decoding="async" height="720" loading="lazy" sizes="(max-width: 150px) 150px, (max-width: 300px) 500px, 1024px" src="https://hoer.live/wp-content/uploads/2026/06/Screenshot-2026-06-03-21-46-06-1-1280x720.jpg" srcset="https://hoer.live/wp-content/uploads/2026/06/Screenshot-2026-06-03-21-46-06-1-1280x720.jpg 1280w, https://hoer.live/wp-content/uploads/2026/06/Screenshot-2026-06-03-21-46-06-1.jpg 1920w" width="1280"/>
+          </a>
+          <div class="show-card__info">
+           <div class="show-card__title">
+            <a href="/artist/cirque-cosmic/">
+             CIRQUE COSMIC
+            </a>
+           </div>
+           <div class="show-card__bottom">
+            <div class="show-card__date">
+             Jun 03, 2026 / 6968 views
+            </div>
+            <div class="show-card__additional">
+             <a class="icon icon_heart" href="/members/">
+              <span class="icon__message">
+               Become a member to save shows
+              </span>
+              <svg fill="none" height="18" viewbox="0 0 20 18" width="20" xmlns="http://www.w3.org/2000/svg">
+               <path d="M2.45067 9.90821L9.40329 16.4395C9.64278 16.6644 9.76253 16.7769 9.90372 16.8046C9.9673 16.8171 10.0327 16.8171 10.0963 16.8046C10.2375 16.7769 10.3572 16.6644 10.5967 16.4395L17.5493 9.90821C19.5055 8.07059 19.743 5.0466 18.0978 2.92607L17.7885 2.52734C15.8203 -0.00942016 11.8696 0.416014 10.4867 3.31365C10.2913 3.72296 9.70868 3.72296 9.51333 3.31365C8.13037 0.416014 4.17972 -0.00941634 2.21154 2.52735L1.90219 2.92607C0.256947 5.0466 0.494498 8.07059 2.45067 9.90821Z" stroke="#F1F1F1" stroke-miterlimit="1.55572">
+               </path>
+              </svg>
+             </a>
+             <span class="icon icon_share" data-hashtags="Liquid House,Trance" data-title="CIRQUE COSMIC | HÖR – June 3 / 2026" data-url="https://hoer.live/cirque-cosmic-hor-june-3-2026/">
+              <svg fill="none" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1.31114 21L1.01114 18C1.01114 17.8 0.591141 12.9 3.43114 9.29C5.23114 7 8.86114 5.79 12.2811 5.63L12.3111 1L21.0111 9.09L12.3011 17.36V12.54H10.8211C8.976 12.4308 7.14602 12.9303 5.61226 13.9618C4.07851 14.9934 2.92579 16.4999 2.33114 18.25L1.31114 21Z" stroke="#F1F1F1" stroke-linejoin="round">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+           <div class="show-card__tags">
+            <a class="btn" href="/tag/liquid-house/">
+             Liquid House
+            </a>
+            <a class="btn" href="/tag/trance/">
+             Trance
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="show-card show-card-386387">
+          <a class="show-card__image no-ajax" data-show-id="386387" href="https://hoer.live/kesa-lumina-hor-june-3-2026/">
+           <span class="show-card__play">
+           </span>
+           <img alt="" class="attachment-show_thumbnail size-show_thumbnail" decoding="async" height="720" loading="lazy" sizes="(max-width: 150px) 150px, (max-width: 300px) 500px, 1024px" src="https://hoer.live/wp-content/uploads/2026/06/Screenshot-2026-06-03-20-36-00-1-1280x720.jpg" srcset="https://hoer.live/wp-content/uploads/2026/06/Screenshot-2026-06-03-20-36-00-1-1280x720.jpg 1280w, https://hoer.live/wp-content/uploads/2026/06/Screenshot-2026-06-03-20-36-00-1.jpg 1920w" width="1280"/>
+          </a>
+          <div class="show-card__info">
+           <div class="show-card__title show-card__title_wtracks">
+            <span class="icon icon_track">
+            </span>
+            <a href="/artist/kesa-lumina/">
+             Kesa Lumina
+            </a>
+           </div>
+           <div class="show-card__bottom">
+            <div class="show-card__date">
+             Jun 03, 2026 / 3901 views
+            </div>
+            <div class="show-card__additional">
+             <a class="icon icon_heart" href="/members/">
+              <span class="icon__message">
+               Become a member to save shows
+              </span>
+              <svg fill="none" height="18" viewbox="0 0 20 18" width="20" xmlns="http://www.w3.org/2000/svg">
+               <path d="M2.45067 9.90821L9.40329 16.4395C9.64278 16.6644 9.76253 16.7769 9.90372 16.8046C9.9673 16.8171 10.0327 16.8171 10.0963 16.8046C10.2375 16.7769 10.3572 16.6644 10.5967 16.4395L17.5493 9.90821C19.5055 8.07059 19.743 5.0466 18.0978 2.92607L17.7885 2.52734C15.8203 -0.00942016 11.8696 0.416014 10.4867 3.31365C10.2913 3.72296 9.70868 3.72296 9.51333 3.31365C8.13037 0.416014 4.17972 -0.00941634 2.21154 2.52735L1.90219 2.92607C0.256947 5.0466 0.494498 8.07059 2.45067 9.90821Z" stroke="#F1F1F1" stroke-miterlimit="1.55572">
+               </path>
+              </svg>
+             </a>
+             <span class="icon icon_share" data-hashtags="Techno,Driving,Hard Groove" data-title="Kesa Lumina | HÖR – June 3 / 2026" data-url="https://hoer.live/kesa-lumina-hor-june-3-2026/">
+              <svg fill="none" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1.31114 21L1.01114 18C1.01114 17.8 0.591141 12.9 3.43114 9.29C5.23114 7 8.86114 5.79 12.2811 5.63L12.3111 1L21.0111 9.09L12.3011 17.36V12.54H10.8211C8.976 12.4308 7.14602 12.9303 5.61226 13.9618C4.07851 14.9934 2.92579 16.4999 2.33114 18.25L1.31114 21Z" stroke="#F1F1F1" stroke-linejoin="round">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+           <div class="show-card__tags">
+            <a class="btn" href="/tag/techno/">
+             Techno
+            </a>
+            <a class="btn" href="/tag/driving/">
+             Driving
+            </a>
+            <a class="btn" href="/tag/hard-groove/">
+             Hard Groove
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <template id="show-card-template">
+       <div class="show-card">
+        <a class="show-card__image no-ajax" data-show-id="" href="">
+         <span class="show-card__play">
+         </span>
+        </a>
+        <div class="show-card__info">
+         <div class="show-card__title">
+          <span class="icon icon_track">
+          </span>
+          <a href="">
+          </a>
+         </div>
+         <div class="show-card__text">
+          <a href="">
+          </a>
+         </div>
+         <div class="show-card__bottom">
+          <div class="show-card__date">
+          </div>
+          <div class="show-card__additional">
+           <span class="icon icon_share show-card__share">
+            <svg fill="none" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+             <path d="M1.31114 21L1.01114 18C1.01114 17.8 0.591141 12.9 3.43114 9.29C5.23114 7 8.86114 5.79 12.2811 5.63L12.3111 1L21.0111 9.09L12.3011 17.36V12.54H10.8211C8.976 12.4308 7.14602 12.9303 5.61226 13.9618C4.07851 14.9934 2.92579 16.4999 2.33114 18.25L1.31114 21Z" stroke="#F1F1F1" stroke-linejoin="round">
+             </path>
+            </svg>
+           </span>
+          </div>
+         </div>
+         <div class="show-card__tags">
+         </div>
+        </div>
+       </div>
+      </template>
+      <template id="example-template">
+       <div class="library library_picks" id="">
+        <div class="back-btn">
+         <a class="" data-parent=".tabs__body" data-tab="4" href="/#picks">
+          Back to All Picks
+         </a>
+        </div>
+        <img alt="New Pick" class="new_pick_mobile" height="66" loading="lazy" src="" width="104"/>
+        <div class="library__title">
+        </div>
+        <div class="share__picks">
+         <span class="icon icon_share show-card__share">
+          <svg fill="none" height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg">
+           <path d="M1.23993 17L0.999928 14.6C0.999928 14.44 0.663929 10.52 2.93593 7.632C4.37593 5.8 7.27993 4.832 10.0159 4.704L10.0399 1L16.9999 7.472L10.0319 14.088V10.232H8.84793C7.37181 10.1446 5.90783 10.5442 4.68083 11.3695C3.45382 12.1947 2.53164 13.3999 2.05593 14.8L1.23993 17Z" stroke="#4B4B51" stroke-linejoin="round">
+           </path>
+          </svg>
+          Share
+         </span>
+        </div>
+        <div class="pick__date">
+        </div>
+        <div class="author__title">
+        </div>
+        <div class="pick__marquee">
+        </div>
+        <div class="picks__oneliner">
+         <div class="question">
+         </div>
+         <div class="answer">
+         </div>
+         <div class="oneliner">
+         </div>
+        </div>
+        <div class="artist__details">
+         <h3 class="artist__title">
+          <a href="">
+          </a>
+         </h3>
+         <div class="artist__text">
+         </div>
+         <a class="read-more" href="">
+         </a>
+         <div class="artist__socials">
+          <a class="icon icon_instagram no-ajax" href="" target="_blank">
+           <svg fill="none" height="20" style="transform: scale(1.18);" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg">
+            <rect fill="#F1F1F1" height="20" rx="6" width="20" x="2" y="2">
+            </rect>
+            <path d="M17.0003 8.07143C17.0003 8.66317 16.5206 9.14286 15.9289 9.14286C15.3371 9.14286 14.8574 8.66317 14.8574 8.07143C14.8574 7.4797 15.3371 7 15.9289 7C16.5206 7 17.0003 7.4797 17.0003 8.07143Z" fill="#34343A">
+            </path>
+            <path clip-rule="evenodd" d="M12.0003 15.5714C13.9727 15.5714 15.5717 13.9724 15.5717 12C15.5717 10.0276 13.9727 8.42858 12.0003 8.42858C10.0278 8.42858 8.42885 10.0276 8.42885 12C8.42885 13.9724 10.0278 15.5714 12.0003 15.5714ZM12.0003 14.1429C13.1837 14.1429 14.1431 13.1835 14.1431 12C14.1431 10.8165 13.1837 9.85715 12.0003 9.85715C10.8168 9.85715 9.85742 10.8165 9.85742 12C9.85742 13.1835 10.8168 14.1429 12.0003 14.1429Z" fill="#34343A" fill-rule="evenodd">
+            </path>
+            <path clip-rule="evenodd" d="M4.85742 11.7143C4.85742 9.31407 4.85742 8.11395 5.32454 7.19719C5.73542 6.39078 6.39105 5.73515 7.19746 5.32426C8.11423 4.85715 9.31434 4.85715 11.7146 4.85715H12.286C14.6862 4.85715 15.8863 4.85715 16.8031 5.32426C17.6095 5.73515 18.2651 6.39078 18.676 7.19719C19.1431 8.11395 19.1431 9.31407 19.1431 11.7143V12.2857C19.1431 14.6859 19.1431 15.8861 18.676 16.8028C18.2651 17.6092 17.6095 18.2649 16.8031 18.6757C15.8863 19.1429 14.6862 19.1429 12.286 19.1429H11.7146C9.31434 19.1429 8.11423 19.1429 7.19746 18.6757C6.39105 18.2649 5.73542 17.6092 5.32454 16.8028C4.85742 15.8861 4.85742 14.6859 4.85742 12.2857V11.7143ZM11.7146 6.28572H12.286C13.5097 6.28572 14.3415 6.28683 14.9845 6.33936C15.6108 6.39053 15.9311 6.48329 16.1545 6.59713C16.6921 6.87105 17.1292 7.30814 17.4032 7.84575C17.517 8.06917 17.6097 8.38947 17.6609 9.01577C17.7135 9.65876 17.7146 10.4906 17.7146 11.7143V12.2857C17.7146 13.5094 17.7135 14.3413 17.6609 14.9842C17.6097 15.6105 17.517 15.9308 17.4032 16.1543C17.1292 16.6919 16.6921 17.129 16.1545 17.4029C15.9311 17.5167 15.6108 17.6095 14.9845 17.6606C14.3415 17.7132 13.5097 17.7143 12.286 17.7143H11.7146C10.4909 17.7143 9.65903 17.7132 9.01605 17.6606C8.38974 17.6095 8.06945 17.5167 7.84602 17.4029C7.30841 17.129 6.87133 16.6919 6.5974 16.1543C6.48356 15.9308 6.39081 15.6105 6.33964 14.9842C6.2871 14.3413 6.28599 13.5094 6.28599 12.2857V11.7143C6.28599 10.4906 6.2871 9.65876 6.33964 9.01577C6.39081 8.38947 6.48356 8.06917 6.5974 7.84575C6.87133 7.30814 7.30841 6.87105 7.84602 6.59713C8.06945 6.48329 8.38974 6.39053 9.01605 6.33936C9.65903 6.28683 10.4909 6.28572 11.7146 6.28572Z" fill="#34343A" fill-rule="evenodd">
+            </path>
+           </svg>
+          </a>
+          <a class="icon icon_soundcloud no-ajax" href="" target="_blank">
+           <svg fill="none" height="20" viewbox="0 0 21 21" width="20" xmlns="http://www.w3.org/2000/svg">
+            <path clip-rule="evenodd" d="M10.5 20.5C16.0228 20.5 20.5 16.0228 20.5 10.5C20.5 4.97715 16.0228 0.5 10.5 0.5C4.97715 0.5 0.5 4.97715 0.5 10.5C0.5 16.0228 4.97715 20.5 10.5 20.5ZM10.3173 14.0714H16.1644C17.3754 14.0714 18.3571 13.0161 18.3571 11.7143C18.3571 10.4125 17.3754 9.35714 16.1644 9.35714C15.908 9.35714 15.6618 9.40448 15.433 9.49147C15.4022 7.67589 14.0235 6.21429 12.3272 6.21429C11.5607 6.21429 10.859 6.51275 10.3173 7.00748V14.0714ZM9.07143 7.64286H9.78571V14.0714H9.07143V7.64286ZM7.64286 8.35714H8.35714V14.0714H7.64286V8.35714ZM6.21429 9.78571H6.92857V14.0714H6.21429V9.78571ZM4.78571 9.07143H5.5V14.0714H4.78571V9.07143ZM3.35714 10.5H4.07143V14.0714H3.35714V10.5Z" fill="#F1F1F1" fill-rule="evenodd">
+            </path>
+           </svg>
+          </a>
+          <a class="icon icon_bandcamp no-ajax" href="" target="_blank">
+           <svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+            <path clip-rule="evenodd" d="M0 10C0 4.47711 4.47711 0 10 0C15.5221 0 20 4.47789 20 10C20 15.5221 15.5229 20 10 20C4.47711 20 0 15.5229 0 10ZM11.5949 12.1558C11.8489 12.6815 12.4091 12.8124 12.932 12.8124C14.0749 12.8124 14.5978 11.7984 14.5994 10.7236C14.5994 9.55707 14.0091 8.5987 12.7916 8.5987C12.3585 8.5987 11.8732 8.83976 11.6416 9.22585H11.6251V7.1876H10.9752H4.39323L1.4111 12.6925H7.79672L10.9752 7.1876V12.7046H11.58V12.1558H11.5949ZM14.9443 10.7495C14.9443 11.9238 15.6091 12.8124 16.8191 12.8124C17.8124 12.8124 18.4325 12.2405 18.5893 11.2053H17.7379C17.6556 11.7768 17.3122 12.1174 16.8191 12.1174C16.0795 12.1174 15.7957 11.4158 15.7957 10.7495C15.7957 9.5363 16.4158 9.2968 16.8564 9.2968C17.3271 9.2968 17.6705 9.55981 17.7379 10.0466H18.5893C18.5074 9.06515 17.7454 8.60144 16.8489 8.60144C15.5793 8.60144 14.9443 9.54414 14.9443 10.7495ZM11.5949 10.7106C11.5949 9.86085 11.9614 9.2968 12.678 9.2968C13.3796 9.2968 13.7457 9.98471 13.7461 10.7106C13.7461 11.406 13.4548 12.117 12.678 12.117C11.9912 12.117 11.5949 11.5142 11.5949 10.7106Z" fill="#F1F1F1" fill-rule="evenodd">
+            </path>
+           </svg>
+          </a>
+          <a class="icon icon_discogs no-ajax" href="" target="_blank">
+           <svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+            <path d="M7.17932 9.98306C7.17932 8.41722 8.4492 7.14734 10.013 7.14734C11.5789 7.14734 12.8468 8.41522 12.8468 9.98306C12.8468 11.5489 11.5769 12.8168 10.013 12.8168C8.4492 12.8168 7.17932 11.5489 7.17932 9.98306ZM7.30331 9.98306C7.30731 11.4809 8.51719 12.6908 10.013 12.6928C11.5089 12.6928 12.7248 11.4789 12.7248 9.98306C12.7228 8.48521 11.5109 7.27333 10.013 7.27133C8.51719 7.27133 7.30331 8.48521 7.30331 9.98306Z" fill="#F1F1F1">
+            </path>
+            <path d="M10.4629 9.98299C10.4629 10.229 10.2609 10.4289 10.015 10.4289C9.769 10.4289 9.56702 10.229 9.56702 9.98299C9.56702 9.73502 9.767 9.53503 10.015 9.53503C10.2609 9.53503 10.4629 9.73502 10.4629 9.98299Z" fill="#F1F1F1">
+            </path>
+            <path d="M4.89551 9.98298C4.89551 11.4308 5.49945 12.7387 6.46935 13.6706L7.43326 12.6287C7.43726 12.6327 7.44126 12.6367 7.44526 12.6407C6.74933 11.9688 6.31537 11.0269 6.31537 9.98498C6.31537 7.94318 7.96921 6.28734 10.013 6.28734C10.6869 6.28734 11.3169 6.46933 11.8608 6.7853L12.5448 5.53742C11.7968 5.10946 10.9329 4.86548 10.013 4.86548C7.19328 4.86148 4.89551 7.15926 4.89551 9.98298Z" fill="#F1F1F1">
+            </path>
+            <path d="M13.7127 9.98308C13.7127 12.0249 12.0569 13.6807 10.0151 13.6807C9.39514 13.6807 8.8112 13.5267 8.29725 13.2568L7.60132 14.4966C8.32125 14.8826 9.14317 15.1026 10.0151 15.1026C12.8388 15.1026 15.1346 12.8068 15.1346 9.98308C15.1346 8.58522 14.5706 7.31734 13.6607 6.39343L12.6928 7.43533C13.3228 8.09927 13.7127 8.99518 13.7127 9.98308Z" fill="#F1F1F1">
+            </path>
+            <path d="M3.27173 9.983C3.27173 11.9008 4.07765 13.6346 5.36752 14.8645L6.34543 13.8066C5.33953 12.8407 4.71159 11.4848 4.71159 9.983C4.71159 7.05729 7.09136 4.67953 10.0151 4.67953C10.967 4.67953 11.8609 4.9335 12.6348 5.37546L13.3267 4.11158C12.3468 3.55764 11.217 3.23767 10.0151 3.23767C6.29743 3.23767 3.27173 6.26337 3.27173 9.983Z" fill="#F1F1F1">
+            </path>
+            <path d="M15.3205 9.983C15.3205 12.9087 12.9407 15.2865 10.017 15.2865C9.11107 15.2865 8.25916 15.0585 7.51123 14.6565L6.8053 15.9124C7.7612 16.4324 8.8551 16.7263 10.017 16.7263C13.7366 16.7263 16.7623 13.7006 16.7623 9.981C16.7623 8.11518 16.0004 6.42334 14.7705 5.19946L13.7886 6.25536C14.7345 7.21527 15.3205 8.53114 15.3205 9.983Z" fill="#F1F1F1">
+            </path>
+            <path d="M16.9443 9.98304C16.9443 13.8047 13.8367 16.9124 10.015 16.9124C8.82114 16.9124 7.69525 16.6084 6.71335 16.0744L6.00342 17.3383C7.1953 17.9903 8.56317 18.3622 10.015 18.3622C14.6346 18.3622 18.3942 14.6026 18.3942 9.98304C18.3942 7.64326 17.4303 5.52747 15.8805 4.00562L14.8945 5.06751C16.1604 6.32339 16.9443 8.06122 16.9443 9.98304Z" fill="#F1F1F1">
+            </path>
+            <path d="M1.63586 9.98307C1.63586 12.3748 2.64577 14.5346 4.25761 16.0625L5.24152 14.9986C3.91565 13.7347 3.08573 11.9549 3.08573 9.98307C3.08573 6.16144 6.19343 3.05374 10.0151 3.05374C11.2509 3.05374 12.4108 3.37971 13.4167 3.94965L14.1127 2.67778C12.9008 1.99384 11.5029 1.60388 10.0151 1.60388C5.3955 1.60188 1.63586 5.36152 1.63586 9.98307Z" fill="#F1F1F1">
+            </path>
+            <path d="M16.9683 2.83569L16.0064 3.86959C17.5922 5.42543 18.5801 7.58922 18.5801 9.98298C18.5801 14.7045 14.7385 18.5461 10.017 18.5461C8.53115 18.5461 7.1333 18.1662 5.91542 17.4982L5.20349 18.7661C6.62735 19.548 8.26118 19.994 9.999 19.996C15.5204 19.996 20 15.5184 20 9.99697C19.996 7.18726 18.8341 4.65151 16.9683 2.83569Z" fill="#F1F1F1">
+            </path>
+            <path d="M1.45186 9.98302C1.45186 5.25949 5.29349 1.41786 10.015 1.41786C11.5349 1.41786 12.9627 1.81782 14.2026 2.51575L14.8806 1.27588C13.4807 0.487952 11.8728 0.0279973 10.159 0H9.99703C4.50756 0.00999902 0.0599942 4.42357 0 9.90303V9.99902C0.00599942 12.8647 1.21388 15.4445 3.14569 17.2663L4.1336 16.1984C2.48376 14.6366 1.45186 12.4268 1.45186 9.98302Z" fill="#F1F1F1">
+            </path>
+           </svg>
+          </a>
+         </div>
+        </div>
+        <div class="shows-wrapper">
+        </div>
+       </div>
+      </template>
+      <div class="tabs__item tabs__item_picks tab-body" data-tab="4">
+       <div class="load-picks">
+        Loading, please wait...
+       </div>
+      </div>
+      <div class="tabs__item tabs__item_tags tab-body" data-tab="5">
+       <div class="styles">
+        <div class="styles__list">
+         <span class="styles__letter">
+          A
+         </span>
+         <a class="btn btn_style" data-tag="abstract" href="/tag/abstract/">
+          Abstract
+         </a>
+         <a class="btn btn_style" data-tag="acid-house" href="/tag/acid-house/">
+          Acid House
+         </a>
+         <a class="btn btn_style" data-tag="acid-techno" href="/tag/acid-techno/">
+          Acid Techno
+         </a>
+         <a class="btn btn_style" data-tag="afro-house" href="/tag/afro-house/">
+          Afro House
+         </a>
+         <a class="btn btn_style" data-tag="afrobeat" href="/tag/afrobeat/">
+          Afrobeat
+         </a>
+         <a class="btn btn_style" data-tag="afrobeats" href="/tag/afrobeats/">
+          Afrobeats
+         </a>
+         <a class="btn btn_style" data-tag="amapiano" href="/tag/amapiano/">
+          Amapiano
+         </a>
+         <a class="btn btn_style" data-tag="ambient-drone" href="/tag/ambient-drone/">
+          Ambient/Drone
+         </a>
+         <a class="btn btn_style" data-tag="atmospheric" href="/tag/atmospheric/">
+          Atmospheric
+         </a>
+         <span class="styles__letter">
+          B
+         </span>
+         <a class="btn btn_style" data-tag="baile-funk" href="/tag/baile-funk/">
+          Baile Funk
+         </a>
+         <a class="btn btn_style" data-tag="balearic" href="/tag/balearic/">
+          Balearic
+         </a>
+         <a class="btn btn_style" data-tag="ballroom" href="/tag/ballroom/">
+          Ballroom
+         </a>
+         <a class="btn btn_style" data-tag="bass" href="/tag/bass/">
+          Bass
+         </a>
+         <a class="btn btn_style" data-tag="batida" href="/tag/batida/">
+          Batida
+         </a>
+         <a class="btn btn_style" data-tag="big-room" href="/tag/big-room/">
+          Big Room
+         </a>
+         <a class="btn btn_style" data-tag="blend" href="/tag/blend/">
+          Blend
+         </a>
+         <a class="btn btn_style" data-tag="breaks" href="/tag/breaks/">
+          Breaks
+         </a>
+         <span class="styles__letter">
+          C
+         </span>
+         <a class="btn btn_style" data-tag="changa-tuki-bubbling" href="/tag/changa-tuki-bubbling/">
+          Changa Tuki/Bubbling
+         </a>
+         <a class="btn btn_style" data-tag="chicago-house" href="/tag/chicago-house/">
+          Chicago House
+         </a>
+         <span class="styles__letter">
+          D
+         </span>
+         <a class="btn btn_style" data-tag="dancehall-raggae" href="/tag/dancehall-raggae/">
+          Dancehall/Reggae
+         </a>
+         <a class="btn btn_style" data-tag="dark-disco" href="/tag/dark-disco/">
+          Dark Disco
+         </a>
+         <a class="btn btn_style" data-tag="dark-wave" href="/tag/dark-wave/">
+          Dark Wave
+         </a>
+         <a class="btn btn_style" data-tag="deconstructed-club" href="/tag/deconstructed-club/">
+          Deconstructed Club
+         </a>
+         <a class="btn btn_style" data-tag="deep-electro" href="/tag/deep-electro/">
+          Deep Electro
+         </a>
+         <a class="btn btn_style" data-tag="deep-house" href="/tag/deep-house/">
+          Deep House
+         </a>
+         <a class="btn btn_style" data-tag="deep-techno" href="/tag/deep-techno/">
+          Deep Techno
+         </a>
+         <a class="btn btn_style" data-tag="detroit-house" href="/tag/detroit-house/">
+          Detroit House
+         </a>
+         <a class="btn btn_style" data-tag="detroit-techno" href="/tag/detroit-techno/">
+          Detroit Techno
+         </a>
+         <a class="btn btn_style" data-tag="disco-nu-disco" href="/tag/disco-nu-disco/">
+          Disco/Nu-Disco
+         </a>
+         <a class="btn btn_style" data-tag="downtempo" href="/tag/downtempo/">
+          Downtempo
+         </a>
+         <a class="btn btn_style" data-tag="driving" href="/tag/driving/">
+          Driving
+         </a>
+         <a class="btn btn_style" data-tag="drum-bass-jungle" href="/tag/drum-bass-jungle/">
+          Drum &amp; Bass/Jungle
+         </a>
+         <a class="btn btn_style" data-tag="dub" href="/tag/dub/">
+          Dub
+         </a>
+         <a class="btn btn_style" data-tag="dub-techno" href="/tag/dub-techno/">
+          Dub Techno
+         </a>
+         <a class="btn btn_style" data-tag="dubstep" href="/tag/dubstep/">
+          Dubstep
+         </a>
+         <span class="styles__letter">
+          E
+         </span>
+         <a class="btn btn_style" data-tag="easy-listening" href="/tag/easy-listening/">
+          Easy Listening
+         </a>
+         <a class="btn btn_style" data-tag="ebm" href="/tag/ebm/">
+          EBM
+         </a>
+         <a class="btn btn_style" data-tag="electro" href="/tag/electro/">
+          Electro
+         </a>
+         <a class="btn btn_style" data-tag="electroclash" href="/tag/electroclash/">
+          Electroclash
+         </a>
+         <a class="btn btn_style" data-tag="electronica" href="/tag/electronica/">
+          Electronica
+         </a>
+         <a class="btn btn_style" data-tag="euro-dance" href="/tag/euro-dance/">
+          Euro Dance
+         </a>
+         <a class="btn btn_style" data-tag="euro-house" href="/tag/euro-house/">
+          Euro House
+         </a>
+         <a class="btn btn_style" data-tag="euro-trance" href="/tag/euro-trance/">
+          Euro Trance
+         </a>
+         <a class="btn btn_style" data-tag="experimental" href="/tag/experimental/">
+          Experimental
+         </a>
+         <span class="styles__letter">
+          F
+         </span>
+         <a class="btn btn_style" data-tag="footwork" href="/tag/footwork/">
+          Footwork
+         </a>
+         <a class="btn btn_style" data-tag="fundraising" href="/tag/fundraising/">
+          Fundraising
+         </a>
+         <a class="btn btn_style" data-tag="funk-soul" href="/tag/funk-soul/">
+          Funk/Soul
+         </a>
+         <span class="styles__letter">
+          G
+         </span>
+         <a class="btn btn_style" data-tag="g-house" href="/tag/g-house/">
+          G House
+         </a>
+         <a class="btn btn_style" data-tag="g-tech" href="/tag/g-tech/">
+          G Tech
+         </a>
+         <a class="btn btn_style" data-tag="gabber" href="/tag/gabber/">
+          Gabber
+         </a>
+         <a class="btn btn_style" data-tag="garage-house" href="/tag/garage-house/">
+          Garage House
+         </a>
+         <a class="btn btn_style" data-tag="glitch" href="/tag/glitch/">
+          Glitch
+         </a>
+         <a class="btn btn_style" data-tag="goth" href="/tag/goth/">
+          Goth
+         </a>
+         <a class="btn btn_style" data-tag="gqom" href="/tag/gqom/">
+          Gqom
+         </a>
+         <a class="btn btn_style" data-tag="grime" href="/tag/grime/">
+          Grime
+         </a>
+         <span class="styles__letter">
+          H
+         </span>
+         <a class="btn btn_style" data-tag="hard-dance" href="/tag/hard-dance/">
+          Hard Dance
+         </a>
+         <a class="btn btn_style" data-tag="hard-groove" href="/tag/hard-groove/">
+          Hard Groove
+         </a>
+         <a class="btn btn_style" data-tag="hard-house" href="/tag/hard-house/">
+          Hard House
+         </a>
+         <a class="btn btn_style" data-tag="hard-techno" href="/tag/hard-techno/">
+          Hard Techno
+         </a>
+         <a class="btn btn_style" data-tag="hardcore" href="/tag/hardcore/">
+          Hardcore
+         </a>
+         <a class="btn btn_style" data-tag="hi-nrg" href="/tag/hi-nrg/">
+          Hi-NRG
+         </a>
+         <a class="btn btn_style" data-tag="hip-hop-rb" href="/tag/hip-hop-rb/">
+          Hip Hop/R&amp;B
+         </a>
+         <a class="btn btn_style" data-tag="hip-house" href="/tag/hip-house/">
+          Hip House
+         </a>
+         <a class="btn btn_style" data-tag="house" href="/tag/house/">
+          House
+         </a>
+         <a class="btn btn_style" data-tag="hybrid-show" href="/tag/hybrid-show/">
+          Hybrid Show
+         </a>
+         <a class="btn btn_style" data-tag="hyperpop" href="/tag/hyperpop/">
+          Hyperpop
+         </a>
+         <a class="btn btn_style" data-tag="hypnotic" href="/tag/hypnotic/">
+          Hypnotic
+         </a>
+         <span class="styles__letter">
+          I
+         </span>
+         <a class="btn btn_style" data-tag="idm" href="/tag/idm/">
+          IDM
+         </a>
+         <a class="btn btn_style" data-tag="indie-dance" href="/tag/indie-dance/">
+          Indie Dance
+         </a>
+         <a class="btn btn_style" data-tag="industrial" href="/tag/industrial/">
+          Industrial
+         </a>
+         <a class="btn btn_style" data-tag="industrial-techno" href="/tag/industrial-techno/">
+          Industrial Techno
+         </a>
+         <a class="btn btn_style" data-tag="italo-body-music" href="/tag/italo-body-music/">
+          Italo Body Music
+         </a>
+         <a class="btn btn_style" data-tag="italo-disco" href="/tag/italo-disco/">
+          Italo Disco
+         </a>
+         <a class="btn btn_style" data-tag="italo-house" href="/tag/italo-house/">
+          Italo House
+         </a>
+         <span class="styles__letter">
+          J
+         </span>
+         <a class="btn btn_style" data-tag="jackin-house" href="/tag/jackin-house/">
+          Jackin House
+         </a>
+         <a class="btn btn_style" data-tag="jazz-world" href="/tag/jazz-world/">
+          Jazz/World
+         </a>
+         <a class="btn btn_style" data-tag="jersey-baltimore-club" href="/tag/jersey-baltimore-club/">
+          Jersey/Baltimore Club
+         </a>
+         <span class="styles__letter">
+          L
+         </span>
+         <a class="btn btn_style" data-tag="latincore" href="/tag/latincore/">
+          Latincore
+         </a>
+         <a class="btn btn_style" data-tag="leftfield" href="/tag/leftfield/">
+          Leftfield
+         </a>
+         <a class="btn btn_style" data-tag="liquid-house" href="/tag/liquid-house/">
+          Liquid House
+         </a>
+         <a class="btn btn_style" data-tag="live-show" href="/tag/live-show/">
+          Live Show
+         </a>
+         <span class="styles__letter">
+          M
+         </span>
+         <a class="btn btn_style" data-tag="metal" href="/tag/metal/">
+          Metal
+         </a>
+         <a class="btn btn_style" data-tag="middle-eastern" href="/tag/middle-eastern/">
+          Middle Eastern
+         </a>
+         <a class="btn btn_style" data-tag="minimal" href="/tag/minimal/">
+          Minimal
+         </a>
+         <a class="btn btn_style" data-tag="minimal-house" href="/tag/minimal-house/">
+          Minimal House
+         </a>
+         <a class="btn btn_style" data-tag="minimal-techno" href="/tag/minimal-techno/">
+          Minimal Techno
+         </a>
+         <span class="styles__letter">
+          N
+         </span>
+         <a class="btn btn_style" data-tag="neo-soul" href="/tag/neo-soul/">
+          Neo Soul
+         </a>
+         <a class="btn btn_style" data-tag="new-beat" href="/tag/new-beat/">
+          New Beat
+         </a>
+         <a class="btn btn_style" data-tag="new-wave" href="/tag/new-wave/">
+          New Wave
+         </a>
+         <a class="btn btn_style" data-tag="noise" href="/tag/noise/">
+          Noise
+         </a>
+         <span class="styles__letter">
+          O
+         </span>
+         <a class="btn btn_style" data-tag="old-school" href="/tag/old-school/">
+          Old School
+         </a>
+         <span class="styles__letter">
+          P
+         </span>
+         <a class="btn btn_style" data-tag="post-punk" href="/tag/post-punk/">
+          Post Punk
+         </a>
+         <a class="btn btn_style" data-tag="power-electronics" href="/tag/power-electronics/">
+          Power Electronics
+         </a>
+         <a class="btn btn_style" data-tag="power-house" href="/tag/power-house/">
+          Power House
+         </a>
+         <a class="btn btn_style" data-tag="psy-goa-trance" href="/tag/psy-goa-trance/">
+          Psy/Goa Trance
+         </a>
+         <span class="styles__letter">
+          R
+         </span>
+         <a class="btn btn_style" data-tag="raptor-house" href="/tag/raptor-house/">
+          Raptor House
+         </a>
+         <a class="btn btn_style" data-tag="rave" href="/tag/rave/">
+          Rave
+         </a>
+         <a class="btn btn_style" data-tag="raw" href="/tag/raw/">
+          Raw
+         </a>
+         <a class="btn btn_style" data-tag="reggaeton" href="/tag/reggaeton/">
+          Reggaeton
+         </a>
+         <a class="btn btn_style" data-tag="rock" href="/tag/rock/">
+          Rock
+         </a>
+         <span class="styles__letter">
+          S
+         </span>
+         <a class="btn btn_style" data-tag="schranz" href="/tag/schranz/">
+          Schranz
+         </a>
+         <a class="btn btn_style" data-tag="slow-burners" href="/tag/slow-burners/">
+          Slow Burners
+         </a>
+         <a class="btn btn_style" data-tag="slow-jamz" href="/tag/slow-jamz/">
+          Slow Jamz
+         </a>
+         <a class="btn btn_style" data-tag="soulful-house" href="/tag/soulful-house/">
+          Soulful House
+         </a>
+         <a class="btn btn_style" data-tag="soundtrack" href="/tag/soundtrack/">
+          Soundtrack
+         </a>
+         <a class="btn btn_style" data-tag="speed-garage" href="/tag/speed-garage/">
+          Speed Garage
+         </a>
+         <a class="btn btn_style" data-tag="spoken-word" href="/tag/spoken-word/">
+          Spoken Word
+         </a>
+         <a class="btn btn_style" data-tag="street-soul" href="/tag/street-soul/">
+          Street Soul
+         </a>
+         <a class="btn btn_style" data-tag="synth-pop" href="/tag/synth-pop/">
+          Synth Pop
+         </a>
+         <a class="btn btn_style" data-tag="synth-wave" href="/tag/synth-wave/">
+          Synth Wave
+         </a>
+         <span class="styles__letter">
+          T
+         </span>
+         <a class="btn btn_style" data-tag="talks" href="/tag/talks/">
+          Talks
+         </a>
+         <a class="btn btn_style" data-tag="tech-house" href="/tag/tech-house/">
+          Tech House
+         </a>
+         <a class="btn btn_style" data-tag="techno" href="/tag/techno/">
+          Techno
+         </a>
+         <a class="btn btn_style" data-tag="trance" href="/tag/trance/">
+          Trance
+         </a>
+         <a class="btn btn_style" data-tag="trap" href="/tag/trap/">
+          Trap
+         </a>
+         <a class="btn btn_style" data-tag="tribal" href="/tag/tribal/">
+          Tribal
+         </a>
+         <a class="btn btn_style" data-tag="trip-hop" href="/tag/trip-hop/">
+          Trip Hop
+         </a>
+         <span class="styles__letter">
+          U
+         </span>
+         <a class="btn btn_style" data-tag="uk-bass" href="/tag/uk-bass/">
+          UK Bass
+         </a>
+         <a class="btn btn_style" data-tag="uk-funky" href="/tag/uk-funky/">
+          UK Funky
+         </a>
+         <a class="btn btn_style" data-tag="uk-garage" href="/tag/uk-garage/">
+          UK Garage
+         </a>
+         <span class="styles__letter">
+          Z
+         </span>
+         <a class="btn btn_style" data-tag="zouk" href="/tag/zouk/">
+          Zouk
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="tabs__item tab-body" data-tab="6">
+       <div class="artists">
+        <div class="artists__letters">
+         <span class="artists__letter artists__letter_active" data-letter="a">
+          a
+         </span>
+         <span class="artists__letter" data-letter="b">
+          b
+         </span>
+         <span class="artists__letter" data-letter="c">
+          c
+         </span>
+         <span class="artists__letter" data-letter="d">
+          d
+         </span>
+         <span class="artists__letter" data-letter="e">
+          e
+         </span>
+         <span class="artists__letter" data-letter="f">
+          f
+         </span>
+         <span class="artists__letter" data-letter="g">
+          g
+         </span>
+         <span class="artists__letter" data-letter="h">
+          h
+         </span>
+         <span class="artists__letter" data-letter="i">
+          i
+         </span>
+         <span class="artists__letter" data-letter="j">
+          j
+         </span>
+         <span class="artists__letter" data-letter="k">
+          k
+         </span>
+         <span class="artists__letter" data-letter="l">
+          l
+         </span>
+         <span class="artists__letter" data-letter="m">
+          m
+         </span>
+         <span class="artists__letter" data-letter="n">
+          n
+         </span>
+         <span class="artists__letter" data-letter="o">
+          o
+         </span>
+         <span class="artists__letter" data-letter="p">
+          p
+         </span>
+         <span class="artists__letter" data-letter="q">
+          q
+         </span>
+         <span class="artists__letter" data-letter="r">
+          r
+         </span>
+         <span class="artists__letter" data-letter="s">
+          s
+         </span>
+         <span class="artists__letter" data-letter="t">
+          t
+         </span>
+         <span class="artists__letter" data-letter="u">
+          u
+         </span>
+         <span class="artists__letter" data-letter="v">
+          v
+         </span>
+         <span class="artists__letter" data-letter="w">
+          w
+         </span>
+         <span class="artists__letter" data-letter="x">
+          x
+         </span>
+         <span class="artists__letter" data-letter="y">
+          y
+         </span>
+         <span class="artists__letter" data-letter="z">
+          z
+         </span>
+        </div>
+        <ul class="artists__list">
+         <li class="artists__artist" data-image="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-letter="a" style="color:#848383">
+          Loading, please wait…
+         </li>
+        </ul>
+        <div class="artists__image">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="main__body">
+    <input id="page-title" type="hidden" value="hoer.live | Broadcasting DJ sets and Live acts 6 days a week"/>
+   </section>
+  </main>
+  <footer class="footer">
+   <div class="footer__gradient">
+   </div>
+   <div class="footer__bottom">
+    <div class="footer__nav" id="footer__nav">
+     <ul>
+      <li>
+       <a href="/about-us/">
+        About
+       </a>
+      </li>
+      <li>
+       <a href="mailto:support@hoer.live">
+        Contact
+       </a>
+      </li>
+      <li>
+       <a href="https://hoer.live/terms-of-use/">
+        Terms Of Use
+       </a>
+      </li>
+      <li>
+       <a href="/privacy-policy/ ">
+        Privacy
+       </a>
+      </li>
+      <li>
+       <a href="/cookie-policy/ ">
+        Cookies
+       </a>
+      </li>
+      <li>
+       <a href="https://hoer.live/imprint/">
+        Imprint
+       </a>
+      </li>
+      <li>
+       <a class="contact-button" href="mailto:support@hoer.live">
+        <svg fill="none" height="12" viewbox="0 0 13 12" width="13" xmlns="http://www.w3.org/2000/svg">
+         <path clip-rule="evenodd" d="M6.00296 8.07315e-06L6.11669 1.64178e-05L6.22455 8.90761e-06C7.5374 -0.000128898 8.31322 -0.000210318 8.94967 0.191791C10.3932 0.627275 11.5227 1.75678 11.9582 3.20033C12.1502 3.83676 12.1501 4.59914 12.15 5.88743V5.88744L12.15 5.99223L12.15 6.09701V6.09702C12.1501 7.38531 12.1502 8.14769 11.9582 8.78413C11.5227 10.2277 10.3932 11.3572 8.94967 11.7927C8.31324 11.9847 7.55086 11.9846 6.26257 11.9844H6.26256L6.15777 11.9844H2.50002L2.46711 11.9844C2.02386 11.9845 1.64195 11.9845 1.33612 11.9434C1.00836 11.8993 0.694187 11.7999 0.439356 11.5451C0.184525 11.2903 0.0851521 10.9761 0.0410862 10.6483C-3.15444e-05 10.3425 -1.01463e-05 9.96059 1.47684e-05 9.51735L1.59605e-05 9.48443V6.075L7.85427e-06 5.96438C-0.000142588 4.60437 -0.000231637 3.79939 0.213482 3.13048C0.656624 1.74348 1.74348 0.656625 3.13048 0.213483C3.7994 -0.000235769 4.61803 -0.00014517 6.00296 8.07315e-06ZM6.11669 1.00002C4.58406 1.00002 3.93558 1.00605 3.43482 1.16605C2.35605 1.51071 1.51071 2.35605 1.16605 3.43482C1.00599 3.93577 1.00002 4.57108 1.00002 6.075V9.48443C1.00002 9.96997 1.00108 10.2838 1.03217 10.5151C1.06133 10.732 1.1084 10.7999 1.14646 10.838C1.18452 10.8761 1.2525 10.9231 1.46937 10.9523C1.70062 10.9834 2.01448 10.9844 2.50002 10.9844H6.15777C7.58224 10.9844 8.18423 10.9791 8.66085 10.8353C9.78361 10.4966 10.6621 9.61806 11.0008 8.49531C11.1446 8.01868 11.15 7.41669 11.15 5.99223C11.15 4.56776 11.1446 3.96577 11.0008 3.48915C10.6621 2.36639 9.78361 1.48788 8.66085 1.14917C8.18441 1.00544 7.56945 1.00002 6.11669 1.00002ZM3.48438 4.61918C3.48438 4.34303 3.70824 4.11918 3.98438 4.11918H8.16562C8.44176 4.11918 8.66562 4.34303 8.66562 4.61918C8.66562 4.89532 8.44176 5.11918 8.16562 5.11918H3.98438C3.70824 5.11918 3.48438 4.89532 3.48438 4.61918ZM3.98438 6.86528C3.70824 6.86528 3.48438 7.08914 3.48438 7.36528C3.48438 7.64142 3.70824 7.86528 3.98438 7.86528H6.075C6.35114 7.86528 6.575 7.64142 6.575 7.36528C6.575 7.08914 6.35114 6.86528 6.075 6.86528H3.98438Z" fill="#F1F1F1" fill-rule="evenodd">
+         </path>
+        </svg>
+        Feedback
+       </a>
+      </li>
+     </ul>
+     <div class="footer__social">
+      <a class="icon icon_instagram" href="https://www.instagram.com/hoer.berlin/" target="_blank">
+       <svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+        <rect fill="#F1F1F1" height="20" rx="6" width="20" x="2" y="2">
+        </rect>
+        <path d="M17.0003 8.07143C17.0003 8.66317 16.5206 9.14286 15.9289 9.14286C15.3371 9.14286 14.8574 8.66317 14.8574 8.07143C14.8574 7.4797 15.3371 7 15.9289 7C16.5206 7 17.0003 7.4797 17.0003 8.07143Z" fill="#34343A">
+        </path>
+        <path clip-rule="evenodd" d="M12.0003 15.5714C13.9727 15.5714 15.5717 13.9724 15.5717 12C15.5717 10.0276 13.9727 8.42858 12.0003 8.42858C10.0278 8.42858 8.42885 10.0276 8.42885 12C8.42885 13.9724 10.0278 15.5714 12.0003 15.5714ZM12.0003 14.1429C13.1837 14.1429 14.1431 13.1835 14.1431 12C14.1431 10.8165 13.1837 9.85715 12.0003 9.85715C10.8168 9.85715 9.85742 10.8165 9.85742 12C9.85742 13.1835 10.8168 14.1429 12.0003 14.1429Z" fill="#34343A" fill-rule="evenodd">
+        </path>
+        <path clip-rule="evenodd" d="M4.85742 11.7143C4.85742 9.31407 4.85742 8.11395 5.32454 7.19719C5.73542 6.39078 6.39105 5.73515 7.19746 5.32426C8.11423 4.85715 9.31434 4.85715 11.7146 4.85715H12.286C14.6862 4.85715 15.8863 4.85715 16.8031 5.32426C17.6095 5.73515 18.2651 6.39078 18.676 7.19719C19.1431 8.11395 19.1431 9.31407 19.1431 11.7143V12.2857C19.1431 14.6859 19.1431 15.8861 18.676 16.8028C18.2651 17.6092 17.6095 18.2649 16.8031 18.6757C15.8863 19.1429 14.6862 19.1429 12.286 19.1429H11.7146C9.31434 19.1429 8.11423 19.1429 7.19746 18.6757C6.39105 18.2649 5.73542 17.6092 5.32454 16.8028C4.85742 15.8861 4.85742 14.6859 4.85742 12.2857V11.7143ZM11.7146 6.28572H12.286C13.5097 6.28572 14.3415 6.28683 14.9845 6.33936C15.6108 6.39053 15.9311 6.48329 16.1545 6.59713C16.6921 6.87105 17.1292 7.30814 17.4032 7.84575C17.517 8.06917 17.6097 8.38947 17.6609 9.01577C17.7135 9.65876 17.7146 10.4906 17.7146 11.7143V12.2857C17.7146 13.5094 17.7135 14.3413 17.6609 14.9842C17.6097 15.6105 17.517 15.9308 17.4032 16.1543C17.1292 16.6919 16.6921 17.129 16.1545 17.4029C15.9311 17.5167 15.6108 17.6095 14.9845 17.6606C14.3415 17.7132 13.5097 17.7143 12.286 17.7143H11.7146C10.4909 17.7143 9.65903 17.7132 9.01605 17.6606C8.38974 17.6095 8.06945 17.5167 7.84602 17.4029C7.30841 17.129 6.87133 16.6919 6.5974 16.1543C6.48356 15.9308 6.39081 15.6105 6.33964 14.9842C6.2871 14.3413 6.28599 13.5094 6.28599 12.2857V11.7143C6.28599 10.4906 6.2871 9.65876 6.33964 9.01577C6.39081 8.38947 6.48356 8.06917 6.5974 7.84575C6.87133 7.30814 7.30841 6.87105 7.84602 6.59713C8.06945 6.48329 8.38974 6.39053 9.01605 6.33936C9.65903 6.28683 10.4909 6.28572 11.7146 6.28572Z" fill="#34343A" fill-rule="evenodd">
+        </path>
+       </svg>
+      </a>
+      <a class="icon" href="https://soundcloud.com/hoerberlin" target="_blank">
+       <svg fill="none" height="21" viewbox="0 0 21 21" width="21" xmlns="http://www.w3.org/2000/svg">
+        <path clip-rule="evenodd" d="M10.5 20.5C16.0228 20.5 20.5 16.0228 20.5 10.5C20.5 4.97715 16.0228 0.5 10.5 0.5C4.97715 0.5 0.5 4.97715 0.5 10.5C0.5 16.0228 4.97715 20.5 10.5 20.5ZM10.3173 14.0714H16.1644C17.3754 14.0714 18.3571 13.0161 18.3571 11.7143C18.3571 10.4125 17.3754 9.35714 16.1644 9.35714C15.908 9.35714 15.6618 9.40448 15.433 9.49147C15.4022 7.67589 14.0235 6.21429 12.3272 6.21429C11.5607 6.21429 10.859 6.51275 10.3173 7.00748V14.0714ZM9.07143 7.64286H9.78571V14.0714H9.07143V7.64286ZM7.64286 8.35714H8.35714V14.0714H7.64286V8.35714ZM6.21429 9.78571H6.92857V14.0714H6.21429V9.78571ZM4.78571 9.07143H5.5V14.0714H4.78571V9.07143ZM3.35714 10.5H4.07143V14.0714H3.35714V10.5Z" fill="#F1F1F1" fill-rule="evenodd">
+        </path>
+       </svg>
+      </a>
+      <a class="icon" href="https://www.facebook.com/hoerberlin/" target="_blank">
+       <svg fill="none" height="21" viewbox="0 0 21 21" width="21" xmlns="http://www.w3.org/2000/svg">
+        <path clip-rule="evenodd" d="M10.5 20.5C16.0228 20.5 20.5 16.0228 20.5 10.5C20.5 4.97715 16.0228 0.5 10.5 0.5C4.97715 0.5 0.5 4.97715 0.5 10.5C0.5 15.4288 4.06576 19.5247 8.75833 20.3489V13.5583H6.21429V10.7358H8.75833V8.5846C8.75833 6.13781 10.2535 4.78571 12.543 4.78571C13.6389 4.78571 14.7857 4.97642 14.7857 4.97642V7.37933H13.5215C12.2769 7.37933 11.8894 8.13264 11.8894 8.90499V10.7358H14.6683L14.2241 13.5583H11.8894V20.3818C11.4072 20.4556 10.9144 20.4954 10.4128 20.4996C10.4418 20.4999 10.4709 20.5 10.5 20.5Z" fill="#F1F1F1" fill-rule="evenodd">
+        </path>
+       </svg>
+      </a>
+     </div>
+    </div>
+    <div class="footer__text">
+     © 2026 HOER DOT LIVE GmbH All rights reserved.
+    </div>
+   </div>
+  </footer>
+  <!--<script type="text/javascript">
+  function debounce(func, timeout = 800){
+    let timer;
+    return () => {
+      clearTimeout(timer);
+      timer = setTimeout(() => { func.apply(this); }, timeout);
+    };
+  }
+  function saveInput(){
+    jQuery('.search__input').submit();
+  }
+  const processChange = debounce(() => saveInput());
+</script>-->
+  <section class="search">
+   <div class="search__body">
+    <div class="search__close toggle-search">
+     <img alt="Close popup" src="https://hoer.live/wp-content/themes/main/img/icons/close_big-white.svg"/>
+    </div>
+    <form autocomplete="off" class="search__input">
+     <input max="32" min="3" name="s" onkeyup="if (!window.__cfRLUnblockHandlers) return false; processChange()" placeholder="Search shows and artists…" type="text"/>
+    </form>
+    <div class="search__results">
+    </div>
+   </div>
+  </section>
+  <div class="cookie-consent">
+   <div class="cookie-consent__body">
+    <div class="cookie-consent__col">
+     <p>
+      <strong>
+       Data protection &amp; Privacy
+      </strong>
+     </p>
+     <p>
+      When you visit our website hoer.live, we or our partners process data in the form of cookies or other technologies. We also share information about your use of our website with our social media, advertising and analytics partners. Our partners may combine this information with other data that you have provided to them or that they have collected as part of your use of the Services. For this we need your consent.
+     </p>
+     <p>
+      <strong>
+       Certain functions and content of the website cannot be made available without consent. This applies in particular to the integration of streaming content from YouTube. We are a streaming site. Our website cannot be used without the integration of streaming content from YouTube.
+      </strong>
+     </p>
+    </div>
+    <div class="cookie-consent__col">
+     <p class="cookie-consent__hide">
+     </p>
+     <p>
+      Please note that data can also be accessed or stored outside of the EEA, in particular the USA. In these countries, there may be a lower level of data protection than in Europe, so that your data may be subject to access by authorities for control and monitoring purposes, against which neither effective legal remedies nor the rights of those affected, can be enforced. By agreeing to the use of these services, you also agree to the processing of your data in the USA in accordance with Article 49 (1) lit. a DSGVO. Our partners may combine this information with other data that you have provided to them or that they have collected as part of your use of the Services.
+      <br/>
+      Unfortunately, persons under the age of 16 cannot give valid consent. Parents or legal guardians must give their consent.
+     </p>
+    </div>
+    <div class="cookie-consent__col cookie-consent__col_last">
+     <button class="cookie-consent__accept button-white">
+      Consent
+     </button>
+    </div>
+   </div>
+  </div>
+  <div class="popup" id="popup-login">
+   <div class="popup__bg">
+    <span class="popup__close">
+    </span>
+   </div>
+   <div class="popup__body">
+    <a class="popup__close popup__close_small" href="#">
+    </a>
+    <div class="woocommerce">
+     <div class="woocommerce-notices-wrapper">
+     </div>
+     <div class="magic-form">
+      <!-- First demo state -->
+      <div class="magic-form__step magic-form__step_active" data-step="1">
+       <div class="magic-form__buttons">
+        <a class="button-social-login button-social-login-google" href="/?wc-api=auth&amp;start=google&amp;return=https%3A%2F%2Fhoer.live%2F?signed=g">
+         <span class="si si-google">
+         </span>
+         Sign up with Google
+        </a>
+        <a class="button-social-login button-social-login-facebook" href="/?wc-api=auth&amp;start=facebook&amp;return=https%3A%2F%2Fhoer.live%2F?signed=f">
+         <span class="si si-facebook">
+         </span>
+         Sign up with Facebook
+        </a>
+        <div class="magic-form__or">
+         or
+        </div>
+       </div>
+       <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+        <input autocomplete="off" class="woocommerce-Input woocommerce-Input--text input-text" id="username-pseudo" maxlength="64" name="username-pseudo" placeholder="Enter your email" required="" type="email"/>
+       </p>
+       <button class="magic-form__next button" data-next="2">
+        Sign Up
+       </button>
+       <div class="magic-form__text">
+        <div class="woocommerce-privacy-policy-text">
+         <p>
+          By creating an account, you agree to our
+          <a href="/terms/" target="_blank">
+           Terms of Service
+          </a>
+          and
+          <a href="/privacy-policy/" target="_blank">
+           Privacy
+          </a>
+          &amp;
+          <a href="/cookie-policy/" target="_blank">
+           Cookie Statement
+          </a>
+          .
+         </p>
+        </div>
+       </div>
+       <p>
+        Already Registered?
+       </p>
+       <button class="magic-form__next button button_green" data-next="4">
+        Sign In
+       </button>
+      </div>
+      <!-- Registration form -->
+      <form autocomplete="off" class="woocommerce-form woocommerce-form-register register" method="post">
+       <div class="magic-form__step" data-step="2">
+        <button class="magic-form__next magic-form__next_return" data-next="1">
+         <svg fill="none" height="10" viewbox="0 0 6 10" width="6" xmlns="http://www.w3.org/2000/svg">
+          <path d="M4.5 5L4.85355 4.64645L5.20711 5L4.85355 5.35355L4.5 5ZM0.853553 0.646447L4.85355 4.64645L4.14645 5.35355L0.146447 1.35355L0.853553 0.646447ZM4.85355 5.35355L0.853554 9.35355L0.146447 8.64645L4.14645 4.64645L4.85355 5.35355Z" fill="#F1F1F1">
+          </path>
+         </svg>
+        </button>
+        <h2>
+         Create your HÖR
+         <br/>
+         account
+         <br/>
+        </h2>
+        <input autocomplete="off" class="woocommerce-Input woocommerce-Input--text input-text" id="reg_first_name" maxlength="64" name="first_name" placeholder="First Name" required="" type="text" value=""/>
+        <input autocomplete="off" class="woocommerce-Input woocommerce-Input--text input-text" id="reg_last_name" maxlength="64" name="last_name" placeholder="Last Name" required="" type="text" value=""/>
+        <input autocomplete="off" class="woocommerce-Input woocommerce-Input--text input-text" id="reg_email" maxlength="64" name="email" placeholder="Email" style="visibility: hidden; width:0; height: 0; margin: 0;" type="email" value=""/>
+        <input autocomplete="off" class="woocommerce-Input woocommerce-Input--text input-text" id="reg_username" maxlength="64" name="username" placeholder="Username" required="" type="text" value=""/>
+        <div class="password-input">
+         <input autocomplete="off" class="woocommerce-Input woocommerce-Input--text input-text" id="reg_password" maxlength="64" name="password" placeholder="Password" type="password"/>
+         <span class="show-password-input">
+         </span>
+        </div>
+        <div class="magic-form__plan" style="margin-top:15px;margin-bottom:6px">
+         Date of birth (optional)
+        </div>
+        <div class="date-of-birth">
+         <div class="date-of-birth__box">
+          <select id="day_of_birth" name="day_of_birth">
+           <option disabled="" selected="" value="">
+            Day
+           </option>
+           <option value="1">
+            1
+           </option>
+           <option value="2">
+            2
+           </option>
+           <option value="3">
+            3
+           </option>
+           <option value="4">
+            4
+           </option>
+           <option value="5">
+            5
+           </option>
+           <option value="6">
+            6
+           </option>
+           <option value="7">
+            7
+           </option>
+           <option value="8">
+            8
+           </option>
+           <option value="9">
+            9
+           </option>
+           <option value="10">
+            10
+           </option>
+           <option value="11">
+            11
+           </option>
+           <option value="12">
+            12
+           </option>
+           <option value="13">
+            13
+           </option>
+           <option value="14">
+            14
+           </option>
+           <option value="15">
+            15
+           </option>
+           <option value="16">
+            16
+           </option>
+           <option value="17">
+            17
+           </option>
+           <option value="18">
+            18
+           </option>
+           <option value="19">
+            19
+           </option>
+           <option value="20">
+            20
+           </option>
+           <option value="21">
+            21
+           </option>
+           <option value="22">
+            22
+           </option>
+           <option value="23">
+            23
+           </option>
+           <option value="24">
+            24
+           </option>
+           <option value="25">
+            25
+           </option>
+           <option value="26">
+            26
+           </option>
+           <option value="27">
+            27
+           </option>
+           <option value="28">
+            28
+           </option>
+           <option value="29">
+            29
+           </option>
+           <option value="30">
+            30
+           </option>
+           <option value="31">
+            31
+           </option>
+          </select>
+         </div>
+         <div class="date-of-birth__box">
+          <select id="day_of_birth_copy" name="day_of_birth_copy">
+           <option disabled="" selected="" value="">
+            Month
+           </option>
+           <option value="1">
+            1
+           </option>
+           <option value="2">
+            2
+           </option>
+           <option value="3">
+            3
+           </option>
+           <option value="4">
+            4
+           </option>
+           <option value="5">
+            5
+           </option>
+           <option value="6">
+            6
+           </option>
+           <option value="7">
+            7
+           </option>
+           <option value="8">
+            8
+           </option>
+           <option value="9">
+            9
+           </option>
+           <option value="10">
+            10
+           </option>
+           <option value="11">
+            11
+           </option>
+           <option value="12">
+            12
+           </option>
+          </select>
+         </div>
+         <div class="date-of-birth__box">
+          <select id="day_of_birth_copy2" name="day_of_birth_copy2">
+           <option disabled="" selected="" value="">
+            Year
+           </option>
+           <option value="2005">
+            2005
+           </option>
+           <option value="2004">
+            2004
+           </option>
+           <option value="2003">
+            2003
+           </option>
+           <option value="2002">
+            2002
+           </option>
+           <option value="2001">
+            2001
+           </option>
+           <option value="2000">
+            2000
+           </option>
+           <option value="1999">
+            1999
+           </option>
+           <option value="1998">
+            1998
+           </option>
+           <option value="1997">
+            1997
+           </option>
+           <option value="1996">
+            1996
+           </option>
+           <option value="1995">
+            1995
+           </option>
+           <option value="1994">
+            1994
+           </option>
+           <option value="1993">
+            1993
+           </option>
+           <option value="1992">
+            1992
+           </option>
+           <option value="1991">
+            1991
+           </option>
+           <option value="1990">
+            1990
+           </option>
+           <option value="1989">
+            1989
+           </option>
+           <option value="1988">
+            1988
+           </option>
+           <option value="1987">
+            1987
+           </option>
+           <option value="1986">
+            1986
+           </option>
+           <option value="1985">
+            1985
+           </option>
+           <option value="1984">
+            1984
+           </option>
+           <option value="1983">
+            1983
+           </option>
+           <option value="1982">
+            1982
+           </option>
+           <option value="1981">
+            1981
+           </option>
+           <option value="1980">
+            1980
+           </option>
+           <option value="1979">
+            1979
+           </option>
+           <option value="1978">
+            1978
+           </option>
+           <option value="1977">
+            1977
+           </option>
+           <option value="1976">
+            1976
+           </option>
+           <option value="1975">
+            1975
+           </option>
+           <option value="1974">
+            1974
+           </option>
+           <option value="1973">
+            1973
+           </option>
+           <option value="1972">
+            1972
+           </option>
+           <option value="1971">
+            1971
+           </option>
+           <option value="1970">
+            1970
+           </option>
+           <option value="1969">
+            1969
+           </option>
+           <option value="1968">
+            1968
+           </option>
+           <option value="1967">
+            1967
+           </option>
+           <option value="1966">
+            1966
+           </option>
+           <option value="1965">
+            1965
+           </option>
+           <option value="1964">
+            1964
+           </option>
+           <option value="1963">
+            1963
+           </option>
+           <option value="1962">
+            1962
+           </option>
+           <option value="1961">
+            1961
+           </option>
+           <option value="1960">
+            1960
+           </option>
+           <option value="1959">
+            1959
+           </option>
+           <option value="1958">
+            1958
+           </option>
+           <option value="1957">
+            1957
+           </option>
+           <option value="1956">
+            1956
+           </option>
+           <option value="1955">
+            1955
+           </option>
+           <option value="1954">
+            1954
+           </option>
+           <option value="1953">
+            1953
+           </option>
+           <option value="1952">
+            1952
+           </option>
+           <option value="1951">
+            1951
+           </option>
+           <option value="1950">
+            1950
+           </option>
+           <option value="1949">
+            1949
+           </option>
+           <option value="1948">
+            1948
+           </option>
+           <option value="1947">
+            1947
+           </option>
+           <option value="1946">
+            1946
+           </option>
+           <option value="1945">
+            1945
+           </option>
+           <option value="1944">
+            1944
+           </option>
+           <option value="1943">
+            1943
+           </option>
+           <option value="1942">
+            1942
+           </option>
+           <option value="1941">
+            1941
+           </option>
+           <option value="1940">
+            1940
+           </option>
+           <option value="1939">
+            1939
+           </option>
+           <option value="1938">
+            1938
+           </option>
+           <option value="1937">
+            1937
+           </option>
+           <option value="1936">
+            1936
+           </option>
+           <option value="1935">
+            1935
+           </option>
+           <option value="1934">
+            1934
+           </option>
+           <option value="1933">
+            1933
+           </option>
+           <option value="1932">
+            1932
+           </option>
+           <option value="1931">
+            1931
+           </option>
+           <option value="1930">
+            1930
+           </option>
+           <option value="1929">
+            1929
+           </option>
+           <option value="1928">
+            1928
+           </option>
+           <option value="1927">
+            1927
+           </option>
+           <option value="1926">
+            1926
+           </option>
+           <option value="1925">
+            1925
+           </option>
+           <option value="1924">
+            1924
+           </option>
+           <option value="1923">
+            1923
+           </option>
+           <option value="1922">
+            1922
+           </option>
+           <option value="1921">
+            1921
+           </option>
+           <option value="1920">
+            1920
+           </option>
+           <option value="1919">
+            1919
+           </option>
+           <option value="1918">
+            1918
+           </option>
+           <option value="1917">
+            1917
+           </option>
+           <option value="1916">
+            1916
+           </option>
+           <option value="1915">
+            1915
+           </option>
+           <option value="1914">
+            1914
+           </option>
+           <option value="1913">
+            1913
+           </option>
+           <option value="1912">
+            1912
+           </option>
+           <option value="1911">
+            1911
+           </option>
+           <option value="1910">
+            1910
+           </option>
+           <option value="1909">
+            1909
+           </option>
+           <option value="1908">
+            1908
+           </option>
+           <option value="1907">
+            1907
+           </option>
+           <option value="1906">
+            1906
+           </option>
+           <option value="1905">
+            1905
+           </option>
+           <option value="1904">
+            1904
+           </option>
+           <option value="1903">
+            1903
+           </option>
+           <option value="1902">
+            1902
+           </option>
+           <option value="1901">
+            1901
+           </option>
+           <option value="1900">
+            1900
+           </option>
+          </select>
+         </div>
+        </div>
+        <input id="woocommerce-register-nonce" name="woocommerce-register-nonce" type="hidden" value="f8422a1a62"/>
+        <input name="_wp_http_referer" type="hidden" value="/"/>
+        <div class="g-recaptcha" data-sitekey="6LdtltAmAAAAADydI8S-ZIZSWLkp1qnGeH7rMUQ_" data-theme="dark">
+        </div>
+        <br/>
+        <wc-order-attribution-inputs>
+        </wc-order-attribution-inputs>
+        <div class="woocommerce-privacy-policy-text">
+         <p>
+          By creating an account, you agree to our
+          <a href="/terms/" target="_blank">
+           Terms of Service
+          </a>
+          and
+          <a href="/privacy-policy/" target="_blank">
+           Privacy
+          </a>
+          &amp;
+          <a href="/cookie-policy/" target="_blank">
+           Cookie Statement
+          </a>
+          .
+         </p>
+        </div>
+        <div class="magic-form__text" style="margin-top:0;">
+        </div>
+        <button class="woocommerce-Button woocommerce-button button woocommerce-form-register__submit" name="register" style="margin-top:0" type="submit" value="Register">
+         Get Started
+        </button>
+       </div>
+       <input name="action" type="hidden" value="ajaxregister"/>
+       <div class="register_msg success" style="display:none">
+       </div>
+       <div class="register_msg fail" style="display:none">
+       </div>
+       <div class="register_loader" style="display:none">
+        <img src="https://hoer.live/wp-content/plugins/woocommerce/assets/images/wpspin.gif"/>
+        Loading...
+       </div>
+      </form>
+      <!-- Log in step -->
+      <div class="magic-form__step" data-step="4">
+       <button class="magic-form__next magic-form__next_return" data-next="1">
+        <svg fill="none" height="10" viewbox="0 0 6 10" width="6" xmlns="http://www.w3.org/2000/svg">
+         <path d="M4.5 5L4.85355 4.64645L5.20711 5L4.85355 5.35355L4.5 5ZM0.853553 0.646447L4.85355 4.64645L4.14645 5.35355L0.146447 1.35355L0.853553 0.646447ZM4.85355 5.35355L0.853554 9.35355L0.146447 8.64645L4.14645 4.64645L4.85355 5.35355Z" fill="#F1F1F1">
+         </path>
+        </svg>
+       </button>
+       <form autocomplete="off" class="woocommerce-form woocommerce-form-login login" method="post">
+        <h2>
+         Welcome back!
+        </h2>
+        <p>
+         How would you like to sign in?
+        </p>
+        <div class="magic-form__buttons">
+         <a class="button-social-login button-social-login-google" href="/?wc-api=auth&amp;start=google&amp;return=https%3A%2F%2Fhoer.live%2F">
+          <span class="si si-google">
+          </span>
+          Sign in with Google
+         </a>
+         <a class="button-social-login button-social-login-facebook" href="/?wc-api=auth&amp;start=facebook&amp;return=https%3A%2F%2Fhoer.live%2F">
+          <span class="si si-facebook">
+          </span>
+          Sign in with Facebook
+         </a>
+         <div class="magic-form__or">
+          or
+         </div>
+        </div>
+        <input autocomplete="off" class="woocommerce-Input woocommerce-Input--text input-text" id="username" maxlength="64" name="username" placeholder="Enter email address" required="" type="text" value=""/>
+        <div class="password-input">
+         <input autocomplete="off" class="woocommerce-Input woocommerce-Input--text input-text" id="password" maxlength="64" name="password" placeholder="Enter password" required="" type="password"/>
+         <span class="show-password-input">
+         </span>
+         <!--<script type="text/javascript">jQuery(".show-password-input").on("click", function(){
+							if(!jQuery(this).hasClass("display-password")){
+								jQuery(this).siblings("input").attr("type", "text");
+								jQuery(this).addClass("display-password")
+							}else{
+								jQuery(this).siblings("input").attr("type", "password");
+								jQuery(this).removeClass("display-password")
+							}
+							})</script>-->
+        </div>
+        <a class="magic-form__next magic-form__link" data-next="5" href="#">
+         Forgot your password?
+        </a>
+        <input id="woocommerce-login-nonce" name="woocommerce-login-nonce" type="hidden" value="964e8b7720"/>
+        <input name="_wp_http_referer" type="hidden" value="/"/>
+        <button class="woocommerce-button button woocommerce-form-login__submit" name="login" type="submit" value="Sign in">
+         Sign in
+        </button>
+        <input name="action" type="hidden" value="ajaxlogin"/>
+       </form>
+      </div>
+      <!-- Password reset step -->
+      <div class="magic-form__step" data-step="5">
+       <button class="magic-form__next magic-form__next_return" data-next="4">
+        <svg fill="none" height="10" viewbox="0 0 6 10" width="6" xmlns="http://www.w3.org/2000/svg">
+         <path d="M4.5 5L4.85355 4.64645L5.20711 5L4.85355 5.35355L4.5 5ZM0.853553 0.646447L4.85355 4.64645L4.14645 5.35355L0.146447 1.35355L0.853553 0.646447ZM4.85355 5.35355L0.853554 9.35355L0.146447 8.64645L4.14645 4.64645L4.85355 5.35355Z" fill="#F1F1F1">
+         </path>
+        </svg>
+       </button>
+       <form autocomplete="off" class="woocommerce-ResetPassword lost_reset_password" method="post">
+        <h2>
+         Forgot your
+         <br/>
+         password?
+        </h2>
+        <p>
+         Please enter your email address, we’ll be sending a reset link shortly
+        </p>
+        <input autocomplete="off" class="woocommerce-Input woocommerce-Input--text input-text" id="user_login" maxlength="64" name="user_login" placeholder="Your email" type="text"/>
+        <div class="g-recaptcha" data-sitekey="6LdtltAmAAAAADydI8S-ZIZSWLkp1qnGeH7rMUQ_" data-theme="dark">
+        </div>
+        <br/>
+        <input name="action" type="hidden" value="ajaxresetpassword"/>
+        <div class="login_msg success" style="display:none">
+        </div>
+        <div class="login_msg fail" style="display:none">
+        </div>
+        <div class="login_loader" style="display:none">
+         <img src="https://hoer.live/wp-content/plugins/woocommerce/assets/images/wpspin.gif"/>
+         Loading...
+        </div>
+        <input name="wc_reset_password" type="hidden" value="true"/>
+        <button class="woocommerce-Button button" id="passwordReset" type="submit" value="Reset password">
+         Continue
+        </button>
+        <input id="woocommerce-lost-password-nonce" name="woocommerce-lost-password-nonce" type="hidden" value="8d770d27b0"/>
+        <input name="_wp_http_referer" type="hidden" value="/"/>
+       </form>
+      </div>
+      <!-- Password reset success step -->
+      <div class="magic-form__step" data-step="7">
+       <button class="magic-form__next magic-form__next_return" data-next="5">
+        <svg fill="none" height="10" viewbox="0 0 6 10" width="6" xmlns="http://www.w3.org/2000/svg">
+         <path d="M4.5 5L4.85355 4.64645L5.20711 5L4.85355 5.35355L4.5 5ZM0.853553 0.646447L4.85355 4.64645L4.14645 5.35355L0.146447 1.35355L0.853553 0.646447ZM4.85355 5.35355L0.853554 9.35355L0.146447 8.64645L4.14645 4.64645L4.85355 5.35355Z" fill="#F1F1F1">
+         </path>
+        </svg>
+       </button>
+       <h2>
+        Email sent!
+       </h2>
+       <p>
+        We've just sent you a reset link.
+        <br/>
+        Check your mail box.
+       </p>
+       <button class="woocommerce-Button button button_closePopup">
+        Continue
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="wpd-editor-source-code-wrapper-bg">
+  </div>
+  <div id="wpd-editor-source-code-wrapper">
+   <textarea id="wpd-editor-source-code"></textarea>
+   <button id="wpd-insert-source-code">
+    Insert
+   </button>
+   <input id="wpd-editor-uid" type="hidden"/>
+  </div>
+  <!--<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>-->
+  <link href="https://hoer.live/wp-content/plugins/publishpress-authors/src/assets/css/multiple-authors-widget.css?ver=4.7.2" id="multiple-authors-widget-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="multiple-authors-widget-css-inline-css" type="text/css">
+   :root { --ppa-color-scheme: #655997; --ppa-color-scheme-active: #514779; }
+  </style>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css?ver=4.7.2" id="multiple-authors-fontawesome-css" media="all" rel="stylesheet" type="text/css"/>
+  <!--<script type="text/javascript" src="https://hoer.live/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=15.6.3" id="swv-js"></script>-->
+  <!--<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/hoer.live\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>-->
+  <!--<script type="text/javascript" src="https://hoer.live/wp-content/plugins/contact-form-7/includes/js/index.js?ver=15.6.3" id="contact-form-7-js"></script>-->
+  <!--<script type="text/javascript" id="wpdiscuz-combo-js-js-extra">
+/* <![CDATA[ */
+var wpdiscuzAjaxObj = {"wc_hide_replies_text":"Hide Replies","wc_show_replies_text":"View Replies","wc_msg_required_fields":"Please fill out required fields","wc_invalid_field":"Some of field value is invalid","wc_error_empty_text":"please fill out this field to comment","wc_error_url_text":"url is invalid","wc_error_email_text":"email address is invalid","wc_invalid_captcha":"Invalid Captcha Code","wc_login_to_vote":"You Must Be Logged In To Vote","wc_deny_voting_from_same_ip":"You are not allowed to vote for this comment","wc_self_vote":"You cannot vote for your comment","wc_vote_only_one_time":"You've already voted for this comment","wc_voting_error":"Voting Error","wc_comment_edit_not_possible":"Sorry, this comment is no longer possible to edit","wc_comment_not_updated":"Sorry, the comment was not updated","wc_comment_not_edited":"You've not made any changes","wc_msg_input_min_length":"Input is too short","wc_msg_input_max_length":"Input is too long","wc_spoiler_title":"Spoiler Title","wc_cannot_rate_again":"You cannot rate again","wc_not_allowed_to_rate":"You're not allowed to rate here","wc_follow_user":"Follow this user","wc_unfollow_user":"Unfollow this user","wc_follow_success":"You started following this comment author","wc_follow_canceled":"You stopped following this comment author.","wc_follow_email_confirm":"Please check your email and confirm the user following request.","wc_follow_email_confirm_fail":"Sorry, we couldn't send confirmation email.","wc_follow_login_to_follow":"Please login to follow users.","wc_follow_impossible":"We are sorry, but you can't follow this user.","wc_follow_not_added":"Following failed. Please try again later.","is_user_logged_in":"","commentListLoadType":"3","commentListUpdateType":"1","commentListUpdateTimer":"180","liveUpdateGuests":"1","wordpressThreadCommentsDepth":"2","wordpressIsPaginate":"","commentTextMaxLength":"500","replyTextMaxLength":"500","commentTextMinLength":"1","replyTextMinLength":"1","storeCommenterData":"100000","socialLoginAgreementCheckbox":"0","enableFbLogin":"0","fbUseOAuth2":"0","enableFbShare":"0","facebookAppID":"","facebookUseOAuth2":"0","enableGoogleLogin":"0","googleClientID":"","googleClientSecret":"","cookiehash":"471f8b8c7626cb332fe703edc58c1a00","isLoadOnlyParentComments":"0","scrollToComment":"1","commentFormView":"collapsed","enableDropAnimation":"0","isNativeAjaxEnabled":"0","enableBubble":"0","bubbleLiveUpdate":"0","bubbleHintTimeout":"45","bubbleHintHideTimeout":"10","cookieHideBubbleHint":"wpdiscuz_hide_bubble_hint","bubbleShowNewCommentMessage":"0","bubbleLocation":"content_left","firstLoadWithAjax":"0","wc_copied_to_clipboard":"Copied to clipboard!","inlineFeedbackAttractionType":"disable","loadRichEditor":"0","wpDiscuzReCaptchaSK":"","wpDiscuzReCaptchaTheme":"light","wpDiscuzReCaptchaVersion":"2.0","wc_captcha_show_for_guest":"0","wc_captcha_show_for_members":"0","wpDiscuzIsShowOnSubscribeForm":"0","wmuEnabled":"0","wmuInput":"wmu_files","wmuMaxFileCount":"1","wmuMaxFileSize":"2097152","wmuPostMaxSize":"8388608","wmuIsLightbox":"0","wmuMimeTypes":[],"wmuPhraseConfirmDelete":"Are you sure you want to delete this attachment?","wmuPhraseNotAllowedFile":"Not allowed file type","wmuPhraseMaxFileCount":"Maximum number of uploaded files is 1","wmuPhraseMaxFileSize":"Maximum upload file size is 2MB","wmuPhrasePostMaxSize":"Maximum post size is 8MB","wmuPhraseDoingUpload":"Uploading in progress! Please wait.","msgEmptyFile":"File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.","msgPostIdNotExists":"Post ID not exists","msgUploadingNotAllowed":"Sorry, uploading not allowed for this post","msgPermissionDenied":"You do not have sufficient permissions to perform this action","wmuKeyImages":"images","wmuSingleImageWidth":"auto","wmuSingleImageHeight":"200","version":"99.9.99","wc_post_id":"191296","isCookiesEnabled":"1","loadLastCommentId":"4175317","dataFilterCallbacks":[],"phraseFilters":[],"scrollSize":"32","is_email_field_required":"1","url":"https:\/\/hoer.live\/wp-admin\/admin-ajax.php","customAjaxUrl":"https:\/\/hoer.live\/wp-content\/plugins\/wpdiscuz\/utils\/ajax\/wpdiscuz-ajax.php","bubbleUpdateUrl":"https:\/\/hoer.live\/wp-json\/wpdiscuz\/v1\/update","restNonce":"9162406b0f","validateNonceForGuests":""};
+var wpdiscuzUCObj = {"msgConfirmDeleteComment":"Are you sure you want to delete this comment?","msgConfirmCancelSubscription":"Are you sure you want to cancel this subscription?","msgConfirmCancelFollow":"Are you sure you want to cancel this follow?","additionalTab":"0"};
+/* ]]> */
+</script>-->
+  <!--<script type="text/javascript" src="https://hoer.live/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz-combo-no_quill.min.js?ver=99.9.99" id="wpdiscuz-combo-js-js"></script>-->
+  <!--<script type="text/javascript" id="ajax-search-js-extra">
+/* <![CDATA[ */
+var myAjax = {"ajaxurl":"https:\/\/hoer.live\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>-->
+  <!--<script type="text/javascript" src="https://hoer.live/wp-content/themes/main/js/ajax-search.js?ver=1.0.0" id="ajax-search-js"></script>-->
+  <!--<script type="text/javascript" id="ajax-favorite-js-extra">
+/* <![CDATA[ */
+var myAjax = {"ajaxurl":"https:\/\/hoer.live\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>-->
+  <!--<script type="text/javascript" src="https://hoer.live/wp-content/themes/main/js/favorite.js?ver=1.0.0" id="ajax-favorite-js"></script>-->
+  <!--<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/flatpickr" id="dataPicker-script-js"></script>-->
+  <!--<script type="text/javascript" id="main-script-js-extra">
+/* <![CDATA[ */
+var main_script_object = {"nonce":"9162406b0f"};
+/* ]]> */
+</script>-->
+  <!--<script type="text/javascript" src="https://hoer.live/wp-content/themes/main/dist/js/main-script.js?ver=1.4.14" id="main-script-js"></script>-->
+  <!--<script type="text/javascript" src="https://hoer.live/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.4.3" id="sourcebuster-js-js"></script>-->
+  <!--<script type="text/javascript" id="wc-order-attribution-js-extra">
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"https:\/\/hoer.live\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+/* ]]> */
+</script>-->
+  <!--<script type="text/javascript" src="https://hoer.live/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.4.3" id="wc-order-attribution-js"></script>-->
+  <script crossorigin="anonymous" data-cf-beacon='{"version":"2024.11.0","token":"63bf6718bc9949b2bc4274e34bf195e0","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' defer="" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447">
+  </script>
+ </body>
+</html>

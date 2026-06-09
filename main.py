@@ -41,7 +41,7 @@ def is_this_week(date_str: str) -> bool:
         return False
 
 
-def main(no_wait=False, skip_to=None, wait=3600):
+def main(no_wait, skip_to, wait):
     today = datetime.now()
     start_of_week = today - timedelta(days=(today.weekday() + 1) % 7)
     end_of_week = start_of_week + timedelta(days=6)
@@ -51,9 +51,9 @@ def main(no_wait=False, skip_to=None, wait=3600):
     all_results = []
 
     cities = list(CITIES.items())
-    if args.skip_to is not None:
-        cities = cities[args.skip_to:]
-        print(f"Skipping to city index {args.skip_to} ({cities[0][0]})")
+    if skip_to is not None:
+        cities = cities[skip_to:]
+        print(f"Skipping to city index {skip_to} ({cities[0][0]})")
         
     for i, (city, url) in enumerate(cities):
         print(f"--- {city} ---")
@@ -78,7 +78,16 @@ def main(no_wait=False, skip_to=None, wait=3600):
             print(f"  {len(structured)} events parsed.")
 
             # 3. Filter to this week
-            this_week = [item for item in structured if item is not None and is_this_week(item[0].get('date', ''))]
+            
+            # this_week = [item for item in structured if item is not None and is_this_week(item[0].get('date', ''))]
+            this_week = []
+            for item in structured:
+                # check if empty
+                if item:
+                    date = item[0].get('date', '')
+                    if is_this_week(date):
+                        this_week.append(item)
+
             print(f"  {len(this_week)} events this week.")
             with open(os.path.join(output_dir, 'this_week.json'), 'w') as f:
                 json.dump(this_week, f, indent=4)
@@ -129,8 +138,6 @@ def main(no_wait=False, skip_to=None, wait=3600):
         all_results.extend(results)
         
         if i < len(cities) - 1 and not no_wait:
-            if args.wait is not None:
-                wait = args.wait
             print(f"  Waiting {wait} seconds before moving to next city...")
             for elapsed in range(wait + 1):
                 spotify.printProgressBar(elapsed, wait, prefix='  Next city in:', suffix=spotify.convert(wait - elapsed), length=40)
@@ -142,8 +149,8 @@ def main(no_wait=False, skip_to=None, wait=3600):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--no-wait', action='store_true', help='Skip the 1-hour wait between cities')
-    parser.add_argument('--skip-to', type=int, help='Skip to a specific city index (0-based)')
-    parser.add_argument('--wait-time', type=int, help='Wait time in seconds between cities (default: 3600)')
+    parser.add_argument('--no-wait', action='store_true', default=False, help='Skip the 1-hour wait between cities')
+    parser.add_argument('--skip-to', type=int, default=None, help='Skip to a specific city index (0-based)')
+    parser.add_argument('--wait-time', type=int, default=3600, help='Wait time in seconds between cities (default: 3600)')
     args = parser.parse_args()
     main(no_wait=args.no_wait, skip_to=args.skip_to, wait=args.wait_time)

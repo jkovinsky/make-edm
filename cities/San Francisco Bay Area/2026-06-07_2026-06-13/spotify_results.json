@@ -1,0 +1,1192 @@
+[
+    {
+        "id": "4MgxKih2gf4BgMkPVOfvrn",
+        "term": "Mr Tout Le Monde",
+        "match_name": "MR TOUT LE MONDE",
+        "date": "2026-06-11T20:00:00Z",
+        "url": "https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4vBa6UiElCq59NRb3mrn5v",
+        "term": "Bob Ostertag",
+        "match_name": "Bob Ostertag",
+        "date": "2026-06-11T20:00:00Z",
+        "url": "https://open.spotify.com/artist/4vBa6UiElCq59NRb3mrn5v",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "2k4duorvZ5lTq33ljpT0sc",
+        "term": "Antimatter",
+        "match_name": "Antimatter",
+        "date": "2026-06-11T20:00:00Z",
+        "url": "https://open.spotify.com/artist/2k4duorvZ5lTq33ljpT0sc",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "35mwXBb3yzz0GnHeDFVhol",
+        "term": "Jacob Felix Heule",
+        "match_name": "Jacob Felix Heule",
+        "date": "2026-06-11T20:00:00Z",
+        "url": "https://open.spotify.com/artist/35mwXBb3yzz0GnHeDFVhol",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5PJLuUu7LFnkDJ5xLCZuQz",
+        "term": "Philip Perkins",
+        "match_name": "Philip Perkins",
+        "date": "2026-06-11T20:00:00Z",
+        "url": "https://open.spotify.com/artist/5PJLuUu7LFnkDJ5xLCZuQz",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "00IjdWQ46sSBP4gZYObAMx",
+        "term": "On The Rocks",
+        "match_name": "On The Rocks",
+        "date": "2026-06-11T20:30:00Z",
+        "url": "https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4FeNSvYRtMNdMbCSVJox16",
+        "term": "Cz Wang",
+        "match_name": "CZ Wang",
+        "date": "2026-06-11T21:00:00Z",
+        "url": "https://open.spotify.com/artist/4FeNSvYRtMNdMbCSVJox16",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4R2qM2pk9hsZTI2F6oQrsa",
+        "term": "J Zen",
+        "match_name": "J Zen",
+        "date": "2026-06-11T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4R2qM2pk9hsZTI2F6oQrsa",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "1TTn1l4f6WqK80iIC2kbvv",
+        "term": "DJ Kyon",
+        "match_name": "DJ Kyon",
+        "date": "2026-06-11T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1TTn1l4f6WqK80iIC2kbvv",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3Lk8ifX8dLKXls1ZCZAHgc",
+        "term": "Danna",
+        "match_name": "DANNA",
+        "date": "2026-06-11T21:00:00Z",
+        "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "7xKlEeJ8xsyKtegBPF32wi",
+        "term": "Teego",
+        "match_name": "Teego",
+        "date": "2026-06-11T21:00:00Z",
+        "url": "https://open.spotify.com/artist/7xKlEeJ8xsyKtegBPF32wi",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "6YDBwhQnmZyR5uPV0BjMZl",
+        "term": "S2",
+        "match_name": "S2",
+        "date": "2026-06-11T21:00:00Z",
+        "url": "https://open.spotify.com/artist/6YDBwhQnmZyR5uPV0BjMZl",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5PQSlUZyVWZDo0HYcvT5Nt",
+        "term": "Reedemit",
+        "match_name": "Reedemit",
+        "date": "2026-06-11T21:00:00Z",
+        "url": "https://open.spotify.com/artist/5PQSlUZyVWZDo0HYcvT5Nt",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "05w0GDmE0QSNVit7EAw8qc",
+        "term": "Illuminist",
+        "match_name": "Illuminist",
+        "date": "2026-06-11T21:00:00Z",
+        "url": "https://open.spotify.com/artist/05w0GDmE0QSNVit7EAw8qc",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "38rGccwOpTRs6yWLOSpldF",
+        "term": "Padplay",
+        "match_name": "PadPlay",
+        "date": "2026-06-11T21:00:00Z",
+        "url": "https://open.spotify.com/artist/38rGccwOpTRs6yWLOSpldF",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3HqP3nd8WI0VfHRhApPlan",
+        "term": "Trinix",
+        "match_name": "Trinix",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan",
+        "followers": null,
+        "popularity": 5,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "7mvFTmyOuJNSWvTi88nLcA",
+        "term": "Chunkiebeatz",
+        "match_name": "ChunkieBeatz",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7mvFTmyOuJNSWvTi88nLcA",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "0NyUQuLfy20h0EPR7NL3I8",
+        "term": "Purranoia",
+        "match_name": "Purranoia",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0NyUQuLfy20h0EPR7NL3I8",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "1vI2J4BXTxaOJMlU6Fjk3j",
+        "term": "Maznoize",
+        "match_name": "Maznoize",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1vI2J4BXTxaOJMlU6Fjk3j",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3bz6z98PouR36gHzESnySF",
+        "term": "David Carvalho",
+        "match_name": "David Carvalho",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3bz6z98PouR36gHzESnySF",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3v3VSKylQE69ztn5TUVlFE",
+        "term": "Nile",
+        "match_name": "Nile",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "6QtjSxtj8oM0CA78RJQmF3",
+        "term": "Jeff Straw",
+        "match_name": "Jeff Straw",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6QtjSxtj8oM0CA78RJQmF3",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "202HZzqKvPsMHcbwnDZx7u",
+        "term": "Dorian Electra",
+        "match_name": "Dorian Electra",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u",
+        "followers": null,
+        "popularity": 5,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+        "term": "Gryffin",
+        "match_name": "Gryffin",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh",
+        "followers": null,
+        "popularity": 7,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "7f5Zgnp2spUuuzKplmRkt7",
+        "term": "Lost Frequencies",
+        "match_name": "Lost Frequencies",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7",
+        "followers": null,
+        "popularity": 8,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "1YuNQvsvOsMBm0ahbxB8qM",
+        "term": "Orjan Nilsen",
+        "match_name": "Orjan Nilsen",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM",
+        "followers": null,
+        "popularity": 6,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5dPqI6O6maJAznCLFR0tkg",
+        "term": "Artavius",
+        "match_name": "Artavius",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5dPqI6O6maJAznCLFR0tkg",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "0AYjmsQTKh7YibCrYE3r18",
+        "term": "Jason Reign",
+        "match_name": "Jason Reign",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0AYjmsQTKh7YibCrYE3r18",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "52EqCD2FfFk5IgQKiP8OJ3",
+        "term": "James Deep",
+        "match_name": "James Deep",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/52EqCD2FfFk5IgQKiP8OJ3",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "1NKSC6mfyAGd1wItkhdTdw",
+        "term": "Iyasu",
+        "match_name": "Iyasu",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1NKSC6mfyAGd1wItkhdTdw",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "7krqgFkepWYfUezKQHWyR8",
+        "term": "Tohrchu",
+        "match_name": "Tohrchu",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7krqgFkepWYfUezKQHWyR8",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5X2XAU0eSvRPWUl9hUb9mV",
+        "term": "OPM",
+        "match_name": "OPM",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/5X2XAU0eSvRPWUl9hUb9mV",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3mPHVEre3DiAHKuOCBFP8D",
+        "term": "Rave Jesus",
+        "match_name": "Rave Jesus",
+        "date": "2026-06-12T20:30:00Z",
+        "url": "https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "7hUDSTu4Rh2lAgnb4qKLEh",
+        "term": "Starfari",
+        "match_name": "Starfari",
+        "date": "2026-06-12T20:30:00Z",
+        "url": "https://open.spotify.com/artist/7hUDSTu4Rh2lAgnb4qKLEh",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5zFQYDGgTNb0eUNcb0tyEy",
+        "term": "DJ Jaded",
+        "match_name": "DJ Jaded",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5zFQYDGgTNb0eUNcb0tyEy",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5PZ6JwXrb2lNDGfjH6Fdlp",
+        "term": "Brother Dan",
+        "match_name": "Brother Dan",
+        "date": "2026-06-12T21:00:00Z",
+        "url": "https://open.spotify.com/artist/5PZ6JwXrb2lNDGfjH6Fdlp",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4Fry0sEjFRKflf45xpPUMp",
+        "term": "Eargasm God",
+        "match_name": "EARGASM GOD",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "740NPgAME3FIPXRQHVl0nV",
+        "term": "Sillky",
+        "match_name": "Sillky",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/740NPgAME3FIPXRQHVl0nV",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "0mMqD2uqwvCjFvlzo6ayGi",
+        "term": "DJ Maphorisa",
+        "match_name": "DJ Maphorisa",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi",
+        "followers": null,
+        "popularity": 8,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "1ZnAp4SzweKTWapvgi1vqh",
+        "term": "Skniblk",
+        "match_name": "SKNIBLK",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1ZnAp4SzweKTWapvgi1vqh",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "6TUZntSr0eB1Rkr0fi1C2W",
+        "term": "Jorden Kyle",
+        "match_name": "Jorden Kyle",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6TUZntSr0eB1Rkr0fi1C2W",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3aQ8PJx71XXSg4JR4IwMOa",
+        "term": "Driique",
+        "match_name": "Driique",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3aQ8PJx71XXSg4JR4IwMOa",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "73O9HPrihkDIfMmhtmQMFk",
+        "term": "C Rod",
+        "match_name": "C Rod",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/73O9HPrihkDIfMmhtmQMFk",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "07n9nIfNavxsq8cJ37ZdDJ",
+        "term": "Katya",
+        "match_name": "KATYA",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/07n9nIfNavxsq8cJ37ZdDJ",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "1AvwQu1xzIfGx7LNiSpHmU",
+        "term": "Phuego",
+        "match_name": "Phuego",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1AvwQu1xzIfGx7LNiSpHmU",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3VARrYFgA7WzioGPg1354q",
+        "term": "Brooklyn Terry",
+        "match_name": "Brooklyn Terry",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3VARrYFgA7WzioGPg1354q",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "7fNu9x4iV166BQmQQKOmXl",
+        "term": "Steller",
+        "match_name": "Steller",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4gGD7nrLZRnnCSz3KGEu4R",
+        "term": "Township Rebellion",
+        "match_name": "Township Rebellion",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R",
+        "followers": null,
+        "popularity": 4,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "1slhiJk67NIqE9BV98UN3r",
+        "term": "Rayburger",
+        "match_name": "RayBurger",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1slhiJk67NIqE9BV98UN3r",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "6htWLP8aiuf19FYMA4VQAZ",
+        "term": "Massano",
+        "match_name": "Massano",
+        "date": "2026-06-12T22:00:00Z",
+        "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ",
+        "followers": null,
+        "popularity": 6,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3ke2GnEqLKvhIYrtaRY24x",
+        "term": "Sidequest",
+        "match_name": "SIDEQUEST",
+        "date": "2026-06-12T22:00:00Z",
+        "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "41rVuRHYAiH7ltBTHVR9We",
+        "term": "Slushii",
+        "match_name": "Slushii",
+        "date": "2026-06-12T22:00:00Z",
+        "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We",
+        "followers": null,
+        "popularity": 6,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5xxV48Jv3XjBaeu0kLUo5p",
+        "term": "So Cyber",
+        "match_name": "SO CYBER",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5xxV48Jv3XjBaeu0kLUo5p",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "49qOEODA3n8HiVUY4uwJbU",
+        "term": "Gene Farris",
+        "match_name": "Gene Farris",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU",
+        "followers": null,
+        "popularity": 4,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4vr49Ycb253qEyUuXnlYaM",
+        "term": "Piezo",
+        "match_name": "Piezo",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "1qMbiCXYdiDek2q5yvnB8W",
+        "term": "Ma Sha",
+        "match_name": "Ma Sha",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1qMbiCXYdiDek2q5yvnB8W",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5OvcWzkDGzth4Jaw5n4Jqw",
+        "term": "Sobolik",
+        "match_name": "Sobolik",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5OvcWzkDGzth4Jaw5n4Jqw",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3swA6DsgKebSjsHH0xelyX",
+        "term": "Monoclick",
+        "match_name": "Monoclick",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3swA6DsgKebSjsHH0xelyX",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "0zSagRl07tgaZS8GZiOM7Q",
+        "term": "Tommy Echelon",
+        "match_name": "Tommy Echelon",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0zSagRl07tgaZS8GZiOM7Q",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "7Fk8bbugoEFZWgUvVoTBBp",
+        "term": "Stacked Like Pancakes",
+        "match_name": "Stacked Like Pancakes",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "1ZSkSa0zHZZGdUioi49SeM",
+        "term": "Majitope",
+        "match_name": "Majitope",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1ZSkSa0zHZZGdUioi49SeM",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "05tmGPn4fFdVpnsMt0YW5S",
+        "term": "Adam Ten",
+        "match_name": "Adam Ten",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S",
+        "followers": null,
+        "popularity": 5,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "6Y9N9gdo5jpzGsExWDymS8",
+        "term": "Mita Gami",
+        "match_name": "Mita Gami",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8",
+        "followers": null,
+        "popularity": 4,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5CYAFhywQTXdZmppCp0ukd",
+        "term": "Claude Vonstroke",
+        "match_name": "Claude VonStroke",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd",
+        "followers": null,
+        "popularity": 7,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "6SptiYBeyJucEFIJfH8dIE",
+        "term": "Mike Kerrigan",
+        "match_name": "Mike Kerrigan",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6SptiYBeyJucEFIJfH8dIE",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4pzJW4dAwRMnyDdJXQhOFf",
+        "term": "N808",
+        "match_name": "n808",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4pzJW4dAwRMnyDdJXQhOFf",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "6KZ8eGl5VP8BylaNBPTM8e",
+        "term": "JLITTLE",
+        "match_name": "JLittle",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6KZ8eGl5VP8BylaNBPTM8e",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "2Ap9R6ckbHRu6IdUYaKU8o",
+        "term": "Jasper Crenshaw",
+        "match_name": "Jasper Crenshaw",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/2Ap9R6ckbHRu6IdUYaKU8o",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "74RET4rCZPTGzhsLjD0i3g",
+        "term": "Atliens",
+        "match_name": "ATLiens",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g",
+        "followers": null,
+        "popularity": 4,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4Ok1Cm5YX5StCQZgH0r2xF",
+        "term": "Peekaboo",
+        "match_name": "PEEKABOO",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF",
+        "followers": null,
+        "popularity": 6,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "286Ranmy5NZOVyIwNwAUE4",
+        "term": "Ydg",
+        "match_name": "YDG",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5dqKDhDTrjMvSExBmfMNeH",
+        "term": "Vastive",
+        "match_name": "Vastive",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH",
+        "followers": null,
+        "popularity": 4,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "320SOyq9aq6vAz2vP1un4m",
+        "term": "Dream Takers",
+        "match_name": "Dream Takers",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/320SOyq9aq6vAz2vP1un4m",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "44btqMHopGiWCGHMtFw3mv",
+        "term": "Neotek",
+        "match_name": "NEOTEK",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4BNuFzfTF2WDF7Dae072sW",
+        "term": "7L",
+        "match_name": "7L",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4BNuFzfTF2WDF7Dae072sW",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "6JvIjkaONqopTk15bnpLjz",
+        "term": "Decimate",
+        "match_name": "Decimate",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "0UIHAcihBBHr4dlN4syE1h",
+        "term": "Sqishi",
+        "match_name": "SQISHI",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0UIHAcihBBHr4dlN4syE1h",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3SsxYsQwnhws0qW0fsO1s5",
+        "term": "Codd Dubz",
+        "match_name": "Codd Dubz",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5",
+        "followers": null,
+        "popularity": 4,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3oLY5NvzasiNds27QLs9Pa",
+        "term": "Felmax",
+        "match_name": "Felmax",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5zId1SmYy46E9v2KQsSTFR",
+        "term": "Whales",
+        "match_name": "Whales",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR",
+        "followers": null,
+        "popularity": 5,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "35xCSMpibqB2Sd7vl4RRhr",
+        "term": "June Bloom",
+        "match_name": "June Bloom",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/35xCSMpibqB2Sd7vl4RRhr",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "7uFsz7y1rNyMLou4HWLJtT",
+        "term": "Doc Martin",
+        "match_name": "Doc Martin",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7uFsz7y1rNyMLou4HWLJtT",
+        "followers": null,
+        "popularity": 4,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4w7PNHWFtN2CNkDNhDL7c3",
+        "term": "DJ Dan",
+        "match_name": "DJ Dan",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4w7PNHWFtN2CNkDNhDL7c3",
+        "followers": null,
+        "popularity": 6,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5grhh1fr49BRzQ73oOhqPK",
+        "term": "tom marsi",
+        "match_name": "Tom Marsi",
+        "date": "2026-06-13T20:00:00Z",
+        "url": "https://open.spotify.com/artist/5grhh1fr49BRzQ73oOhqPK",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "2D7akgJBXcsp8Y2FKdPJCh",
+        "term": "Jasper Tygner",
+        "match_name": "Jasper Tygner",
+        "date": "2026-06-13T20:00:00Z",
+        "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "0zo109NM3S7CqHpvlXwqEN",
+        "term": "Vtss",
+        "match_name": "VTSS",
+        "date": "2026-06-13T20:00:00Z",
+        "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN",
+        "followers": null,
+        "popularity": 4,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "2Jp8fyeXfnfI8O3e1RZw6r",
+        "term": "Plastic Disease",
+        "match_name": "Plastic Disease",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/2Jp8fyeXfnfI8O3e1RZw6r",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "1PED1mE96l0uMyUa6eQ91m",
+        "term": "Illborn",
+        "match_name": "Illborn",
+        "date": "2026-06-13T20:30:00Z",
+        "url": "https://open.spotify.com/artist/1PED1mE96l0uMyUa6eQ91m",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3VUZUFra8oj5rCeOtnwmtf",
+        "term": "Alkemiss Erika",
+        "match_name": "Alkemiss Erika",
+        "date": "2026-06-13T21:00:00Z",
+        "url": "https://open.spotify.com/artist/3VUZUFra8oj5rCeOtnwmtf",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "36Bfcbr8mLMRPteWtBIm6Y",
+        "term": "Daunter",
+        "match_name": "Daunter",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/36Bfcbr8mLMRPteWtBIm6Y",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "2dsG3u5vUZSGpQGEsq1unH",
+        "term": "Takuya Nakamura",
+        "match_name": "Takuya Nakamura",
+        "date": "2026-06-13T21:00:00Z",
+        "url": "https://open.spotify.com/artist/2dsG3u5vUZSGpQGEsq1unH",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3h7XMA9EEJ3tnBmHl3cUHe",
+        "term": "Fawks",
+        "match_name": "Fawks",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3h7XMA9EEJ3tnBmHl3cUHe",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "0uya6QELbHSc91t24xHUr1",
+        "term": "Gizmo",
+        "match_name": "gizmo",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0uya6QELbHSc91t24xHUr1",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "18gw1pBmSzclSBd7Ize34N",
+        "term": "Midnight Empire",
+        "match_name": "Midnight Empire",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/18gw1pBmSzclSBd7Ize34N",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "6XjcmZTkKFdFEfKv9FXeQI",
+        "term": "Nocturnyx",
+        "match_name": "Nocturnyx",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6XjcmZTkKFdFEfKv9FXeQI",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "7Gg3X2b5ljrhVGXDAwcrq3",
+        "term": "Cesco",
+        "match_name": "Cesco",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "1zTWyWFdyHvCUl46YLk6VA",
+        "term": "DJ Vital",
+        "match_name": "DJ Vital",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1zTWyWFdyHvCUl46YLk6VA",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "0LYRWYx8oN9fPhebKyb4dF",
+        "term": "Dom1",
+        "match_name": "DOM1",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0LYRWYx8oN9fPhebKyb4dF",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3zCDyVLQPRDzAsydLDKOAp",
+        "term": "Axl Puerto",
+        "match_name": "Axl Puerto",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3zCDyVLQPRDzAsydLDKOAp",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "7nJNuftnqwrFGFs3ZRRe0u",
+        "term": "Memba",
+        "match_name": "MEMBA",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u",
+        "followers": null,
+        "popularity": 4,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "72qxDp6R6v22pai96pZioz",
+        "term": "Yanni",
+        "match_name": "Yanni",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz",
+        "followers": null,
+        "popularity": 5,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "0QSMud4Le6BY6ok4UkVpsd",
+        "term": "day astro",
+        "match_name": "day astro",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0QSMud4Le6BY6ok4UkVpsd",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "6Zt9O6WvO1btWc3xPRzQLM",
+        "term": "pxlwlkr",
+        "match_name": "pxlwlkr",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6Zt9O6WvO1btWc3xPRzQLM",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "6Eht6ywUXhPYMg1IKeeYvP",
+        "term": "Labyr1nth",
+        "match_name": "Labyr1nth",
+        "date": "2026-06-13T21:00:00Z",
+        "url": "https://open.spotify.com/artist/6Eht6ywUXhPYMg1IKeeYvP",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "60XSehYDAbhTG4pyfQTmNR",
+        "term": "Eli Spiral",
+        "match_name": "Eli Spiral",
+        "date": "2026-06-13T21:00:00Z",
+        "url": "https://open.spotify.com/artist/60XSehYDAbhTG4pyfQTmNR",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4xdv6HFLsLIIxG1yO1QL9g",
+        "term": "Cofun",
+        "match_name": "cofun",
+        "date": "2026-06-13T21:00:00Z",
+        "url": "https://open.spotify.com/artist/4xdv6HFLsLIIxG1yO1QL9g",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4Mlm6bS5DQsOk9GwrZgQXa",
+        "term": "Surveillance Does",
+        "match_name": "Surveillance Does",
+        "date": "2026-06-13T21:00:00Z",
+        "url": "https://open.spotify.com/artist/4Mlm6bS5DQsOk9GwrZgQXa",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "7E4c9I3U9vss1YIZSShtaf",
+        "term": "Takiru",
+        "match_name": "Takiru",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7E4c9I3U9vss1YIZSShtaf",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4C5VirGeSfloffJC78CJio",
+        "term": "Kumbaya",
+        "match_name": "KUMBAYA",
+        "date": "2026-06-13T22:00:00Z",
+        "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "4i080hJ4oIPB4d7ut1U83a",
+        "term": "Borak",
+        "match_name": "Borak",
+        "date": "2026-06-13T22:00:00Z",
+        "url": "https://open.spotify.com/artist/4i080hJ4oIPB4d7ut1U83a",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "3jy26GTtKFUsM26F4bUlwK",
+        "term": "Miyuki",
+        "match_name": "Miyuki",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3jy26GTtKFUsM26F4bUlwK",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "11CANxmZ9Yb0ml8E8VpowF",
+        "term": "Stellaria",
+        "match_name": "Stellaria",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/11CANxmZ9Yb0ml8E8VpowF",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "6o2hWSJ4m8QYZ6unjDTH6G",
+        "term": "Akua",
+        "match_name": "AKUA",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/6o2hWSJ4m8QYZ6unjDTH6G",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5ZcSizTG3mmhVdlvEau3TS",
+        "term": "1morning",
+        "match_name": "1morning",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5ZcSizTG3mmhVdlvEau3TS",
+        "followers": null,
+        "popularity": 3,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "2QDw0aACPmiqf5tgngD5d3",
+        "term": "sfcowboy",
+        "match_name": "sfcowboy",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/2QDw0aACPmiqf5tgngD5d3",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "58BwrwQwopuQc4yX4w9cL0",
+        "term": "FAUNA",
+        "match_name": "Fauna",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/58BwrwQwopuQc4yX4w9cL0",
+        "followers": null,
+        "popularity": 2,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "1slhiJk67NIqE9BV98UN3r",
+        "term": "Rayburger",
+        "match_name": "RayBurger",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1slhiJk67NIqE9BV98UN3r",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "7GifcM775Xd6OsS5bMHPyU",
+        "term": "Standpo!nt",
+        "match_name": "STANDPO!NT",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7GifcM775Xd6OsS5bMHPyU",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    },
+    {
+        "id": "5qOSum2tFO6TRRj54rltCO",
+        "term": "Catavee",
+        "match_name": "catavee",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5qOSum2tFO6TRRj54rltCO",
+        "followers": null,
+        "popularity": 1,
+        "city": "San Francisco Bay Area"
+    }
+]
