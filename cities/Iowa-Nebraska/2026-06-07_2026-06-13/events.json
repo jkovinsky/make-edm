@@ -1,33 +1,23 @@
 [
     {
-        "name": "Benda at the Royal Grove",
-        "url": "https://www.tixr.com/groups/theroyalgrove/events/benda-at-the-royal-grove-183003",
-        "date": "Fri: Jun 5 (8pm)"
+        "name": "Retro Spectrum: Casa Bonita and Blvcksmoke",
+        "url": "https://www.eventbrite.com/e/retro-spectrum-tickets-1989110829035",
+        "date": "Fri: Jun 12 (9pm)"
     },
     {
-        "name": "Benda",
-        "url": "http://tixr.com/pr/fb/183003",
-        "date": "Fri: Jun 5 (9pm)"
-    },
-    {
-        "name": "Big Day Out: EDM Showcase",
-        "url": "https://www.facebook.com/events/1457442922558373/",
-        "date": "Sat: Jun 6 (1pm-8pm)"
-    },
-    {
-        "name": "Underground Sound: Waylo / Geezy Dubz / Sploinka B2B Traejen / Illudium",
-        "url": "https://www.facebook.com/photo?fbid=2870572513281391&set=pcb.2870572569948052",
-        "date": "Sat: Jun 6 (8pm)"
-    },
-    {
-        "name": "Ydg",
-        "url": "http://tixr.com/pr/fb/176157",
-        "date": "Sat: Jun 6 (8pm)"
+        "name": "Bass Renaissance: Golden Era Vibes",
+        "url": "https://www.eventbrite.com/e/1989123663423",
+        "date": "Fri: Jun 12 (10pm)"
     },
     {
         "name": "The Hootenanny: Sami Knox / Knwbody / Ghoulish / Elynt",
         "url": "https://www.facebook.com/events/990490790146744/",
         "date": "Sat: Jun 13 (8pm)"
+    },
+    {
+        "name": "Studio 54 Reimagined: Glitter & Groove",
+        "url": "https://www.eventbrite.com/e/studio-54-reimagined-glitter-groove-pride-weekend-pop-up-tickets-1989627813349",
+        "date": "Sat: Jun 13 (9pm)"
     },
     {
         "name": "EDM NIGHT | Final Fridays",
@@ -38,6 +28,11 @@
         "name": "NGHTMRE",
         "url": "http://tixr.com/pr/fb/186309",
         "date": "Fri: Jun 26 (8pm)"
+    },
+    {
+        "name": "Sound Sessions Vol. 6 Siouxciety & Friends Summer Bash",
+        "url": "https://www.facebook.com/events/1320912593485803/",
+        "date": "Sat: Jun 27 (6:30pm)"
     },
     {
         "name": "ATLiens | The Royal Grove",
@@ -93,5 +88,10 @@
         "name": "The Upside Down Rave",
         "url": "https://www.facebook.com/events/806110722019661/",
         "date": "Sat: Oct 3 (5pm-pm)"
+    },
+    {
+        "name": "Boogie T & SubDocta",
+        "url": "https://www.tixr.com/groups/theroyalgrove/events/boogie-t-with-subdocta-at-the-royal-grove-192425",
+        "date": "Sat: Oct 17 (8pm)"
     }
 ]

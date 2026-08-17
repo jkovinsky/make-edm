@@ -1,0 +1,822 @@
+[
+    {
+        "id": "4rkqsUdw0a2YaadfuNM7zF",
+        "term": "Jon1st",
+        "match_name": "Jon1st",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4rkqsUdw0a2YaadfuNM7zF",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "0nDRb89E2TQoprCcqSfJoG",
+        "term": "Pouty's Rage",
+        "match_name": "Pouty's Rage",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0nDRb89E2TQoprCcqSfJoG",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "3kbH7TP2VKCfaCGywM0Lb3",
+        "term": "Sanzu",
+        "match_name": "Sanzu",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3kbH7TP2VKCfaCGywM0Lb3",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "5xNAUBnPLPktvaFP8YzEJJ",
+        "term": "Mxrly",
+        "match_name": "MXRLY",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5xNAUBnPLPktvaFP8YzEJJ",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "1dESZUZevzhd5dzq9ZsMLI",
+        "term": "Bradeazy",
+        "match_name": "bradeazy",
+        "date": "2026-06-13T21:00:00Z",
+        "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "50KydUSYhBFGorhAgUcrL5",
+        "term": "Marie Vaunt",
+        "match_name": "Marie Vaunt",
+        "date": "2026-06-13T22:00:00Z",
+        "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "7JQn9DfFTtsFTg2dFc75jM",
+        "term": "Princess Superstar",
+        "match_name": "Princess Superstar",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "3kbH7TP2VKCfaCGywM0Lb3",
+        "term": "Sanzu",
+        "match_name": "Sanzu",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3kbH7TP2VKCfaCGywM0Lb3",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "4aoxM9H8u55MtDh7lkjj94",
+        "term": "Bianca Oblivion",
+        "match_name": "Bianca Oblivion",
+        "date": "2026-06-13T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "1qMbiCXYdiDek2q5yvnB8W",
+        "term": "Ma Sha",
+        "match_name": "Ma Sha",
+        "date": "2026-06-13T23:00:00Z",
+        "url": "https://open.spotify.com/artist/1qMbiCXYdiDek2q5yvnB8W",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "2JBsct9tmAEAfNSW02dQpn",
+        "term": "Ghost Phone",
+        "match_name": "Ghost Phone",
+        "date": "2026-06-13T23:00:00Z",
+        "url": "https://open.spotify.com/artist/2JBsct9tmAEAfNSW02dQpn",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "4CpFwDU4lbZZsnMSwD0YvY",
+        "term": "Leenie",
+        "match_name": "Leenie",
+        "date": "2026-06-13T23:00:00Z",
+        "url": "https://open.spotify.com/artist/4CpFwDU4lbZZsnMSwD0YvY",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "27gtK7m9vYwCyJ04zz0kIb",
+        "term": "Lane 8",
+        "match_name": "Lane 8",
+        "date": "2026-06-08T18:00:00Z",
+        "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "7DwVOsVpXsANbs3cHOs6zh",
+        "term": "Deceits",
+        "match_name": "DECEITS",
+        "date": "2026-06-08T19:00:00Z",
+        "url": "https://open.spotify.com/artist/7DwVOsVpXsANbs3cHOs6zh",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "6BMp2cQhN9C3Vl8PLzLvw9",
+        "term": "60 Juno",
+        "match_name": "60 juno",
+        "date": "2026-06-08T19:00:00Z",
+        "url": "https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "1d8Qzxg7xz35YJugFqsLXp",
+        "term": "Night Ritualz",
+        "match_name": "Night Ritualz",
+        "date": "2026-06-08T19:00:00Z",
+        "url": "https://open.spotify.com/artist/1d8Qzxg7xz35YJugFqsLXp",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "02nVxEo1bwkP6EbLN1q5nY",
+        "term": "Deth Rali",
+        "match_name": "Deth Rali",
+        "date": "2026-06-08T19:00:00Z",
+        "url": "https://open.spotify.com/artist/02nVxEo1bwkP6EbLN1q5nY",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "0ImEDe9tW5n4pxHOK39zIc",
+        "term": "Kittie",
+        "match_name": "Kittie",
+        "date": "2026-06-08T19:30:00Z",
+        "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "0ImEDe9tW5n4pxHOK39zIc",
+        "term": "Kittie",
+        "match_name": "Kittie",
+        "date": "2026-06-08T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "2sfE9wBQnqpFNgWZnL06fd",
+        "term": "Tsushimamire",
+        "match_name": "TsuShiMaMiRe",
+        "date": "2026-06-09T19:00:00Z",
+        "url": "https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "1KPwyF9S2cun5qtvzse2Qf",
+        "term": "The Tammy Shine",
+        "match_name": "The Tammy Shine",
+        "date": "2026-06-09T19:00:00Z",
+        "url": "https://open.spotify.com/artist/1KPwyF9S2cun5qtvzse2Qf",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "7fRZvkJvbXUDKviT6FIVF5",
+        "term": "Autumnal",
+        "match_name": "autumnal",
+        "date": "2026-06-09T19:00:00Z",
+        "url": "https://open.spotify.com/artist/7fRZvkJvbXUDKviT6FIVF5",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "6KJPsGYJN54GllYOKTleaj",
+        "term": "Aaron Hibell",
+        "match_name": "Aaron Hibell",
+        "date": "2026-06-09T19:30:00Z",
+        "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "2fAmQOOGLR5qGBpPtPTaPC",
+        "term": "Slob Gnarly",
+        "match_name": "Slob Gnarly",
+        "date": "2026-06-09T20:00:00Z",
+        "url": "https://open.spotify.com/artist/2fAmQOOGLR5qGBpPtPTaPC",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "1NKSC6mfyAGd1wItkhdTdw",
+        "term": "Iyasu",
+        "match_name": "Iyasu",
+        "date": "2026-06-09T20:00:00Z",
+        "url": "https://open.spotify.com/artist/1NKSC6mfyAGd1wItkhdTdw",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "7DsiCiVzbGSp02thlfGCzg",
+        "term": "Lunexa",
+        "match_name": "Lunexa",
+        "date": "2026-06-09T20:00:00Z",
+        "url": "https://open.spotify.com/artist/7DsiCiVzbGSp02thlfGCzg",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "6KJPsGYJN54GllYOKTleaj",
+        "term": "Aaron Hibell",
+        "match_name": "Aaron Hibell",
+        "date": "2026-06-09T20:30:00Z",
+        "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "27gtK7m9vYwCyJ04zz0kIb",
+        "term": "Lane 8",
+        "match_name": "Lane 8",
+        "date": "2026-06-10T20:00:00Z",
+        "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "395rqoVSDgQIF7fzRfZIoy",
+        "term": "Witch Club Satan",
+        "match_name": "Witch Club Satan",
+        "date": "2026-06-10T20:00:00Z",
+        "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "1CQcDoHSqGhumWN5rR4PRh",
+        "term": "Peej",
+        "match_name": "peej",
+        "date": "2026-06-11T20:00:00Z",
+        "url": "https://open.spotify.com/artist/1CQcDoHSqGhumWN5rR4PRh",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "0rG0AZBscc8S8q1ahIsasI",
+        "term": "Juvenile",
+        "match_name": "JUVENILE",
+        "date": "2026-06-11T20:00:00Z",
+        "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "04XggbrM51GcFPTxBYtRXT",
+        "term": "Rostam",
+        "match_name": "Rostam",
+        "date": "2026-06-11T20:00:00Z",
+        "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "5VboYcC1gdwRDXcqfk4Uh3",
+        "term": "Spella",
+        "match_name": "Spella",
+        "date": "2026-06-11T20:00:00Z",
+        "url": "https://open.spotify.com/artist/5VboYcC1gdwRDXcqfk4Uh3",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "6J6YkO9KFpJZ9n0RnayO18",
+        "term": "Rainbow Eclipse",
+        "match_name": "Rainbow Eclipse",
+        "date": "2026-06-11T20:00:00Z",
+        "url": "https://open.spotify.com/artist/6J6YkO9KFpJZ9n0RnayO18",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "5krSTcI0xPGmeloiQTPsYP",
+        "term": "Ashibah",
+        "match_name": "Ashibah",
+        "date": "2026-06-11T20:00:00Z",
+        "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "5krSTcI0xPGmeloiQTPsYP",
+        "term": "Ashibah",
+        "match_name": "Ashibah",
+        "date": "2026-06-11T20:00:00Z",
+        "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "3VyjBESXEXdLwdTrOXCb3f",
+        "term": "Brotha Nature",
+        "match_name": "Brotha Nature",
+        "date": "2026-06-11T21:00:00Z",
+        "url": "https://open.spotify.com/artist/3VyjBESXEXdLwdTrOXCb3f",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "27zSXQRXVaoYJRR6RpwFnP",
+        "term": "Wavalate",
+        "match_name": "Wavalate",
+        "date": "2026-06-11T21:00:00Z",
+        "url": "https://open.spotify.com/artist/27zSXQRXVaoYJRR6RpwFnP",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "2g8oQR5c8EBni2HwCc2SeK",
+        "term": "Asoluna",
+        "match_name": "Asoluna",
+        "date": "2026-06-11T21:00:00Z",
+        "url": "https://open.spotify.com/artist/2g8oQR5c8EBni2HwCc2SeK",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "0B8ZyaWWmiINFpsnfzQjJQ",
+        "term": "Bidwell",
+        "match_name": "Bidwell",
+        "date": "2026-06-12T19:00:00Z",
+        "url": "https://open.spotify.com/artist/0B8ZyaWWmiINFpsnfzQjJQ",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "6J9FZLDMZz2YK0riSBuon3",
+        "term": "Blankslate",
+        "match_name": "Blankslate",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/6J9FZLDMZz2YK0riSBuon3",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "2tA22vSdo2g7tTnp9WgAoU",
+        "term": "Stepmom",
+        "match_name": "stepmom",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/2tA22vSdo2g7tTnp9WgAoU",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "2Xn7EfGdxCwn5fxjEWmNoP",
+        "term": "The Galentines",
+        "match_name": "The Galentines",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/2Xn7EfGdxCwn5fxjEWmNoP",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "1yxgjoiYczfFDnh4YYp4t1",
+        "term": "G-Space",
+        "match_name": "G-Space",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/1yxgjoiYczfFDnh4YYp4t1",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "54pupwqAEM5xNtWnpHpZ69",
+        "term": "Test Kit",
+        "match_name": "Test Kit",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/54pupwqAEM5xNtWnpHpZ69",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "0iomlqJw0ZTzkiiZXHzdWF",
+        "term": "Burnsun",
+        "match_name": "burnsun",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/0iomlqJw0ZTzkiiZXHzdWF",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "4oET0ulP8HtO06TBejKGGC",
+        "term": "Ancestyr",
+        "match_name": "Ancestyr",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/4oET0ulP8HtO06TBejKGGC",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "088hvWlXHIipa6ZYe0N664",
+        "term": "Palmyra",
+        "match_name": "Palmyra",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "11EYvx3uuIYYfgGbD9Oczf",
+        "term": "Kyle Szalay",
+        "match_name": "Kyle Szalay",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/11EYvx3uuIYYfgGbD9Oczf",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "0mDNeViLlF5BACW8FDFm9v",
+        "term": "Ian Mahan",
+        "match_name": "Ian Mahan",
+        "date": "2026-06-12T20:00:00Z",
+        "url": "https://open.spotify.com/artist/0mDNeViLlF5BACW8FDFm9v",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "3rhxTfOddogUBPD8eVNGtl",
+        "term": "Sry4u",
+        "match_name": "SRY4U",
+        "date": "2026-06-12T20:30:00Z",
+        "url": "https://open.spotify.com/artist/3rhxTfOddogUBPD8eVNGtl",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "1qvhrs0gLxgbSA4Qt77DVU",
+        "term": "Cyzz",
+        "match_name": "Cyzz",
+        "date": "2026-06-12T21:00:00Z",
+        "url": "https://open.spotify.com/artist/1qvhrs0gLxgbSA4Qt77DVU",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "1irxQbIL2HDhLtoTGpwUn9",
+        "term": "Middle Earth",
+        "match_name": "Middle Earth",
+        "date": "2026-06-12T21:00:00Z",
+        "url": "https://open.spotify.com/artist/1irxQbIL2HDhLtoTGpwUn9",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "1cfwUSXEE2axXJGQfnfVFH",
+        "term": "Sage Armstrong",
+        "match_name": "Sage Armstrong",
+        "date": "2026-06-12T21:00:00Z",
+        "url": "https://open.spotify.com/artist/1cfwUSXEE2axXJGQfnfVFH",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "3aVwMOKrvddg25nHGoJ28W",
+        "term": "Viskus",
+        "match_name": "Viskus",
+        "date": "2026-06-12T21:00:00Z",
+        "url": "https://open.spotify.com/artist/3aVwMOKrvddg25nHGoJ28W",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "2VRhuF4DnwQMbVFagUbP5W",
+        "term": "Mousai",
+        "match_name": "Mousai",
+        "date": "2026-06-12T21:00:00Z",
+        "url": "https://open.spotify.com/artist/2VRhuF4DnwQMbVFagUbP5W",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "4Ec8xHeL5O3aydabXKZkCR",
+        "term": "Flapjack",
+        "match_name": "flapjack",
+        "date": "2026-06-12T21:00:00Z",
+        "url": "https://open.spotify.com/artist/4Ec8xHeL5O3aydabXKZkCR",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "3kbH7TP2VKCfaCGywM0Lb3",
+        "term": "Sanzu",
+        "match_name": "Sanzu",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3kbH7TP2VKCfaCGywM0Lb3",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "1N9n8MSxrr4Emhb566493b",
+        "term": "Morgan Page",
+        "match_name": "Morgan Page",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b",
+        "followers": null,
+        "popularity": 7,
+        "city": "Denver"
+    },
+    {
+        "id": "3kbH7TP2VKCfaCGywM0Lb3",
+        "term": "Sanzu",
+        "match_name": "Sanzu",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3kbH7TP2VKCfaCGywM0Lb3",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "7FZKXzbyCoai0fEh65kZKp",
+        "term": "Codeko",
+        "match_name": "Codeko",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp",
+        "followers": null,
+        "popularity": 5,
+        "city": "Denver"
+    },
+    {
+        "id": "1N9n8MSxrr4Emhb566493b",
+        "term": "Morgan Page",
+        "match_name": "Morgan Page",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b",
+        "followers": null,
+        "popularity": 7,
+        "city": "Denver"
+    },
+    {
+        "id": "7FZKXzbyCoai0fEh65kZKp",
+        "term": "Codeko",
+        "match_name": "Codeko",
+        "date": "2026-06-12T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp",
+        "followers": null,
+        "popularity": 5,
+        "city": "Denver"
+    },
+    {
+        "id": "64KfnYe81Wld2AkG4bkGIV",
+        "term": "Gabriel & Dresden",
+        "match_name": "Gabriel & Dresden",
+        "date": "2026-06-13T16:00:00Z",
+        "url": "https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV",
+        "followers": null,
+        "popularity": 7,
+        "city": "Denver"
+    },
+    {
+        "id": "6BrvowZBreEkXzJQMpL174",
+        "term": "Hardwell",
+        "match_name": "Hardwell",
+        "date": "2026-06-13T17:00:00Z",
+        "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174",
+        "followers": null,
+        "popularity": 9,
+        "city": "Denver"
+    },
+    {
+        "id": "1CLLPNftraxuTDyTd6hn3J",
+        "term": "Sunsquabi",
+        "match_name": "SunSquabi",
+        "date": "2026-06-13T18:00:00Z",
+        "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "1CXuuw8HJhyN80HlNzvL1e",
+        "term": "Sullivan King",
+        "match_name": "Sullivan King",
+        "date": "2026-06-13T19:00:00Z",
+        "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e",
+        "followers": null,
+        "popularity": 6,
+        "city": "Denver"
+    },
+    {
+        "id": "3ke2GnEqLKvhIYrtaRY24x",
+        "term": "SIDEQUEST",
+        "match_name": "SIDEQUEST",
+        "date": "2026-06-13T19:00:00Z",
+        "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "0ILzznvRwQsrGX7BsaDer0",
+        "term": "Skilah",
+        "match_name": "SKILAH",
+        "date": "2026-06-13T19:00:00Z",
+        "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "4MgxKih2gf4BgMkPVOfvrn",
+        "term": "Mr Tout Le Monde",
+        "match_name": "MR TOUT LE MONDE",
+        "date": "2026-06-13T19:00:00Z",
+        "url": "https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "27gtK7m9vYwCyJ04zz0kIb",
+        "term": "Lane 8",
+        "match_name": "Lane 8",
+        "date": "2026-06-13T20:00:00Z",
+        "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "5zaSiNpGxS2lOvZTIZiOQX",
+        "term": "Racing Mount Pleasant",
+        "match_name": "Racing Mount Pleasant",
+        "date": "2026-06-13T20:00:00Z",
+        "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX",
+        "followers": null,
+        "popularity": 1,
+        "city": "Denver"
+    },
+    {
+        "id": "5POUA3KoQ9Y20hzBuikqim",
+        "term": "Shiverz",
+        "match_name": "SHIVERZ",
+        "date": "2026-06-13T20:00:00Z",
+        "url": "https://open.spotify.com/artist/5POUA3KoQ9Y20hzBuikqim",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "3rAYV4XqgcoWzBY782bhDg",
+        "term": "Akirah",
+        "match_name": "AKIRAH",
+        "date": "2026-06-13T20:00:00Z",
+        "url": "https://open.spotify.com/artist/3rAYV4XqgcoWzBY782bhDg",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "1SmcVs1Kj8P4OT2D8uIiMx",
+        "term": "Bommer",
+        "match_name": "Bommer",
+        "date": "2026-06-13T20:00:00Z",
+        "url": "https://open.spotify.com/artist/1SmcVs1Kj8P4OT2D8uIiMx",
+        "followers": null,
+        "popularity": 3,
+        "city": "Denver"
+    },
+    {
+        "id": "5bcriaD6a4mOYI2Bqr0yh2",
+        "term": "Harmonee",
+        "match_name": "Harmonee",
+        "date": "2026-06-13T20:00:00Z",
+        "url": "https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "3HqP3nd8WI0VfHRhApPlan",
+        "term": "Trinix",
+        "match_name": "Trinix",
+        "date": "2026-06-13T20:00:00Z",
+        "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan",
+        "followers": null,
+        "popularity": 5,
+        "city": "Denver"
+    },
+    {
+        "id": "6Un27f1TcYPd6AGEIJPqiK",
+        "term": "Zoa",
+        "match_name": "ZOA",
+        "date": "2026-06-13T20:00:00Z",
+        "url": "https://open.spotify.com/artist/6Un27f1TcYPd6AGEIJPqiK",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    },
+    {
+        "id": "0c3I7EPZUCCG7khbUwQDjl",
+        "term": "Airwolf Paradise",
+        "match_name": "Airwolf Paradise",
+        "date": "2026-06-13T21:00:00Z",
+        "url": "https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl",
+        "followers": null,
+        "popularity": 5,
+        "city": "Denver"
+    },
+    {
+        "id": "2M2blWl1LBN2UoxlJdaug2",
+        "term": "Lsdxoxo",
+        "match_name": "LSDXOXO",
+        "date": "2026-06-13T21:00:00Z",
+        "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "6kf69CwzgodrETRgzcjX95",
+        "term": "Bambii",
+        "match_name": "BAMBII",
+        "date": "2026-06-13T21:00:00Z",
+        "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95",
+        "followers": null,
+        "popularity": 4,
+        "city": "Denver"
+    },
+    {
+        "id": "3TnlUNMMrwW2IYrlBDTygL",
+        "term": "DJ G2g",
+        "match_name": "dj g2g",
+        "date": "2026-06-13T21:00:00Z",
+        "url": "https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL",
+        "followers": null,
+        "popularity": 2,
+        "city": "Denver"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "id": "2UNRA1UPYgKEAMRuDbjYRj",
+        "term": "In Transit",
+        "match_name": "In Transit",
+        "date": "2026-06-30T19:00:00Z",
+        "url": "https://open.spotify.com/artist/2UNRA1UPYgKEAMRuDbjYRj",
+        "followers": null,
+        "popularity": 2,
+        "city": "Detroit"
+    },
+    {
+        "id": "3oaDTgbqyov4gA7eB88QL3",
+        "term": "Sean Blackman",
+        "match_name": "Sean Blackman",
+        "date": "2026-06-30T19:00:00Z",
+        "url": "https://open.spotify.com/artist/3oaDTgbqyov4gA7eB88QL3",
+        "followers": null,
+        "popularity": 2,
+        "city": "Detroit"
+    },
+    {
+        "id": "0lzGqksyREdfUObGjLYLcT",
+        "term": "Edgehill",
+        "match_name": "Edgehill",
+        "date": "2026-07-01T19:00:00Z",
+        "url": "https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT",
+        "followers": null,
+        "popularity": 2,
+        "city": "Detroit"
+    },
+    {
+        "id": "2dglHo0mT04lzQx0HgDCOp",
+        "term": "Kozy",
+        "match_name": "KOZY",
+        "date": "2026-07-03T19:00:00Z",
+        "url": "https://open.spotify.com/artist/2dglHo0mT04lzQx0HgDCOp",
+        "followers": null,
+        "popularity": 2,
+        "city": "Detroit"
+    },
+    {
+        "id": "2CNxibbSxDNYzNiTrGjfDm",
+        "term": "Sonic Smut",
+        "match_name": "Sonic Smut",
+        "date": "2026-07-03T19:00:00Z",
+        "url": "https://open.spotify.com/artist/2CNxibbSxDNYzNiTrGjfDm",
+        "followers": null,
+        "popularity": 1,
+        "city": "Detroit"
+    },
+    {
+        "id": "6Q649xeAPhV3bTzN0vou38",
+        "term": "Saber Tooth Gary",
+        "match_name": "Saber Tooth Gary",
+        "date": "2026-07-03T19:00:00Z",
+        "url": "https://open.spotify.com/artist/6Q649xeAPhV3bTzN0vou38",
+        "followers": null,
+        "popularity": 1,
+        "city": "Detroit"
+    },
+    {
+        "id": "1yxgjoiYczfFDnh4YYp4t1",
+        "term": "G-Space",
+        "match_name": "G-Space",
+        "date": "2026-07-03T20:00:00Z",
+        "url": "https://open.spotify.com/artist/1yxgjoiYczfFDnh4YYp4t1",
+        "followers": null,
+        "popularity": 3,
+        "city": "Detroit"
+    },
+    {
+        "id": "0iomlqJw0ZTzkiiZXHzdWF",
+        "term": "BURNSUN",
+        "match_name": "burnsun",
+        "date": "2026-07-03T20:00:00Z",
+        "url": "https://open.spotify.com/artist/0iomlqJw0ZTzkiiZXHzdWF",
+        "followers": null,
+        "popularity": 2,
+        "city": "Detroit"
+    },
+    {
+        "id": "0NznnEmGCRqungT5a57GG3",
+        "term": "Simon Doty",
+        "match_name": "Simon Doty",
+        "date": "2026-07-04T21:00:00Z",
+        "url": "https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3",
+        "followers": null,
+        "popularity": 4,
+        "city": "Detroit"
+    },
+    {
+        "id": "4TUSDCo5ZbyRXx2lSBxkxQ",
+        "term": "Spectro",
+        "match_name": "spectro",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4TUSDCo5ZbyRXx2lSBxkxQ",
+        "followers": null,
+        "popularity": 2,
+        "city": "Detroit"
+    },
+    {
+        "id": "2uBhW5AB2hbxudUIjXcjRj",
+        "term": "Blakito",
+        "match_name": "Blakito",
+        "date": "2026-07-04T22:00:00Z",
+        "url": "https://open.spotify.com/artist/2uBhW5AB2hbxudUIjXcjRj",
+        "followers": null,
+        "popularity": 2,
+        "city": "Detroit"
+    }
+]

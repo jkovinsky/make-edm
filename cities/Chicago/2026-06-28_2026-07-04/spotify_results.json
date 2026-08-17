@@ -1,0 +1,332 @@
+[
+    {
+        "id": "42wIjlDNw2UInIgEV5ZWdx",
+        "term": "Alcove",
+        "match_name": "Alcove",
+        "date": "2026-07-01T00:00:00Z",
+        "url": "https://open.spotify.com/artist/42wIjlDNw2UInIgEV5ZWdx",
+        "followers": null,
+        "popularity": 2,
+        "city": "Chicago"
+    },
+    {
+        "id": "7uvIq9N8vyyVdXDIKGSlR1",
+        "term": "Lo!",
+        "match_name": "Lo!",
+        "date": "2026-07-01T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7uvIq9N8vyyVdXDIKGSlR1",
+        "followers": null,
+        "popularity": 2,
+        "city": "Chicago"
+    },
+    {
+        "id": "60H27U2BjBFVoAY3kaHvy6",
+        "term": "The Treetops",
+        "match_name": "The Treetops",
+        "date": "2026-07-02T00:00:00Z",
+        "url": "https://open.spotify.com/artist/60H27U2BjBFVoAY3kaHvy6",
+        "followers": null,
+        "popularity": 2,
+        "city": "Chicago"
+    },
+    {
+        "id": "2kEcmBbAzOF8mm8NExrJLm",
+        "term": "6speed",
+        "match_name": "6SPEED",
+        "date": "2026-07-02T20:00:00Z",
+        "url": "https://open.spotify.com/artist/2kEcmBbAzOF8mm8NExrJLm",
+        "followers": null,
+        "popularity": 2,
+        "city": "Chicago"
+    },
+    {
+        "id": "6nxM5Np3w4GcolhSowdXyh",
+        "term": "Girl 2000",
+        "match_name": "Girl 2000",
+        "date": "2026-07-02T20:00:00Z",
+        "url": "https://open.spotify.com/artist/6nxM5Np3w4GcolhSowdXyh",
+        "followers": null,
+        "popularity": 1,
+        "city": "Chicago"
+    },
+    {
+        "id": "0c5584rnmlOvkMpJtpBLTh",
+        "term": "Ralphi Rosario",
+        "match_name": "Ralphi Rosario",
+        "date": "2026-07-02T20:00:00Z",
+        "url": "https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh",
+        "followers": null,
+        "popularity": 7,
+        "city": "Chicago"
+    },
+    {
+        "id": "7BFWNTcqqibf1TP0hAHSdu",
+        "term": "Terry Hunter",
+        "match_name": "Terry Hunter",
+        "date": "2026-07-02T20:00:00Z",
+        "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu",
+        "followers": null,
+        "popularity": 5,
+        "city": "Chicago"
+    },
+    {
+        "id": "27gtK7m9vYwCyJ04zz0kIb",
+        "term": "Lane 8",
+        "match_name": "Lane 8",
+        "date": "2026-07-03T00:00:00Z",
+        "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb",
+        "followers": null,
+        "popularity": 4,
+        "city": "Chicago"
+    },
+    {
+        "id": "14Tg9FvbNismPR1PJHxRau",
+        "term": "Sultan + Shepard",
+        "match_name": "Sultan + Shepard",
+        "date": "2026-07-03T00:00:00Z",
+        "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau",
+        "followers": null,
+        "popularity": 4,
+        "city": "Chicago"
+    },
+    {
+        "id": "3FOgzF7M25ZYbsEb7FpWxR",
+        "term": "Soraya",
+        "match_name": "Soraya",
+        "date": "2026-07-03T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3FOgzF7M25ZYbsEb7FpWxR",
+        "followers": null,
+        "popularity": 2,
+        "city": "Chicago"
+    },
+    {
+        "id": "46WYEQ3UqUvFO3FZNSFY33",
+        "term": "Swesdo",
+        "match_name": "Swesdo",
+        "date": "2026-07-03T18:00:00Z",
+        "url": "https://open.spotify.com/artist/46WYEQ3UqUvFO3FZNSFY33",
+        "followers": null,
+        "popularity": 1,
+        "city": "Chicago"
+    },
+    {
+        "id": "6kDrYhgzsmoiuwHbzWgA41",
+        "term": "Water Spirit",
+        "match_name": "Water Spirit",
+        "date": "2026-07-03T20:00:00Z",
+        "url": "https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41",
+        "followers": null,
+        "popularity": 1,
+        "city": "Chicago"
+    },
+    {
+        "id": "4GqwbyPsSqpDHSNtjZ1Uqz",
+        "term": "Club 90s",
+        "match_name": "Club 90s",
+        "date": "2026-07-03T20:30:00Z",
+        "url": "https://open.spotify.com/artist/4GqwbyPsSqpDHSNtjZ1Uqz",
+        "followers": null,
+        "popularity": 2,
+        "city": "Chicago"
+    },
+    {
+        "id": "3lSqMCuyfqugFoibdOCeZo",
+        "term": "Sonido Gallo Negro",
+        "match_name": "Sonido Gallo Negro",
+        "date": "2026-07-03T21:00:00Z",
+        "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo",
+        "followers": null,
+        "popularity": 3,
+        "city": "Chicago"
+    },
+    {
+        "id": "4aDkl7PfS8ZrelFQefsbMB",
+        "term": "Ozetta",
+        "match_name": "Ozetta",
+        "date": "2026-07-03T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4aDkl7PfS8ZrelFQefsbMB",
+        "followers": null,
+        "popularity": 2,
+        "city": "Chicago"
+    },
+    {
+        "id": "310IX3ZzFSl14ZvY2dM8Da",
+        "term": "Silver Panda",
+        "match_name": "Silver Panda",
+        "date": "2026-07-03T00:00:00Z",
+        "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da",
+        "followers": null,
+        "popularity": 4,
+        "city": "Chicago"
+    },
+    {
+        "id": "14Tg9FvbNismPR1PJHxRau",
+        "term": "Sultan + Shepard",
+        "match_name": "Sultan + Shepard",
+        "date": "2026-07-03T22:00:00Z",
+        "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau",
+        "followers": null,
+        "popularity": 5,
+        "city": "Chicago"
+    },
+    {
+        "id": "49Zm4OzK2RcWyrMLSU59ht",
+        "term": "Darco",
+        "match_name": "Darco",
+        "date": "2026-07-03T00:00:00Z",
+        "url": "https://open.spotify.com/artist/49Zm4OzK2RcWyrMLSU59ht",
+        "followers": null,
+        "popularity": 2,
+        "city": "Chicago"
+    },
+    {
+        "id": "4HB4HMb00fcLxDjyddIqIU",
+        "term": "Strange Attractors",
+        "match_name": "Strange Attractors",
+        "date": "2026-07-03T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4HB4HMb00fcLxDjyddIqIU",
+        "followers": null,
+        "popularity": 2,
+        "city": "Chicago"
+    },
+    {
+        "id": "7vXDAI8JwjW531ouMGbfcp",
+        "term": "Tini",
+        "match_name": "TINI",
+        "date": "2026-07-04T15:00:00Z",
+        "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp",
+        "followers": null,
+        "popularity": 6,
+        "city": "Chicago"
+    },
+    {
+        "id": "3zW0xazqnHoq9QV9zBROVC",
+        "term": "It's murph",
+        "match_name": "it's murph",
+        "date": "2026-07-04T16:00:00Z",
+        "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC",
+        "followers": null,
+        "popularity": 5,
+        "city": "Chicago"
+    },
+    {
+        "id": "3cQA9WH8liZfeja1DxcDYE",
+        "term": "Armand Van Helden",
+        "match_name": "Armand Van Helden",
+        "date": "2026-07-04T16:00:00Z",
+        "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE",
+        "followers": null,
+        "popularity": 9,
+        "city": "Chicago"
+    },
+    {
+        "id": "052B9SONfhoScw7dgYWw5o",
+        "term": "Biscits",
+        "match_name": "Biscits",
+        "date": "2026-07-04T16:00:00Z",
+        "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o",
+        "followers": null,
+        "popularity": 6,
+        "city": "Chicago"
+    },
+    {
+        "id": "2Vo5ahfmRBxmmuoykyuQ3V",
+        "term": "Dabura",
+        "match_name": "Dabura",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/2Vo5ahfmRBxmmuoykyuQ3V",
+        "followers": null,
+        "popularity": 2,
+        "city": "Chicago"
+    },
+    {
+        "id": "4YGHigAL8XpFShAbuVMGcS",
+        "term": "DJ Mauricio",
+        "match_name": "DJ Mauricio",
+        "date": "2026-07-04T20:00:00Z",
+        "url": "https://open.spotify.com/artist/4YGHigAL8XpFShAbuVMGcS",
+        "followers": null,
+        "popularity": 1,
+        "city": "Chicago"
+    },
+    {
+        "id": "3iDD7bnsjL9J4fO298r0L0",
+        "term": "Chicago",
+        "match_name": "Chicago",
+        "date": "2026-07-04T21:00:00Z",
+        "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0",
+        "followers": null,
+        "popularity": 8,
+        "city": "Chicago"
+    },
+    {
+        "id": "3zW0xazqnHoq9QV9zBROVC",
+        "term": "It's Murph",
+        "match_name": "it's murph",
+        "date": "2026-07-04T22:00:00Z",
+        "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC",
+        "followers": null,
+        "popularity": 5,
+        "city": "Chicago"
+    },
+    {
+        "id": "3gSVZTpmVW2JKzngOCDXkd",
+        "term": "Kander",
+        "match_name": "Kander",
+        "date": "2026-07-04T22:00:00Z",
+        "url": "https://open.spotify.com/artist/3gSVZTpmVW2JKzngOCDXkd",
+        "followers": null,
+        "popularity": 3,
+        "city": "Chicago"
+    },
+    {
+        "id": "21A7bhIL1m6CNZn8y57PIZ",
+        "term": "Reinier Zonneveld",
+        "match_name": "Reinier Zonneveld",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ",
+        "followers": null,
+        "popularity": 7,
+        "city": "Chicago"
+    },
+    {
+        "id": "76QDPko0o5WnfWm5ztzb81",
+        "term": "DJ Hyperactive",
+        "match_name": "DJ Hyperactive",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/76QDPko0o5WnfWm5ztzb81",
+        "followers": null,
+        "popularity": 3,
+        "city": "Chicago"
+    },
+    {
+        "id": "27wLSbqUVbIGsG4Ahbl1I2",
+        "term": "Dunes Of Dawn",
+        "match_name": "Dunes of Dawn",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/27wLSbqUVbIGsG4Ahbl1I2",
+        "followers": null,
+        "popularity": 2,
+        "city": "Chicago"
+    },
+    {
+        "id": "7Hr9bE0u9Rl5n6QahVNRnc",
+        "term": "Shiba San",
+        "match_name": "Shiba San",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc",
+        "followers": null,
+        "popularity": 6,
+        "city": "Chicago"
+    },
+    {
+        "id": "1Xv1qZHJ1hnRlWHRTZ3uci",
+        "term": "Danny Avila",
+        "match_name": "DANNY AVILA",
+        "date": "2026-07-04T23:00:00Z",
+        "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci",
+        "followers": null,
+        "popularity": 7,
+        "city": "Chicago"
+    }
+]

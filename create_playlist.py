@@ -17,6 +17,8 @@ API_BASE_URL = 'https://api.spotify.com/v1'
 parser = argparse.ArgumentParser()
 parser.add_argument('--city', required=True, help='City name (e.g. "Los Angeles")')
 parser.add_argument('--week', required=True, help='Week range folder (e.g. "2026-05-25_2026-05-31")')
+parser.add_argument('--is_day', action='store_true', default=False, help='Indicate that the input is a specific day rather than a range')
+parser.add_argument('--event_name', action='store_true', default=False, help='Indicate the name of the event')
 args, _ = parser.parse_known_args()
 
 DATA_DIR = os.path.join('cities', args.city, args.week)
@@ -113,11 +115,14 @@ def create_playlist():
         'Content-Type' : "application/json"
     }
 
-    start_date, end_date = args.week.split('_')
-
+    if args.is_day:
+        start_date, end_date = args.week.split('_')
+        name = f"{args.city} EDM: {start_date} - {end_date}"
+    else:
+        date = args.week
+        start_date, end_date = date, date
+        name = f"{args.event_name}: {date}"
     
-
-    name = f"{args.city} EDM: {start_date} - {end_date}"
     description = f"A few songs from artists performing in {args.city} this week, discovered via 19hz"
     body = {
         "name" : name,
@@ -142,12 +147,12 @@ def create_playlist():
         writer.writerow(playlist_data)
 
 
-    body = {
-        "uris" : tracks
-    }
-    response = requests.post(API_BASE_URL + f'/playlists/{playlist_id}/items', headers=headers, json=body).json()
-    
-    return jsonify(response)
+    responses = []
+    for i in range(0, len(tracks), 50):
+        body = {"uris": tracks[i:i+50]}
+        responses.append(requests.post(API_BASE_URL + f'/playlists/{playlist_id}/items', headers=headers, json=body).json())
+
+    return jsonify(responses)
 
 
 if __name__ == '__main__':

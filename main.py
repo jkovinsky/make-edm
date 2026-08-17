@@ -29,6 +29,8 @@ CITIES = {
     "Phoenix":                f"{BASE}/eventlisting_Phoenix.php",
     "Portland/Oregon":        f"{BASE}/eventlisting_ORE.php",
     "Vancouver":              f"{BASE}/eventlisting_BC.php",
+    "Events/Outside-Lands": None,
+    "Events/Portola": None,
 }
 def is_this_week(date_str: str) -> bool:
     try:
@@ -41,13 +43,19 @@ def is_this_week(date_str: str) -> bool:
         return False
 
 
-def main(no_wait, skip_to, wait):
-    today = datetime.now()
-    start_of_week = today - timedelta(days=(today.weekday() + 1) % 7)
-    end_of_week = start_of_week + timedelta(days=6)
-    print(f"Week: {start_of_week.strftime('%Y-%m-%d')} (Sun) – {end_of_week.strftime('%Y-%m-%d')} (Sat)\n")
+def main(no_wait, skip_to, wait, ignore_this_week, is_event, day):
+    if not day:
+        today = datetime.now()
+        start_of_week = today - timedelta(days=(today.weekday() + 1) % 7)
+        end_of_week = start_of_week + timedelta(days=6)
+        print(f"Week: {start_of_week.strftime('%Y-%m-%d')} (Sun) – {end_of_week.strftime('%Y-%m-%d')} (Sat)\n")
+        week_range = f"{start_of_week.strftime('%Y-%m-%d')}_{end_of_week.strftime('%Y-%m-%d')}"
 
-    week_range = f"{start_of_week.strftime('%Y-%m-%d')}_{end_of_week.strftime('%Y-%m-%d')}"
+    else:
+        day_date = datetime.strptime(day, "%Y-%m-%d")
+        print(f"Day: {day_date.strftime('%Y-%m-%d')}\n")
+        week_range = f"{day_date.strftime('%Y-%m-%d')}"
+
     all_results = []
 
     cities = list(CITIES.items())
@@ -68,26 +76,37 @@ def main(no_wait, skip_to, wait):
                 this_week = json.load(f)
         else:
             # 1. Scrape events
-            print("  Scraping events...")
-            events = get_page.events(url)
-            print(f"  {len(events)} events found.")
+            if url:
+                print("  Scraping events...")
+                events = get_page.events(url)
+                print(f"  {len(events)} events found.")
 
             # 2. Parse artists + dates via Gemini batch
-            print("  Parsing artists with LLM...")
-            structured = llm.parse_artist(events, output_dir)
-            print(f"  {len(structured)} events parsed.")
+            if url:
+                print("  Parsing artists with LLM...")
+                structured = llm.parse_artist(events, output_dir)
+                print(f"  {len(structured)} events parsed.")
+            else: 
+                print("  No URL provided for this city, skipping scraping and parsing. Probably an event.")
+                with open(os.path.join(output_dir, 'candidates.json'), 'r') as f:
+                    structured = json.load(f)
 
             # 3. Filter to this week
             
             # this_week = [item for item in structured if item is not None and is_this_week(item[0].get('date', ''))]
             this_week = []
-            for item in structured:
-                # check if empty
-                if item:
-                    date = item[0].get('date', '')
-                    if is_this_week(date):
+            if not ignore_this_week:
+                for item in structured:
+                    # check if empty
+                    if item:
+                        date = item[0].get('date', '')
+                        if is_this_week(date):
+                            this_week.append(item)
+            ### fix later
+            else:
+                for item in structured:
+                    if item:
                         this_week.append(item)
-
             print(f"  {len(this_week)} events this week.")
             with open(os.path.join(output_dir, 'this_week.json'), 'w') as f:
                 json.dump(this_week, f, indent=4)
@@ -103,6 +122,7 @@ def main(no_wait, skip_to, wait):
         else:
             token = spotify.ensure_token()
             print("  Searching Spotify...")
+            print(this_week)
             results = spotify.search_artists(this_week, token)
             print(f"  {len(results)} artists matched.")
 
@@ -112,7 +132,7 @@ def main(no_wait, skip_to, wait):
             print("  Ranking cache hit — skipping ranking.")
         else:
             print("  Ranking artists...")
-            scores = rank_artist.rank_artists(results, output_dir)
+            scores = rank_artist.rank_artists(results, output_dir, is_event=is_event)
             for artist, score in zip(results, scores):
                 if score is not None:
                     artist['popularity'] = score.get('score')
@@ -121,10 +141,10 @@ def main(no_wait, skip_to, wait):
 
             with open(spotify_results_path, 'w') as f:
                 json.dump(results, f, indent=4)
-
-        print("  Waiting 3 minutes before fetching tracks to avoid Spotify rate limits...")
-        time.sleep(180)  # to avoid hitting rate limits on Spotify API
-        print("  done.")
+        if not no_wait:
+            print("  Waiting 3 minutes before fetching tracks to avoid Spotify rate limits...")
+            time.sleep(180)  # to avoid hitting rate limits on Spotify API
+            print("  done.")
         # 6. Fetch tracks per artist (count based on score)
         tracks_path = os.path.join(output_dir, 'tracks_this_week.json')
         if os.path.exists(tracks_path):
@@ -152,5 +172,8 @@ if __name__ == "__main__":
     parser.add_argument('--no-wait', action='store_true', default=False, help='Skip the 1-hour wait between cities')
     parser.add_argument('--skip-to', type=int, default=None, help='Skip to a specific city index (0-based)')
     parser.add_argument('--wait-time', type=int, default=3600, help='Wait time in seconds between cities (default: 3600)')
+    parser.add_argument('--ignore-this-week', action='store_true', default=False, help='Ignore the "this week" filter')
+    parser.add_argument('--is-event', action='store_true', default=False, help='Indicate that the input is an event rather than a city')
+    parser.add_argument('--day', default=None, help='Indicate the day of the week to filter events (e.g., "2025-01-01")')
     args = parser.parse_args()
-    main(no_wait=args.no_wait, skip_to=args.skip_to, wait=args.wait_time)
+    main(no_wait=args.no_wait, skip_to=args.skip_to, wait=args.wait_time, ignore_this_week=args.ignore_this_week, is_event=args.is_event, day=args.day)

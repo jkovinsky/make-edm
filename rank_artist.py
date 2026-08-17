@@ -31,15 +31,31 @@ Score Range | What it Means | Examples
 Artist to rank: [INSERT EDM ARTIST NAME HERE]
 """
 
+PROMPT_EVENT = """
+Rank the given music artist on a scale of 1-10 based on the following schema:
+
+Score Range | What it Means | Examples
+8 - 10      | Global Superstars / Household Names
+5 - 7       | Mainstream Niche / Major Indie Acts
+3 - 4       | Cult Favorites / Subgenre Royalty
+1 - 2       | Underground / Local Scene
+
+Artist to rank: [INSERT CONCERT ARTIST NAME HERE]
+"""
+
 class Ranking(BaseModel):
     score: int = Field(description="The score of the artist, dj, or producer")
 
-def batch_requests(artists : list[dict]) -> list[dict]:
+def batch_requests(artists : list[dict], is_event: bool = False) -> list[dict]:
     try:
         inline_requests = []
         for i, artist in enumerate(artists):
+            if is_event:
+                prompt = PROMPT_EVENT.replace("[INSERT CONCERT ARTIST NAME HERE]", artist["match_name"])
+            else:
+                prompt = PROMPT.replace("[INSERT EDM ARTIST NAME HERE]", artist["match_name"])
             req = {
-                "contents": [{"parts": [{"text": PROMPT.replace("[INSERT EDM ARTIST NAME HERE]", artist["match_name"])}]}],
+                "contents": [{"parts": [{"text": prompt}]}],
                 'config': {
                     "response_mime_type": "application/json",
                     "response_schema": Ranking
@@ -67,7 +83,7 @@ def _sync_rank(client, inline_requests: list) -> list:
     return results
 
 
-def rank_artists(events: list[dict], output_dir: str = '.') -> list[dict]:
+def rank_artists(events: list[dict], output_dir: str = '.', is_event: bool = False) -> list[dict]:
     date_now = datetime.now().strftime("%Y-%m-%d")
     client = genai.Client(api_key=os.getenv("GOOGLE_GEMINI_API_KEY"))
     client_response = []
@@ -98,8 +114,8 @@ def rank_artists(events: list[dict], output_dir: str = '.') -> list[dict]:
             if batch_job_inline.state.name in ('JOB_STATE_SUCCEEDED', 'JOB_STATE_FAILED', 'JOB_STATE_CANCELLED', 'JOB_STATE_EXPIRED'):
                 print()
                 break
-            if time.time() - start_time > 900:
-                print("Batch job timed out after 15 minutes. Cancelling and falling back to synchronous calls...")
+            if time.time() - start_time > 1800:
+                print("Batch job timed out after 30 minutes. Cancelling and falling back to synchronous calls...")
                 try:
                     client.batches.cancel(name=job_name)
                 except Exception as e:

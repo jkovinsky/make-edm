@@ -1,0 +1,132 @@
+[
+    {
+        "id": "2C2sVVXanbOpymYBMpsi89",
+        "term": "The Cab",
+        "match_name": "The Cab",
+        "date": "2026-06-30T00:00:00Z",
+        "url": "https://open.spotify.com/artist/2C2sVVXanbOpymYBMpsi89",
+        "followers": null,
+        "popularity": 1,
+        "city": "Massachusetts"
+    },
+    {
+        "id": "3WggbHDpj4rPKbL97zG5MQ",
+        "term": "Tortoise",
+        "match_name": "Tortoise",
+        "date": "2026-06-30T20:30:00Z",
+        "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ",
+        "followers": null,
+        "popularity": 3,
+        "city": "Massachusetts"
+    },
+    {
+        "id": "2YYwn6s9gQoT7SaPKJ1OeV",
+        "term": "Dave Portnoy",
+        "match_name": "Dave Portnoy",
+        "date": "2026-07-01T17:30:00Z",
+        "url": "https://open.spotify.com/artist/2YYwn6s9gQoT7SaPKJ1OeV",
+        "followers": null,
+        "popularity": 1,
+        "city": "Massachusetts"
+    },
+    {
+        "id": "07uYEzcM2ZbY0XacOINjUY",
+        "term": "Galactic Empire",
+        "match_name": "Galactic Empire",
+        "date": "2026-07-02T19:00:00Z",
+        "url": "https://open.spotify.com/artist/07uYEzcM2ZbY0XacOINjUY",
+        "followers": null,
+        "popularity": 3,
+        "city": "Massachusetts"
+    },
+    {
+        "id": "3nALc9PyUfe6CO3EY9bNhH",
+        "term": "Henry Fong",
+        "match_name": "Henry Fong",
+        "date": "2026-07-02T19:00:00Z",
+        "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH",
+        "followers": null,
+        "popularity": 6,
+        "city": "Massachusetts"
+    },
+    {
+        "id": "27gtK7m9vYwCyJ04zz0kIb",
+        "term": "Lane 8",
+        "match_name": "Lane 8",
+        "date": "2026-07-03T00:00:00Z",
+        "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb",
+        "followers": null,
+        "popularity": 4,
+        "city": "Massachusetts"
+    },
+    {
+        "id": "75Rm4IiIXUcj2Z8SYcXavu",
+        "term": "K1ra",
+        "match_name": "K1RA",
+        "date": "2026-07-03T20:00:00Z",
+        "url": "https://open.spotify.com/artist/75Rm4IiIXUcj2Z8SYcXavu",
+        "followers": null,
+        "popularity": 1,
+        "city": "Massachusetts"
+    },
+    {
+        "id": "44Ewva5aHOX00EwaX2D2mh",
+        "term": "Two Friends",
+        "match_name": "Two Friends",
+        "date": "2026-07-03T21:30:00Z",
+        "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh",
+        "followers": null,
+        "popularity": 6,
+        "city": "Massachusetts"
+    },
+    {
+        "id": "4qyn9rJr8xFVBM3fSyAhB9",
+        "term": "Bobby Lombardi",
+        "match_name": "Bobby Lombardi",
+        "date": "2026-07-03T22:00:00Z",
+        "url": "https://open.spotify.com/artist/4qyn9rJr8xFVBM3fSyAhB9",
+        "followers": null,
+        "popularity": 1,
+        "city": "Massachusetts"
+    },
+    {
+        "id": "49Zm4OzK2RcWyrMLSU59ht",
+        "term": "Darco",
+        "match_name": "Darco",
+        "date": "2026-07-03T00:00:00Z",
+        "url": "https://open.spotify.com/artist/49Zm4OzK2RcWyrMLSU59ht",
+        "followers": null,
+        "popularity": 2,
+        "city": "Massachusetts"
+    },
+    {
+        "id": "44Ewva5aHOX00EwaX2D2mh",
+        "term": "Two Friends",
+        "match_name": "Two Friends",
+        "date": "2026-07-03T22:30:00Z",
+        "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh",
+        "followers": null,
+        "popularity": 6,
+        "city": "Massachusetts"
+    },
+    {
+        "id": "3zW0xazqnHoq9QV9zBROVC",
+        "term": "It's Murph",
+        "match_name": "it's murph",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC",
+        "followers": null,
+        "popularity": 6,
+        "city": "Massachusetts"
+    },
+    {
+        "id": "3LZj3PvzCKWK86saCjhzWu",
+        "term": "Verona Rose",
+        "match_name": "Verona Rose",
+        "date": "2026-07-04T19:00:00Z",
+        "url": "https://open.spotify.com/artist/3LZj3PvzCKWK86saCjhzWu",
+        "followers": null,
+        "popularity": 2,
+        "city": "Massachusetts"
+    }
+]

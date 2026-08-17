@@ -1,0 +1,52 @@
+[
+    {
+        "id": "3JWjgH1ZySidQ0xo7hjEod",
+        "term": "Aych",
+        "match_name": "AYCH",
+        "date": "2026-07-24T20:00:00Z",
+        "url": "https://open.spotify.com/artist/3JWjgH1ZySidQ0xo7hjEod",
+        "followers": null,
+        "popularity": 2,
+        "city": "Phoenix"
+    },
+    {
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "term": "Bad Bunny",
+        "match_name": "Bad Bunny",
+        "date": "2026-07-24T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+        "followers": null,
+        "popularity": 10,
+        "city": "Phoenix"
+    },
+    {
+        "id": "0hprEC0nsWuQPSHag1O2Vi",
+        "term": "Gareth Emery",
+        "match_name": "Gareth Emery",
+        "date": "2026-07-24T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi",
+        "followers": null,
+        "popularity": 8,
+        "city": "Phoenix"
+    },
+    {
+        "id": "7IyxUmBgkkV4jh7kHoip34",
+        "term": "Hi I'm Ghost",
+        "match_name": "Hi I'm Ghost",
+        "date": "2026-07-24T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34",
+        "followers": null,
+        "popularity": 3,
+        "city": "Phoenix"
+    },
+    {
+        "id": "2wouN3QXejYa5tKetYdcVX",
+        "term": "Com Truise",
+        "match_name": "Com Truise",
+        "date": "2026-07-25T00:00:00Z",
+        "url": "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX",
+        "followers": null,
+        "popularity": 4,
+        "city": "Phoenix"
+    }
+]

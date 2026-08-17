@@ -1,0 +1,162 @@
+[
+    {
+        "id": "7HKUxdZeGZQHLE7vFG4Syr",
+        "term": "2charm",
+        "match_name": "2charm",
+        "date": "2026-06-30T19:00:00Z",
+        "url": "https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr",
+        "followers": null,
+        "popularity": 1,
+        "city": "Vancouver"
+    },
+    {
+        "id": "5ChF3i92IPZHduM7jN3dpg",
+        "term": "Nicky Romero",
+        "match_name": "Nicky Romero",
+        "date": "2026-06-30T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg",
+        "followers": null,
+        "popularity": 8,
+        "city": "Vancouver"
+    },
+    {
+        "id": "1CNO980Lk9CaBWBnM1MZXi",
+        "term": "Neon Steve",
+        "match_name": "Neon Steve",
+        "date": "2026-07-01T20:00:00Z",
+        "url": "https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi",
+        "followers": null,
+        "popularity": 5,
+        "city": "Vancouver"
+    },
+    {
+        "id": "24DO0PijjITGIEWsO8XaPs",
+        "term": "Nora En Pure",
+        "match_name": "Nora En Pure",
+        "date": "2026-07-02T20:00:00Z",
+        "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs",
+        "followers": null,
+        "popularity": 6,
+        "city": "Vancouver"
+    },
+    {
+        "id": "2RqrWplViWHSGLzlhmDcbt",
+        "term": "Yaeji",
+        "match_name": "Yaeji",
+        "date": "2026-07-02T21:00:00Z",
+        "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt",
+        "followers": null,
+        "popularity": 6,
+        "city": "Vancouver"
+    },
+    {
+        "id": "4sL9uMYCk8NDAhimqhVSlB",
+        "term": "Pacific Coliseum",
+        "match_name": "Pacific Coliseum",
+        "date": "2026-07-03T00:00:00Z",
+        "url": "https://open.spotify.com/artist/4sL9uMYCk8NDAhimqhVSlB",
+        "followers": null,
+        "popularity": 3,
+        "city": "Vancouver"
+    },
+    {
+        "id": "2pLp6DH9PNhzqvorK0wG1B",
+        "term": "Iron Kingdom",
+        "match_name": "Iron Kingdom",
+        "date": "2026-07-03T00:00:00Z",
+        "url": "https://open.spotify.com/artist/2pLp6DH9PNhzqvorK0wG1B",
+        "followers": null,
+        "popularity": 2,
+        "city": "Vancouver"
+    },
+    {
+        "id": "0Snjuiyen5LH5wXVJe6gN4",
+        "term": "Witchkiller",
+        "match_name": "Witchkiller",
+        "date": "2026-07-03T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0Snjuiyen5LH5wXVJe6gN4",
+        "followers": null,
+        "popularity": 2,
+        "city": "Vancouver"
+    },
+    {
+        "id": "3lMWHuHMujmxcqiARgu7Eu",
+        "term": "Max Ulis",
+        "match_name": "Max Ulis",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3lMWHuHMujmxcqiARgu7Eu",
+        "followers": null,
+        "popularity": 3,
+        "city": "Vancouver"
+    },
+    {
+        "id": "408Nax7pEwDlDEnQK6tyqa",
+        "term": "The Ryze",
+        "match_name": "The Ryze",
+        "date": "2026-07-04T18:00:00Z",
+        "url": "https://open.spotify.com/artist/408Nax7pEwDlDEnQK6tyqa",
+        "followers": null,
+        "popularity": 2,
+        "city": "Vancouver"
+    },
+    {
+        "id": "1Tw87xR7p102yY4fqusZzq",
+        "term": "Prado Monroe",
+        "match_name": "Prado Monroe",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq",
+        "followers": null,
+        "popularity": 2,
+        "city": "Vancouver"
+    },
+    {
+        "id": "68KFHlDFncH62HCfIdH2tj",
+        "term": "Zdbt",
+        "match_name": "ZDBT",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj",
+        "followers": null,
+        "popularity": 2,
+        "city": "Vancouver"
+    },
+    {
+        "id": "3mVwDyQRNVMy3ZNuTabf6f",
+        "term": "Champagne Drip",
+        "match_name": "Champagne Drip",
+        "date": "2026-07-04T22:00:00Z",
+        "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f",
+        "followers": null,
+        "popularity": 4,
+        "city": "Vancouver"
+    },
+    {
+        "id": "1U1PHf5rTv2RQdnrSG4h32",
+        "term": "Autokinetic",
+        "match_name": "Autokinetic",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1U1PHf5rTv2RQdnrSG4h32",
+        "followers": null,
+        "popularity": 2,
+        "city": "Vancouver"
+    },
+    {
+        "id": "5QesyvD6sLZNr7KsMufQVv",
+        "term": "DJ Hockey",
+        "match_name": "DJ Hockey",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5QesyvD6sLZNr7KsMufQVv",
+        "followers": null,
+        "popularity": 1,
+        "city": "Vancouver"
+    },
+    {
+        "id": "1S6IJ0UN8amjdRjAxjDAod",
+        "term": "Untorn",
+        "match_name": "Untorn",
+        "date": "2026-07-04T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1S6IJ0UN8amjdRjAxjDAod",
+        "followers": null,
+        "popularity": 1,
+        "city": "Vancouver"
+    }
+]

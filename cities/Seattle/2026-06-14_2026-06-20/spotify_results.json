@@ -1,0 +1,342 @@
+[
+    {
+        "id": "1TvzGkICd4bRX1LijszDJC",
+        "term": "Idbh",
+        "match_name": "IDBH",
+        "date": "2026-06-15T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1TvzGkICd4bRX1LijszDJC",
+        "followers": null,
+        "popularity": 1,
+        "city": "Seattle"
+    },
+    {
+        "id": "3jGb7arzTAhzpMScF7BgDI",
+        "term": "Crunk Witch",
+        "match_name": "Crunk Witch",
+        "date": "2026-06-17T20:00:00Z",
+        "url": "https://open.spotify.com/artist/3jGb7arzTAhzpMScF7BgDI",
+        "followers": null,
+        "popularity": 3,
+        "city": "Seattle"
+    },
+    {
+        "id": "3G0rozJPUigut63laX2W7Q",
+        "term": "Shubzilla",
+        "match_name": "Shubzilla",
+        "date": "2026-06-17T20:00:00Z",
+        "url": "https://open.spotify.com/artist/3G0rozJPUigut63laX2W7Q",
+        "followers": null,
+        "popularity": 3,
+        "city": "Seattle"
+    },
+    {
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "term": "Daft Punk",
+        "match_name": "Daft Punk",
+        "date": "2026-06-17T20:00:00Z",
+        "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi",
+        "followers": null,
+        "popularity": 10,
+        "city": "Seattle"
+    },
+    {
+        "id": "7lz52Oe1rAo5DwfSRwFsQL",
+        "term": "Ragie Ban",
+        "match_name": "Ragie Ban",
+        "date": "2026-06-17T21:00:00Z",
+        "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL",
+        "followers": null,
+        "popularity": 1,
+        "city": "Seattle"
+    },
+    {
+        "id": "7ruzUKokMZ5Nr8J4L7QF6Z",
+        "term": "PORTYL",
+        "match_name": "Portyl",
+        "date": "2026-06-18T19:00:00Z",
+        "url": "https://open.spotify.com/artist/7ruzUKokMZ5Nr8J4L7QF6Z",
+        "followers": null,
+        "popularity": 1,
+        "city": "Seattle"
+    },
+    {
+        "id": "1ZWPMZCohbM9qkAopMRZGJ",
+        "term": "Yellowtael",
+        "match_name": "Yellowtael",
+        "date": "2026-06-18T19:00:00Z",
+        "url": "https://open.spotify.com/artist/1ZWPMZCohbM9qkAopMRZGJ",
+        "followers": null,
+        "popularity": 2,
+        "city": "Seattle"
+    },
+    {
+        "id": "4MgxKih2gf4BgMkPVOfvrn",
+        "term": "Mr Tout Le Monde",
+        "match_name": "MR TOUT LE MONDE",
+        "date": "2026-06-18T19:00:00Z",
+        "url": "https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn",
+        "followers": null,
+        "popularity": 3,
+        "city": "Seattle"
+    },
+    {
+        "id": "7cth197sVlUbeQXfArKhlj",
+        "term": "Shvili",
+        "match_name": "SHVILI",
+        "date": "2026-06-18T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7cth197sVlUbeQXfArKhlj",
+        "followers": null,
+        "popularity": 2,
+        "city": "Seattle"
+    },
+    {
+        "id": "5ziYFu1lQW2YmCe2ARWWx2",
+        "term": "Sky Rivers",
+        "match_name": "Sky Rivers",
+        "date": "2026-06-18T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5ziYFu1lQW2YmCe2ARWWx2",
+        "followers": null,
+        "popularity": 1,
+        "city": "Seattle"
+    },
+    {
+        "id": "54pgkpWVgQYbQXD8bkUP8n",
+        "term": "GG Magree",
+        "match_name": "GG Magree",
+        "date": "2026-06-18T20:30:00Z",
+        "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n",
+        "followers": null,
+        "popularity": 5,
+        "city": "Seattle"
+    },
+    {
+        "id": "1ChtRJ3f4rbv4vtz87i6CD",
+        "term": "Cassian",
+        "match_name": "Cassian",
+        "date": "2026-06-18T21:30:00Z",
+        "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD",
+        "followers": null,
+        "popularity": 5,
+        "city": "Seattle"
+    },
+    {
+        "id": "2AR42Ur9PcchQDtEdwkv4L",
+        "term": "Floating Points",
+        "match_name": "Floating Points",
+        "date": "2026-06-19T00:00:00Z",
+        "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L",
+        "followers": null,
+        "popularity": 4,
+        "city": "Seattle"
+    },
+    {
+        "id": "3HWMxHfbtrP3H39BnsquW8",
+        "term": "Manwell",
+        "match_name": "Manwell",
+        "date": "2026-06-19T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8",
+        "followers": null,
+        "popularity": 2,
+        "city": "Seattle"
+    },
+    {
+        "id": "1N9n8MSxrr4Emhb566493b",
+        "term": "Morgan Page",
+        "match_name": "Morgan Page",
+        "date": "2026-06-19T22:00:00Z",
+        "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b",
+        "followers": null,
+        "popularity": 7,
+        "city": "Seattle"
+    },
+    {
+        "id": "5MO2kbaGGA2a8kL4c9qqHq",
+        "term": "Paul Oakenfold",
+        "match_name": "Paul Oakenfold",
+        "date": "2026-06-19T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq",
+        "followers": null,
+        "popularity": 9,
+        "city": "Seattle"
+    },
+    {
+        "id": "5WWUkLXiAbmGwtELcfvB2w",
+        "term": "Genix",
+        "match_name": "Genix",
+        "date": "2026-06-19T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w",
+        "followers": null,
+        "popularity": 4,
+        "city": "Seattle"
+    },
+    {
+        "id": "0b4D8JhfYU970qE77UNKSg",
+        "term": "Bebi",
+        "match_name": "Bebi",
+        "date": "2026-06-19T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg",
+        "followers": null,
+        "popularity": 2,
+        "city": "Seattle"
+    },
+    {
+        "id": "1nENDESsLxsQ1SidkpThwZ",
+        "term": "Costa",
+        "match_name": "Costa",
+        "date": "2026-06-20T00:00:00Z",
+        "url": "https://open.spotify.com/artist/1nENDESsLxsQ1SidkpThwZ",
+        "followers": null,
+        "popularity": 2,
+        "city": "Seattle"
+    },
+    {
+        "id": "4Z8W4fKeB5YxbusRsdQVPb",
+        "term": "Radiohead",
+        "match_name": "Radiohead",
+        "date": "2026-06-20T18:00:00Z",
+        "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb",
+        "followers": null,
+        "popularity": 10,
+        "city": "Seattle"
+    },
+    {
+        "id": "75vCyksqhYjtt5VIpc8g7u",
+        "term": "DJ Diesel",
+        "match_name": "DJ DIESEL",
+        "date": "2026-06-20T19:00:00Z",
+        "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u",
+        "followers": null,
+        "popularity": 8,
+        "city": "Seattle"
+    },
+    {
+        "id": "5JQ1XqKJ2Art01rF4tu1Ra",
+        "term": "Daniel Allan",
+        "match_name": "Daniel Allan",
+        "date": "2026-06-20T20:00:00Z",
+        "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra",
+        "followers": null,
+        "popularity": 4,
+        "city": "Seattle"
+    },
+    {
+        "id": "7HzwopoMx3fCU05torGtgE",
+        "term": "Insison",
+        "match_name": "Insison",
+        "date": "2026-06-20T00:00:00Z",
+        "url": "https://open.spotify.com/artist/7HzwopoMx3fCU05torGtgE",
+        "followers": null,
+        "popularity": 1,
+        "city": "Seattle"
+    },
+    {
+        "id": "77uLXqHKG5n6UYMUr0b0e5",
+        "term": "Gee Lee",
+        "match_name": "GEE LEE",
+        "date": "2026-06-20T20:30:00Z",
+        "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5",
+        "followers": null,
+        "popularity": 1,
+        "city": "Seattle"
+    },
+    {
+        "id": "06QlaTvstsYIwoYJPe7LgY",
+        "term": "Sloane Motion",
+        "match_name": "Sloane Motion",
+        "date": "2026-06-20T20:30:00Z",
+        "url": "https://open.spotify.com/artist/06QlaTvstsYIwoYJPe7LgY",
+        "followers": null,
+        "popularity": 1,
+        "city": "Seattle"
+    },
+    {
+        "id": "3yeAenPW5DfjuousCOdek9",
+        "term": "Cheeks",
+        "match_name": "CHEEKS",
+        "date": "2026-06-20T20:30:00Z",
+        "url": "https://open.spotify.com/artist/3yeAenPW5DfjuousCOdek9",
+        "followers": null,
+        "popularity": 2,
+        "city": "Seattle"
+    },
+    {
+        "id": "1Rv2Pete1cFEKlDYk0hjWl",
+        "term": "Ciel",
+        "match_name": "Ciel",
+        "date": "2026-06-20T21:00:00Z",
+        "url": "https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl",
+        "followers": null,
+        "popularity": 3,
+        "city": "Seattle"
+    },
+    {
+        "id": "54m3plxbB6d8a0oIADRAgh",
+        "term": "Aleroj",
+        "match_name": "Aleroj",
+        "date": "2026-06-20T22:00:00Z",
+        "url": "https://open.spotify.com/artist/54m3plxbB6d8a0oIADRAgh",
+        "followers": null,
+        "popularity": 1,
+        "city": "Seattle"
+    },
+    {
+        "id": "0o5LchLFAlD8pgc6Alwicv",
+        "term": "Isablu",
+        "match_name": "Isablu",
+        "date": "2026-06-20T22:00:00Z",
+        "url": "https://open.spotify.com/artist/0o5LchLFAlD8pgc6Alwicv",
+        "followers": null,
+        "popularity": 2,
+        "city": "Seattle"
+    },
+    {
+        "id": "3fdFRgy3GmfiWQqeKbmFS8",
+        "term": "Mas Musiq",
+        "match_name": "Mas Musiq",
+        "date": "2026-06-20T00:00:00Z",
+        "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8",
+        "followers": null,
+        "popularity": 5,
+        "city": "Seattle"
+    },
+    {
+        "id": "65nasTOHBmMP0qoo6Xa245",
+        "term": "Skyla Tylaa",
+        "match_name": "Skyla Tylaa",
+        "date": "2026-06-20T00:00:00Z",
+        "url": "https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245",
+        "followers": null,
+        "popularity": 2,
+        "city": "Seattle"
+    },
+    {
+        "id": "3HWMxHfbtrP3H39BnsquW8",
+        "term": "Manwell",
+        "match_name": "Manwell",
+        "date": "2026-06-20T22:00:00Z",
+        "url": "https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8",
+        "followers": null,
+        "popularity": 2,
+        "city": "Seattle"
+    },
+    {
+        "id": "0bwcY7ojulsUgpiwikhmpA",
+        "term": "Supreme La Rock",
+        "match_name": "Supreme La Rock",
+        "date": "2026-06-20T00:00:00Z",
+        "url": "https://open.spotify.com/artist/0bwcY7ojulsUgpiwikhmpA",
+        "followers": null,
+        "popularity": 2,
+        "city": "Seattle"
+    },
+    {
+        "id": "5oAedOyLjuwoQTfqU8ZRQ9",
+        "term": "Flirty800",
+        "match_name": "flirty800",
+        "date": "2026-06-20T00:00:00Z",
+        "url": "https://open.spotify.com/artist/5oAedOyLjuwoQTfqU8ZRQ9",
+        "followers": null,
+        "popularity": 1,
+        "city": "Seattle"
+    }
+]
